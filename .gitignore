@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Raw API cache (processed CSVs are committed)
+data/raw/*
+!data/raw/.gitkeep
+
+# Environment / secrets
+.env
+
+# Power BI
+*.pbix.bak
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

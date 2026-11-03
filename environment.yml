@@ -1,0 +1,13 @@
+name: dsgt-sports-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - requests
+  - pandas
+  - ipykernel
+  - pytest
+  - ruff
+  - pip:
+      - -e .

@@ -1,0 +1,913 @@
+game_id,season,team_id,team,is_gt,player_id,player,jersey,position,starter,did_not_play,ejected,min,pts,fgm,fga,fg3m,fg3a,ftm,fta,oreb,dreb,reb,ast,stl,blk,tov,pf
+401820296,2026,2379,Maryland Eastern Shore,False,4873199,Maurice Vassel,22,F,True,False,False,9,2,1,1,0,0,0,0,1,1,2,1,1,1,0,2
+401820296,2026,2379,Maryland Eastern Shore,False,5314177,Levi Beckwith,24,SF,True,False,False,18,3,1,3,1,3,0,0,0,1,1,1,0,0,0,2
+401820296,2026,2379,Maryland Eastern Shore,False,5314171,Zion Obanla,1,G,True,False,False,18,4,2,4,0,0,0,1,1,2,3,0,1,0,1,3
+401820296,2026,2379,Maryland Eastern Shore,False,5179096,Michael Teal,4,G,True,False,False,13,0,0,3,0,2,0,0,0,1,1,1,0,0,4,1
+401820296,2026,2379,Maryland Eastern Shore,False,4898212,Jaden Cooper,0,G,True,False,False,19,3,1,4,1,2,0,0,0,3,3,1,0,0,0,1
+401820296,2026,2379,Maryland Eastern Shore,False,5243393,Christopher Flippin,35,PF,False,False,False,24,3,1,6,0,0,1,2,2,2,4,2,0,2,1,2
+401820296,2026,2379,Maryland Eastern Shore,False,5314176,Joseph Locandro,14,F,False,False,False,19,17,7,8,3,3,0,0,1,4,5,0,1,1,3,0
+401820296,2026,2379,Maryland Eastern Shore,False,5107653,Dorion Staples,5,F,False,False,False,25,5,2,7,0,3,1,3,0,6,6,4,0,0,1,5
+401820296,2026,2379,Maryland Eastern Shore,False,4703893,Trey Hall,23,F,False,False,False,23,0,0,3,0,3,0,0,0,2,2,1,0,0,5,0
+401820296,2026,2379,Maryland Eastern Shore,False,5314175,Justin Monden,12,G,False,False,False,30,10,4,10,0,5,2,3,0,4,4,1,1,0,2,4
+401820296,2026,2379,Maryland Eastern Shore,False,5314173,Trey Brown,3,G,False,False,False,16,5,1,6,1,1,2,2,1,3,4,2,0,0,1,0
+401820296,2026,2379,Maryland Eastern Shore,False,5176356,Javoy Thompson,11,G,False,False,False,11,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401820296,2026,2379,Maryland Eastern Shore,False,5241693,Maurio Hanson Jr.,31,F,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,2379,Maryland Eastern Shore,False,5314172,Jaden Johnson,2,PG,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,2379,Maryland Eastern Shore,False,5314174,Devin Thomas,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,42,12,5,15,2,10,0,1,0,4,4,4,3,2,0,2
+401820296,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,34,14,6,11,0,1,2,6,3,12,15,0,3,2,6,3
+401820296,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,37,7,3,7,1,4,0,0,0,0,0,1,3,0,0,0
+401820296,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,34,9,3,7,1,1,2,5,2,3,5,1,1,0,1,1
+401820296,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,True,False,False,21,0,0,4,0,3,0,0,1,2,3,2,0,0,2,0
+401820296,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,12,3,1,3,1,3,0,0,0,0,0,1,1,0,0,3
+401820296,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+401820296,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,26,9,2,4,0,0,5,6,3,5,8,3,0,2,2,5
+401820296,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,4,0,0,2,0,1,0,0,0,1,1,0,0,0,0,1
+401820296,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,12,2,1,7,0,3,0,0,0,0,0,0,1,1,0,0
+401820296,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820296,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5313085,Timofei Rudovskii,99,F,True,False,False,30,12,4,11,2,8,2,3,1,2,3,1,2,1,3,2
+401820614,2026,2803,Bryant,False,4702741,Keegan Harvey,14,F,True,False,False,24,0,0,6,0,5,0,0,1,2,3,2,0,1,3,2
+401820614,2026,2803,Bryant,False,5313081,Daniel Akoue,10,C,True,False,False,10,2,0,3,0,3,2,2,0,3,3,0,0,0,2,1
+401820614,2026,2803,Bryant,False,5313076,Ty Tabales,1,G,True,False,False,27,3,1,7,1,4,0,0,1,2,3,3,0,0,5,2
+401820614,2026,2803,Bryant,False,4433257,Quincy Allen,4,G,True,False,False,30,10,3,12,0,6,4,5,1,6,7,1,3,2,2,3
+401820614,2026,2803,Bryant,False,5313082,Ethane Bourgade,11,F,False,False,False,11,3,1,2,0,1,1,1,0,1,1,0,0,0,0,0
+401820614,2026,2803,Bryant,False,5313079,Lennart Weber,8,F,False,False,False,16,1,0,3,0,3,1,2,2,0,2,1,0,0,0,1
+401820614,2026,2803,Bryant,False,5313075,Ashley Sims II,0,F,False,False,False,24,7,3,7,1,4,0,0,0,4,4,1,1,1,1,2
+401820614,2026,2803,Bryant,False,5239715,Khalil Williams,2,G,False,False,False,13,6,3,7,0,2,0,0,1,4,5,1,0,0,0,1
+401820614,2026,2803,Bryant,False,5174850,Aaron Davis III,3,G,False,False,False,15,1,0,2,0,2,1,3,1,2,3,1,0,0,0,3
+401820614,2026,2803,Bryant,False,5313084,Michael DeOrsey,30,PG,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5313080,Gio Sanford,9,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5239721,Jason Sepe,22,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5313083,Reed Woerner,25,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5313078,Joe Green,7,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5313077,Jaheim Nyam,5,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5239719,Langston Bailey,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,5239716,Frankie Vassalluzzo,21,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,2803,Bryant,False,4683741,Jakai Robinson,13,G,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,21,10,4,7,1,1,1,2,1,6,7,1,2,0,0,2
+401820614,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,24,18,7,13,3,6,1,1,0,1,1,2,0,0,1,1
+401820614,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,31,10,5,9,0,0,0,0,3,8,11,3,1,4,3,1
+401820614,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,20,9,3,9,3,8,0,0,0,1,1,2,0,0,1,0
+401820614,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,16,2,1,4,0,0,0,0,1,4,5,5,2,0,1,1
+401820614,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,12,2,1,2,0,1,0,0,0,1,1,1,1,0,2,3
+401820614,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,8,0,0,1,0,0,0,0,0,2,2,1,0,0,0,0
+401820614,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,17,2,1,1,0,0,0,1,0,4,4,3,0,0,1,3
+401820614,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,12,2,1,4,0,2,0,0,1,0,1,1,2,0,0,2
+401820614,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,False,False,4,0,0,2,0,0,0,0,0,1,1,0,0,0,0,1
+401820614,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,21,14,4,8,2,3,4,6,0,2,2,0,2,0,3,2
+401820614,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,14,5,2,3,1,2,0,0,0,1,1,0,3,0,0,1
+401820614,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820614,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,2545,SE Louisiana,False,5106865,Isaiah Gaines,23,F,True,False,False,27,12,5,9,0,1,2,3,3,3,6,0,1,0,1,3
+401808950,2026,2545,SE Louisiana,False,5243102,Jeremy Elyzee,0,G,True,False,False,30,10,4,11,0,2,2,2,1,3,4,3,3,0,4,3
+401808950,2026,2545,SE Louisiana,False,5243105,Jaiden Lawrence,10,G,True,False,False,24,10,2,4,2,3,4,5,1,4,5,1,2,0,0,1
+401808950,2026,2545,SE Louisiana,False,5176390,Ethan Pickett,3,G,True,False,False,23,2,1,4,0,1,0,0,0,3,3,0,1,0,3,2
+401808950,2026,2545,SE Louisiana,False,5176658,CJ Booker,4,G,True,False,False,24,3,1,8,1,3,0,0,0,1,1,2,2,0,0,0
+401808950,2026,2545,SE Louisiana,False,5240393,Makhi Myles,1,F,False,False,False,13,2,1,3,0,2,0,1,0,2,2,0,0,1,3,3
+401808950,2026,2545,SE Louisiana,False,5108048,Ubong-Abasi Etim,6,C,False,False,False,10,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0
+401808950,2026,2545,SE Louisiana,False,5243104,Kyle Edison,5,G,False,False,False,12,3,1,3,0,1,1,1,1,0,1,2,1,0,1,4
+401808950,2026,2545,SE Louisiana,False,5240906,Seth Jones,7,G,False,False,False,20,9,3,12,3,9,0,0,2,3,5,1,2,1,3,1
+401808950,2026,2545,SE Louisiana,False,5124659,Ahmed Essahaty,12,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401808950,2026,2545,SE Louisiana,False,5107520,Jalen Forrest,2,G,False,False,False,16,9,2,6,2,3,3,3,0,1,1,1,0,0,1,2
+401808950,2026,2545,SE Louisiana,False,5314567,Garrett Shoemaker,32,F,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,2545,SE Louisiana,False,5314566,Amir Chaney,11,PG,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,2545,SE Louisiana,False,5314565,Cody Al-Naziat,9,G,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,2545,SE Louisiana,False,5314564,Peter Hemschemeier,8,G,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,24,8,3,5,0,0,2,2,4,4,8,5,2,3,2,3
+401808950,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,33,12,2,7,1,3,7,8,0,4,4,1,2,0,6,2
+401808950,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,37,16,8,12,0,0,0,2,1,9,10,0,0,2,0,3
+401808950,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,9,0,0,5,0,3,0,0,1,0,1,0,0,0,0,2
+401808950,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,24,7,2,4,1,2,2,4,1,2,3,1,1,0,4,1
+401808950,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,16,2,1,4,0,2,0,0,0,1,1,1,0,0,1,0
+401808950,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,28,13,4,9,2,3,3,4,0,6,6,3,0,0,3,2
+401808950,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,25,12,3,5,1,2,5,6,0,3,3,1,0,0,2,2
+401808950,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+401808950,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401808950,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,20,10,4,6,0,0,2,4,2,2,4,1,0,1,1,4
+401826713,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,28,12,3,12,2,5,4,6,1,3,4,0,1,1,1,3
+401826713,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,24,7,2,9,0,1,3,7,3,5,8,0,0,1,2,5
+401826713,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,34,17,6,10,5,7,0,0,1,4,5,2,2,2,1,3
+401826713,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,31,15,6,12,0,1,3,4,3,2,5,6,0,1,3,4
+401826713,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,16,2,0,3,0,0,2,2,1,4,5,1,1,2,1,2
+401826713,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,30,16,6,15,1,4,3,5,3,2,5,5,2,0,2,4
+401826713,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,13,8,3,4,2,3,0,0,0,2,2,2,1,0,3,3
+401826713,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,4,0,0,2,0,1,0,0,1,1,2,1,0,0,0,0
+401826713,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,61,Georgia,False,5243212,Kanon Catchings,6,F,True,False,False,18,6,2,10,0,6,2,2,2,3,5,1,0,0,1,4
+401826713,2026,61,Georgia,False,5238203,Somto Cyril,2,C,True,False,False,22,8,3,4,0,0,2,6,3,3,6,0,0,3,0,4
+401826713,2026,61,Georgia,False,5174661,Blue Cain,0,G,True,False,False,24,18,5,10,2,5,6,7,1,4,5,2,2,1,0,3
+401826713,2026,61,Georgia,False,5107490,Justin Bailey,7,G,True,False,False,15,2,1,5,0,3,0,0,3,3,6,0,0,0,0,1
+401826713,2026,61,Georgia,False,4711402,Jordan Ross,3,G,True,False,False,22,14,5,7,1,2,3,6,1,4,5,3,0,0,1,1
+401826713,2026,61,Georgia,False,5238204,Justin Abson,25,F,False,False,False,12,7,2,2,0,0,3,4,1,1,2,0,0,3,1,2
+401826713,2026,61,Georgia,False,5144153,Kareem Stagg,1,F,False,False,False,13,2,1,2,0,0,0,0,0,1,1,3,1,0,0,2
+401826713,2026,61,Georgia,False,5142622,Jake Wilkins,21,F,False,False,False,11,6,1,3,0,1,4,6,2,2,4,0,0,1,1,1
+401826713,2026,61,Georgia,False,4895794,Dylan James,11,F,False,False,False,14,4,1,4,0,2,2,2,0,3,3,0,1,0,4,2
+401826713,2026,61,Georgia,False,5176681,Marcus Millender,4,G,False,False,False,25,7,1,9,1,5,4,4,1,4,5,5,0,0,3,2
+401826713,2026,61,Georgia,False,5165276,Jeremiah Wilkinson,5,G,False,False,False,24,18,5,11,2,5,6,7,0,3,3,0,3,0,2,2
+401826713,2026,61,Georgia,False,5105532,Jaden Newell,24,F,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,61,Georgia,False,5144145,Jackson McVey,22,C,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,61,Georgia,False,5174664,Markel Jennings,12,G,False,True,False,,,,,,,,,,,,,,,,
+401826713,2026,61,Georgia,False,5105530,Brandon Klatsky,30,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312456,Shainen Carter,11,F,True,False,False,20,4,2,5,0,0,0,0,3,0,3,0,1,1,2,3
+401826714,2026,290,Georgia Southern,False,4898382,Alden Applewhite,13,F,True,False,False,30,11,4,8,2,6,1,2,5,6,11,3,1,0,2,1
+401826714,2026,290,Georgia Southern,False,5312457,Spudd Webb,21,G,True,False,False,28,9,3,10,2,6,1,2,0,3,3,4,1,0,3,3
+401826714,2026,290,Georgia Southern,False,5312449,Dwayne Williams Jr.,1,G,True,False,False,9,0,0,4,0,3,0,0,0,0,0,0,1,0,0,1
+401826714,2026,290,Georgia Southern,False,5107226,Tyren Moore,12,G,True,False,False,25,10,3,8,3,8,1,2,0,0,0,1,4,0,0,4
+401826714,2026,290,Georgia Southern,False,5239885,Nakavieon White,5,F,False,False,False,28,10,3,13,2,6,2,3,1,5,6,3,2,1,4,2
+401826714,2026,290,Georgia Southern,False,5175943,Andres Burney,24,F,False,False,False,18,9,4,5,0,0,1,4,4,2,6,0,1,1,0,3
+401826714,2026,290,Georgia Southern,False,5174642,Tsvet Sotirov,7,F,False,False,False,9,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401826714,2026,290,Georgia Southern,False,5312451,Khayri Dunn,3,G,False,False,False,18,13,4,11,3,7,2,2,1,2,3,0,1,0,3,3
+401826714,2026,290,Georgia Southern,False,4702464,Jefferson Koulibaly,9,G,False,False,False,15,0,0,2,0,0,0,0,1,0,1,0,1,0,0,2
+401826714,2026,290,Georgia Southern,False,5312458,Pavle Ridesic,34,F,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312454,Cullen Schreiner,8,F,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312455,Sean Van Dorn Jr.,10,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312453,Amare Neal,6,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312452,Cade Lomas,4,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312450,Dallas Gardner,2,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,290,Georgia Southern,False,5312448,Jayden Williams,0,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,31,20,7,14,0,2,6,7,4,6,10,4,2,2,2,1
+401826714,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,35,9,3,9,2,5,1,2,3,1,4,2,2,0,2,2
+401826714,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,26,12,4,4,1,1,3,6,4,7,11,0,1,1,3,2
+401826714,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,9,4,2,6,0,3,0,0,0,1,1,1,0,0,0,0
+401826714,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,30,8,1,8,0,4,6,8,0,3,3,4,2,0,3,2
+401826714,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,11,4,2,2,0,0,0,0,0,4,4,0,0,1,3,1
+401826714,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,25,1,0,4,0,2,1,2,0,6,6,1,2,0,4,4
+401826714,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,30,10,3,9,1,5,3,5,1,2,3,3,0,0,2,1
+401826714,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+401826714,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401826714,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5240033,Kenneth Chime,22,PF,True,False,False,15,3,1,2,0,0,1,2,1,5,6,0,0,0,2,2
+401825386,2026,2698,West Georgia,False,5240029,Kolten Griffin,11,F,True,False,False,30,2,1,3,0,1,0,0,0,1,1,1,1,0,1,2
+401825386,2026,2698,West Georgia,False,5240027,Shelton Williams-Dryden,4,F,True,False,False,37,21,9,16,1,4,2,6,4,5,9,2,5,0,1,0
+401825386,2026,2698,West Georgia,False,5241000,Chas Lewless,2,G,True,False,False,26,7,3,10,1,7,0,0,0,0,0,2,1,0,0,1
+401825386,2026,2698,West Georgia,False,5179291,Josh Smith,10,G,True,False,False,35,13,5,16,1,7,2,5,1,3,4,4,0,0,2,2
+401825386,2026,2698,West Georgia,False,5240026,Xavier Shegog,3,F,False,False,False,13,3,1,3,1,1,0,0,0,0,0,1,1,0,1,2
+401825386,2026,2698,West Georgia,False,5194058,JaVar Daniel,5,F,False,False,False,25,4,0,7,0,0,4,4,1,3,4,0,0,2,0,4
+401825386,2026,2698,West Georgia,False,5240030,Eric Baldassarre,12,G,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401825386,2026,2698,West Georgia,False,5240024,Brady Hardewig,1,G,False,False,False,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401825386,2026,2698,West Georgia,False,5115866,Malcolm Noel,23,G,False,False,False,14,13,5,6,3,4,0,0,0,1,1,1,1,0,2,0
+401825386,2026,2698,West Georgia,False,5314546,Maddox Fowles,25,F,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5239886,Micah Smith,9,F,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5243003,Matija Zuzic,6,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5240035,Cameron Merritt,30,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5240032,Max Young,20,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,2698,West Georgia,False,5184642,Nate Jones,14,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,31,14,7,10,0,1,0,0,5,9,14,5,0,1,1,1
+401825386,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,31,18,7,11,4,7,0,0,0,3,3,2,1,1,2,2
+401825386,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,29,13,5,8,0,0,3,5,2,9,11,0,2,1,1,4
+401825386,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,33,15,6,13,1,5,2,4,3,2,5,0,1,0,0,1
+401825386,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,22,6,3,5,0,0,0,0,0,5,5,5,0,1,3,3
+401825386,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,4,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+401825386,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,10,7,2,3,0,0,3,6,0,2,2,1,0,1,3,2
+401825386,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,23,8,3,5,0,1,2,2,0,4,4,7,1,0,1,2
+401825386,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,17,1,0,5,0,2,1,2,0,2,2,0,0,0,1,0
+401825386,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401825386,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,32,6,2,3,0,0,2,2,5,3,8,2,1,1,3,2
+401825573,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,17,6,2,9,0,4,2,2,1,1,2,1,0,0,0,2
+401825573,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,24,10,5,7,0,0,0,0,2,5,7,0,2,1,1,0
+401825573,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,26,9,4,11,1,5,0,0,0,0,0,1,0,0,0,1
+401825573,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,28,9,4,10,1,2,0,0,0,2,2,2,0,0,0,4
+401825573,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,4,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+401825573,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,17,8,3,4,0,0,2,2,2,6,8,1,0,1,2,3
+401825573,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,26,0,0,6,0,3,0,0,0,0,0,7,2,0,3,3
+401825573,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,26,13,4,11,0,2,5,8,1,2,3,0,2,0,1,1
+401825573,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,5240520,Theo Pierre-Justin,21,F,True,False,False,15,0,0,7,0,6,0,0,0,3,3,0,0,0,0,3
+401825573,2026,305,DePaul,False,5107903,NJ Benson,35,F,True,False,False,28,9,4,5,0,0,1,2,6,3,9,1,0,1,1,1
+401825573,2026,305,DePaul,False,5241737,Brandon Maclin,0,G,True,False,False,27,16,6,12,2,5,2,2,0,4,4,3,1,1,2,1
+401825573,2026,305,DePaul,False,5105796,CJ Gunn,11,G,True,False,False,24,7,3,7,0,1,1,2,1,1,2,0,1,0,0,1
+401825573,2026,305,DePaul,False,4845358,Layden Blocker,2,G,True,False,False,34,18,5,9,1,3,7,7,1,3,4,4,0,0,2,1
+401825573,2026,305,DePaul,False,5176418,Jeremy Lorenz,32,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401825573,2026,305,DePaul,False,5105795,Kaleb Banks,1,F,False,False,False,19,7,2,5,2,3,1,2,0,0,0,1,1,1,2,4
+401825573,2026,305,DePaul,False,5312300,Fabian Flores,15,C,False,False,False,12,2,1,1,0,0,0,0,0,2,2,0,1,1,0,0
+401825573,2026,305,DePaul,False,5254161,Kruz McClure,22,G,False,False,False,17,7,3,5,1,3,0,0,0,4,4,2,1,0,2,2
+401825573,2026,305,DePaul,False,5105612,RJ Smith,5,G,False,False,False,22,9,3,5,1,1,2,2,0,5,5,1,1,0,0,1
+401825573,2026,305,DePaul,False,5312298,Jonas Johnson,6,F,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,5254163,Isaiah Medina,7,F,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,4873206,Khaman Maker,14,C,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,5240518,Nate Kasher,3,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,5238181,Amsal Delalic,52,G,False,True,False,,,,,,,,,,,,,,,,
+401825573,2026,305,DePaul,False,5234298,Ilija Milijasevic,10,G,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,28,14,7,10,0,0,0,4,2,5,7,3,0,0,2,2
+401830884,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,14,5,2,2,0,0,1,5,0,1,1,1,0,1,0,4
+401830884,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,28,11,4,10,3,5,0,0,1,2,3,0,0,0,0,3
+401830884,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,34,15,6,12,2,5,1,2,3,4,7,1,0,0,0,2
+401830884,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,27,5,2,7,1,2,0,0,0,1,1,4,1,0,1,4
+401830884,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,23,5,2,3,1,2,0,0,0,2,2,3,2,0,1,1
+401830884,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,6,5,2,2,0,0,1,1,0,2,2,0,0,1,0,0
+401830884,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,25,11,3,9,1,4,4,6,2,1,3,6,1,0,1,3
+401830884,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,15,3,1,6,1,4,0,0,0,2,2,2,1,0,0,1
+401830884,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,2181,Drake,False,5186601,Okku Federiko,8,F,True,False,False,21,20,7,9,2,3,4,6,2,6,8,1,0,1,1,4
+401830884,2026,2181,Drake,False,5105646,Wilguens Jr. Exacte,7,F,True,False,False,24,7,2,7,2,3,1,2,1,3,4,2,1,0,2,2
+401830884,2026,2181,Drake,False,5239829,Jaehshon Thomas,22,G,True,False,False,29,10,2,5,1,1,5,7,0,2,2,0,1,1,1,2
+401830884,2026,2181,Drake,False,5107963,Andrew Alia,21,G,True,False,False,35,6,2,4,2,3,0,0,1,3,4,2,0,0,0,2
+401830884,2026,2181,Drake,False,5105965,Jalen Quinn,3,G,True,False,False,38,31,11,18,0,2,9,10,2,3,5,7,0,0,1,2
+401830884,2026,2181,Drake,False,5313836,Griffen Goodbary,2,F,False,False,False,16,3,1,2,0,0,1,2,0,3,3,2,0,0,1,2
+401830884,2026,2181,Drake,False,4712893,Isaiah Carr,24,F,False,False,False,3,2,1,1,0,0,0,0,1,0,1,1,0,0,0,0
+401830884,2026,2181,Drake,False,5176347,Eli Shetlar,10,G,False,False,False,18,2,1,2,0,1,0,0,0,3,3,2,0,0,0,1
+401830884,2026,2181,Drake,False,5107781,Braden Appelhans,0,G,False,False,False,16,3,1,7,1,6,0,0,1,2,3,0,0,1,0,0
+401830884,2026,2181,Drake,False,5313839,Heri Bukinga,32,C,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,2181,Drake,False,5313838,Bryson Bahl,20,G,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,2181,Drake,False,5313837,LJ Rush,11,G,False,True,False,,,,,,,,,,,,,,,,
+401830884,2026,2181,Drake,False,5241452,Owen Larson,1,G,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,5220874,Jamarion Davis-Fleming,0,F,True,False,False,26,11,5,5,0,0,1,1,3,2,5,1,0,1,1,0
+401806377,2026,344,Mississippi State,False,5105487,Brandon Walker,4,F,True,False,False,17,11,4,10,1,4,2,3,3,4,7,2,0,1,2,2
+401806377,2026,344,Mississippi State,False,5240392,Ja'Borri McGhee,2,G,True,False,False,21,4,2,5,0,2,0,0,0,7,7,1,0,0,1,2
+401806377,2026,344,Mississippi State,False,5105791,Jayden Epps,10,G,True,False,False,30,14,4,9,1,4,5,7,0,2,2,1,0,2,5,2
+401806377,2026,344,Mississippi State,False,4895740,Josh Hubbard,12,G,True,False,False,33,25,8,14,2,6,7,7,0,4,4,5,1,0,2,0
+401806377,2026,344,Mississippi State,False,5311740,Sergej Macura,11,F,False,False,False,5,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1
+401806377,2026,344,Mississippi State,False,5107364,Achor Achor,99,F,False,False,False,9,3,1,4,1,4,0,0,0,3,3,0,0,1,0,0
+401806377,2026,344,Mississippi State,False,4683134,Quincy Ballard,15,C,False,False,False,27,8,4,8,0,0,0,0,2,5,7,1,0,3,1,4
+401806377,2026,344,Mississippi State,False,5105540,Shawn Jones Jr.,5,G,False,False,False,32,9,3,6,1,2,2,4,1,4,5,2,2,1,1,2
+401806377,2026,344,Mississippi State,False,4873130,Amier Ali,14,F,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,5101830,Tee Bartlett,3,C,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,4685688,Gai Chol,34,C,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,5142708,King Grace,23,G,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,5101824,Cameren Paul,8,G,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,344,Mississippi State,False,4873112,Dellquan Warren,1,G,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,22,12,4,8,1,2,3,3,1,3,4,1,0,0,1,1
+401806377,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,34,23,8,20,7,14,0,0,2,7,9,1,6,1,1,3
+401806377,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,26,12,5,7,0,1,2,5,3,2,5,1,0,1,0,2
+401806377,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,26,12,3,13,0,5,6,6,0,1,1,2,0,0,0,1
+401806377,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,18,5,2,9,0,3,1,2,3,0,3,1,0,0,0,2
+401806377,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,18,0,0,4,0,1,0,0,1,1,2,3,1,0,0,4
+401806377,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,10,0,0,2,0,1,0,2,0,4,4,0,0,1,0,0
+401806377,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,27,7,3,6,0,0,1,2,0,3,3,5,0,0,2,3
+401806377,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,15,2,1,7,0,2,0,0,2,1,3,2,0,0,0,0
+401806377,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,4,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1
+401806377,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401806377,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401824865,2026,2405,Monmouth,False,5313726,Stefanos Spartalis,15,F,True,False,False,23,14,6,14,1,1,1,1,2,2,4,0,1,0,0,3
+401824865,2026,2405,Monmouth,False,5106702,Andrew Ball,4,F,True,False,False,18,0,0,5,0,1,0,0,1,2,3,0,0,1,0,1
+401824865,2026,2405,Monmouth,False,5174288,Jason Rivera-Torres,1,G,True,False,False,25,11,4,21,1,6,2,2,4,4,8,4,0,0,2,4
+401824865,2026,2405,Monmouth,False,5242598,Justin Ray,7,G,True,False,False,34,13,6,14,1,6,0,0,0,1,1,2,2,0,0,1
+401824865,2026,2405,Monmouth,False,5106703,Jack Collins,13,G,True,False,False,39,7,2,6,2,5,1,4,1,5,6,5,4,1,2,3
+401824865,2026,2405,Monmouth,False,5174963,Quinn Peters,42,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401824865,2026,2405,Monmouth,False,5174962,Cornelius Robinson III,23,F,False,False,False,28,11,4,7,0,0,3,4,4,3,7,2,1,0,0,3
+401824865,2026,2405,Monmouth,False,5101818,O'Marion Harvey,8,F,False,False,False,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+401824865,2026,2405,Monmouth,False,5107158,Dok Muordar,0,C,False,False,False,10,4,1,2,0,0,2,2,1,0,1,1,0,0,0,1
+401824865,2026,2405,Monmouth,False,5240966,Jinup Dobuol,24,G,False,False,False,10,4,1,3,1,2,1,2,1,0,1,1,0,1,0,2
+401824865,2026,2405,Monmouth,False,5312166,Anthony Martinez,3,G,False,False,False,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+401824865,2026,2405,Monmouth,False,5312165,Zubayr Griffin,20,G,False,False,False,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+401824865,2026,2405,Monmouth,False,5242599,Lucas Orchard,9,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401824865,2026,2405,Monmouth,False,5174961,Jack Leahy,10,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401824865,2026,2405,Monmouth,False,5174960,Corey Miller,5,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401824865,2026,2405,Monmouth,False,5177703,Kavion McClain,2,F,False,True,False,,,,,,,,,,,,,,,,
+401824865,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,25,23,7,10,3,5,6,7,1,2,3,2,0,2,1,4
+401824865,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,22,13,6,10,0,0,1,4,2,7,9,0,1,1,2,4
+401824865,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,35,23,7,9,1,2,8,9,0,8,8,6,0,0,2,3
+401824865,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,30,6,2,6,0,4,2,2,0,3,3,0,0,1,2,1
+401824865,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,24,0,0,9,0,0,0,0,2,4,6,1,0,0,2,0
+401824865,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,8,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+401824865,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,14,2,1,2,0,0,0,0,1,3,4,1,0,2,0,1
+401824865,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,4,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+401824865,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,24,9,2,4,1,1,4,4,2,1,3,2,1,0,1,2
+401824865,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,14,3,1,2,1,2,0,0,0,1,1,3,0,0,2,0
+401824865,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,False,True,False,,,,,,,,,,,,,,,,
+401824865,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401824865,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401824865,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401813326,2026,2368,Marist,False,5107770,Jaden Daughtry,11,F,True,False,False,22,11,4,5,3,4,0,0,2,4,6,0,2,2,5,1
+401813326,2026,2368,Marist,False,5177120,Jason Schofield,1,C,True,False,False,20,7,3,5,0,0,1,2,4,0,4,2,1,0,0,3
+401813326,2026,2368,Marist,False,5242621,Elijah Lewis,13,G,True,False,False,32,19,8,16,2,4,1,2,0,3,3,2,1,0,1,0
+401813326,2026,2368,Marist,False,5242619,Jadin Collins-Roberts,0,G,True,False,False,28,4,0,6,0,1,4,6,2,2,4,7,2,0,2,1
+401813326,2026,2368,Marist,False,5241491,Justin Menard,2,G,True,False,False,22,13,5,8,3,5,0,0,0,1,1,4,1,0,1,2
+401813326,2026,2368,Marist,False,5279252,Myles Parker,5,F,False,False,False,17,11,4,7,3,5,0,0,0,2,2,1,1,0,0,3
+401813326,2026,2368,Marist,False,5242622,Parby Kabamba,15,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401813326,2026,2368,Marist,False,5107769,Trace Salton,10,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401813326,2026,2368,Marist,False,5314854,Jordan Gabriel,21,C,False,False,False,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+401813326,2026,2368,Marist,False,4873195,Tarik Watson,25,C,False,False,False,17,3,1,3,0,0,1,2,1,1,2,0,1,0,0,2
+401813326,2026,2368,Marist,False,5242623,Antoni Vlogianitis,31,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401813326,2026,2368,Marist,False,5242124,Ricky McKenzie,8,G,False,False,False,5,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401813326,2026,2368,Marist,False,5107299,Rhyjon Blackwell,4,G,False,False,False,32,8,3,11,2,7,0,1,0,1,1,5,0,0,1,2
+401813326,2026,2368,Marist,False,4897651,Martin Kawa,7,G,False,True,False,,,,,,,,,,,,,,,,
+401813326,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,33,21,6,12,3,5,6,6,3,7,10,3,0,1,0,3
+401813326,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,25,14,7,10,0,0,0,0,2,6,8,1,1,0,1,2
+401813326,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,34,11,4,12,1,1,2,2,1,5,6,10,2,0,4,2
+401813326,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,24,10,4,6,2,3,0,0,1,2,3,0,1,0,2,4
+401813326,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,27,13,4,4,1,1,4,5,0,2,2,0,1,0,1,1
+401813326,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401813326,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,10,4,2,3,0,0,0,0,0,2,2,0,0,0,0,1
+401813326,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,5,2,1,2,0,0,0,2,0,0,0,0,0,0,2,2
+401813326,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,13,4,2,3,0,0,0,0,1,1,2,1,1,0,1,0
+401813326,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,25,8,3,5,1,1,1,2,1,0,1,6,0,0,2,1
+401813326,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,False,True,False,,,,,,,,,,,,,,,,
+401813326,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401813326,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401813326,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,5323981,Shareef Jackson,44,F,True,False,False,23,8,4,4,0,0,0,0,2,3,5,1,1,0,1,5
+401826755,2026,322,Lafayette,False,5323979,Christian Humphrey-Rembert,22,F,True,False,False,33,12,4,9,4,9,0,0,1,7,8,1,0,0,0,2
+401826755,2026,322,Lafayette,False,5243035,Caleb Williams,1,G,True,False,False,38,20,5,16,1,8,9,10,1,2,3,6,0,0,2,4
+401826755,2026,322,Lafayette,False,5176067,Andrew Phillips,21,G,True,False,False,34,15,5,9,4,7,1,2,0,0,0,1,1,0,0,3
+401826755,2026,322,Lafayette,False,5176065,Mark Butler,10,G,True,False,False,37,20,7,14,0,3,6,7,1,4,5,8,4,0,3,2
+401826755,2026,322,Lafayette,False,5144158,Luke Bevilacqua,34,F,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+401826755,2026,322,Lafayette,False,5323978,KaiMani Murdock,2,F,False,False,False,16,6,2,8,2,7,0,0,0,2,2,0,0,0,0,1
+401826755,2026,322,Lafayette,False,5176068,Joshua Wyche,23,F,False,False,False,6,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0
+401826755,2026,322,Lafayette,False,5176066,Misha Bednostin,13,C,False,False,False,5,0,0,1,0,0,0,0,1,1,2,0,1,0,0,1
+401826755,2026,322,Lafayette,False,5243037,Folabomi Fayemi,24,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+401826755,2026,322,Lafayette,False,5323976,Luke Azzinaro,11,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,4897903,Chris Rubayo,22,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,4873186,Malik Rasul,14,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,4701168,Justin Vander Baan,15,C,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,5323980,Beckett Currie,3,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,5323977,Ashton Wallace,20,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,5105678,Ryan Pettit,0,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,4898292,Luka Savicevic,99,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,322,Lafayette,False,4433589,TJ Berger,9,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,34,20,7,16,0,2,6,8,2,7,9,1,1,0,2,2
+401826755,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,14,8,3,8,0,0,2,3,3,2,5,1,1,0,2,1
+401826755,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,37,20,6,10,3,3,5,5,2,3,5,10,3,1,1,0
+401826755,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,34,9,3,11,3,8,0,0,0,4,4,3,0,0,1,4
+401826755,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,30,20,4,8,1,1,11,12,1,4,5,3,0,0,1,2
+401826755,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,4,2,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+401826755,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,16,10,4,4,0,0,2,2,1,3,4,2,0,2,1,2
+401826755,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+401826755,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,23,6,2,2,2,2,0,0,0,3,3,0,0,0,0,4
+401826755,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401826755,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,50,Florida A&M,False,4897175,Tyler Shirley,22,F,True,False,False,26,7,2,11,2,8,1,2,0,3,3,2,2,1,1,4
+401826756,2026,50,Florida A&M,False,4684293,Kaleb Washington,10,F,True,False,False,28,21,9,15,2,5,1,4,2,3,5,2,3,2,1,2
+401826756,2026,50,Florida A&M,False,5325879,Antonio Baker Jr.,1,G,True,False,False,29,4,2,8,0,2,0,0,0,3,3,3,1,1,2,1
+401826756,2026,50,Florida A&M,False,5107408,Jordan Chatman,2,G,True,False,False,23,3,1,6,1,5,0,0,1,1,2,1,1,0,0,3
+401826756,2026,50,Florida A&M,False,5105593,Jaquan Sanders,3,G,True,False,False,35,20,7,15,4,7,2,6,3,2,5,4,5,1,3,3
+401826756,2026,50,Florida A&M,False,5306623,Jacobi Hall,23,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401826756,2026,50,Florida A&M,False,5323983,Amir Rahman,8,G,False,False,False,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+401826756,2026,50,Florida A&M,False,5313444,Anthony Knowles,12,G,False,False,False,12,2,0,4,0,3,2,2,0,0,0,0,0,0,1,0
+401826756,2026,50,Florida A&M,False,5243337,Lenard Taylor Jr.,0,G,False,False,False,12,0,0,2,0,1,0,0,1,0,1,1,0,0,1,2
+401826756,2026,50,Florida A&M,False,5243336,Malcolm Stute,14,G,False,False,False,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+401826756,2026,50,Florida A&M,False,5177189,Anquan Boldin Jr.,4,G,False,False,False,29,8,4,8,0,1,0,2,3,1,4,3,1,0,2,1
+401826756,2026,50,Florida A&M,False,5241426,Tuscan Onuoha,55,F,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,50,Florida A&M,False,5313446,Miles Ndalama,34,C,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,50,Florida A&M,False,5313445,Devere Palmer Jr.,13,G,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,50,Florida A&M,False,5177530,Micah Octave,11,G,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,23,15,7,11,1,1,0,0,4,7,11,5,3,3,5,3
+401826756,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,23,11,4,7,1,4,2,3,0,1,1,1,1,0,1,1
+401826756,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,13,11,4,8,0,0,3,4,1,7,8,0,0,2,1,0
+401826756,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,30,10,5,8,0,1,0,0,0,7,7,8,2,0,5,2
+401826756,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,30,12,3,4,1,1,5,6,0,2,2,1,1,1,4,2
+401826756,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,8,3,1,1,1,1,0,0,0,0,0,1,0,0,0,1
+401826756,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,8,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1
+401826756,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,10,2,1,2,0,0,0,0,0,3,3,0,0,0,0,1
+401826756,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,11,2,1,3,0,1,0,0,0,1,1,0,0,0,0,0
+401826756,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,21,9,2,4,0,0,5,6,2,4,6,4,0,0,2,4
+401826756,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,23,14,5,5,2,2,2,3,0,0,0,3,0,0,2,1
+401826756,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401826756,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,20,4,2,6,0,2,0,0,2,2,4,2,1,0,4,3
+401820636,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,35,23,9,16,5,7,0,0,0,3,3,0,0,0,1,3
+401820636,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,13,8,4,6,0,0,0,0,2,1,3,2,0,2,1,2
+401820636,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,30,10,2,8,1,4,5,7,0,2,2,6,2,1,5,3
+401820636,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,24,9,1,4,1,2,6,6,0,2,2,4,1,1,2,4
+401820636,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,11,2,1,1,0,0,0,0,0,1,1,0,1,0,0,4
+401820636,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,19,2,1,2,0,0,0,0,0,4,4,2,2,0,2,2
+401820636,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,28,11,5,7,1,1,0,0,0,7,7,2,0,0,1,3
+401820636,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,20,10,4,4,2,2,0,0,0,1,1,0,1,0,0,1
+401820636,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,150,Duke,False,5041935,Cameron Boozer,12,F,True,False,False,38,26,8,15,3,5,7,10,9,3,12,2,1,0,4,3
+401820636,2026,150,Duke,False,4873209,Patrick Ngongba II,21,C,True,False,False,29,11,3,4,1,1,4,9,3,6,9,0,0,2,1,3
+401820636,2026,150,Duke,False,5061585,Isaiah Evans,3,G,True,False,False,28,17,4,10,2,7,7,7,1,4,5,0,3,0,3,0
+401820636,2026,150,Duke,False,5041937,Cayden Boozer,2,G,True,False,False,31,13,5,12,0,4,3,5,0,5,5,3,4,0,1,1
+401820636,2026,150,Duke,False,4711256,Caleb Foster,1,G,True,False,False,25,12,4,10,3,6,1,2,0,0,0,4,0,0,1,2
+401820636,2026,150,Duke,False,5105337,Maliq Brown,6,F,False,False,False,18,4,2,5,0,2,0,0,3,1,4,1,3,0,2,3
+401820636,2026,150,Duke,False,5287474,Dame Sarr,7,F,False,False,False,16,0,0,6,0,5,0,0,1,0,1,0,0,0,0,2
+401820636,2026,150,Duke,False,5144124,Nik Khamenia,14,F,False,False,False,12,2,0,2,0,2,2,2,0,1,1,0,0,0,0,1
+401820636,2026,150,Duke,False,4873107,Darren Harris,8,G,False,False,False,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401820636,2026,150,Duke,False,5144150,Sebastian Wilkins,5,F,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,150,Duke,False,5107141,Ifeanyi Ufochukwu,15,C,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,150,Duke,False,4888720,Jack Scott,20,G,False,True,False,,,,,,,,,,,,,,,,
+401820636,2026,150,Duke,False,4432321,Cameron Sheffield,13,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,4685671,Jayden Hastings,22,F,True,False,False,19,9,4,7,0,0,1,3,2,3,5,0,0,0,2,4
+401820645,2026,103,Boston College,False,5105543,Aidan Shaw,23,F,True,False,False,27,3,1,2,0,1,1,2,4,3,7,0,1,1,2,1
+401820645,2026,103,Boston College,False,5151855,Luka Toews,10,G,True,False,False,22,5,2,9,1,4,0,0,1,0,1,3,0,0,0,3
+401820645,2026,103,Boston College,False,4684268,Fred Payne,5,G,True,False,False,23,2,1,13,0,7,0,0,0,2,2,0,0,0,1,3
+401820645,2026,103,Boston College,False,4683629,Donald Hand Jr.,13,G,True,False,False,36,13,2,13,1,6,8,12,1,4,5,1,0,0,1,1
+401820645,2026,103,Boston College,False,5103631,Boden Kapke,33,F,False,False,False,28,13,6,12,1,5,0,0,4,7,11,1,3,1,2,3
+401820645,2026,103,Boston College,False,5309819,Marko Radunovic,88,F,False,False,False,10,0,0,2,0,1,0,0,0,1,1,0,1,0,0,1
+401820645,2026,103,Boston College,False,5196919,Caleb Steger,30,G,False,False,False,17,6,1,2,1,2,3,3,0,0,0,0,0,1,0,3
+401820645,2026,103,Boston College,False,4706918,Chase Forte,9,G,False,False,False,18,2,1,6,0,3,0,0,0,0,0,1,0,1,1,1
+401820645,2026,103,Boston College,False,5239489,Jason Asemota,55,F,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5144146,Jack Bailey,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5061602,Kany Musungay,8,F,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5238156,Will Eggemeier,21,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5238155,Nick Petronio,11,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5210830,Akbar Waheed III,3,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,103,Boston College,False,5183069,Jack DiDonna,4,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,26,10,4,10,0,0,2,7,3,5,8,1,1,0,2,3
+401820645,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,26,16,6,12,0,3,4,5,0,3,3,1,2,1,0,3
+401820645,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,True,False,False,5,0,0,2,0,0,0,0,0,2,2,0,0,0,3,1
+401820645,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,37,17,5,10,2,3,5,6,1,11,12,5,1,2,2,2
+401820645,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,28,8,2,8,0,3,4,4,2,3,5,0,0,0,4,1
+401820645,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,22,2,1,2,0,0,0,0,2,4,6,2,0,0,0,3
+401820645,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,7,3,1,2,1,2,0,0,0,2,2,0,0,0,0,0
+401820645,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,28,9,2,3,0,0,5,7,0,5,5,1,1,0,1,4
+401820645,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,21,0,0,4,0,2,0,0,0,1,1,3,1,0,1,0
+401820645,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820645,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,183,Syracuse,False,5107258,William Kyle III,42,F,True,False,False,25,5,2,4,0,0,1,2,3,5,8,2,2,1,0,3
+401820653,2026,183,Syracuse,False,4873145,Donnie Freeman,1,F,True,False,False,34,27,9,18,2,4,7,11,3,6,9,2,1,3,2,2
+401820653,2026,183,Syracuse,False,5240882,Nate Kingz,4,G,True,False,False,37,7,3,8,1,4,0,0,2,3,5,2,0,2,4,1
+401820653,2026,183,Syracuse,False,5174557,Naithan George,11,G,True,False,False,34,17,3,5,1,1,10,10,0,2,2,5,1,0,6,3
+401820653,2026,183,Syracuse,False,4683697,J.J. Starling,2,G,True,False,False,28,8,2,10,0,3,4,6,0,5,5,2,1,0,2,1
+401820653,2026,183,Syracuse,False,5174559,Akir Souare,10,F,False,False,False,7,2,1,1,0,0,0,1,2,2,4,0,0,1,0,5
+401820653,2026,183,Syracuse,False,5101831,Sadiq White Jr.,0,F,False,False,False,8,2,1,2,0,0,0,0,0,2,2,1,0,0,0,1
+401820653,2026,183,Syracuse,False,4873141,Tyler Betsey,5,F,False,False,False,9,3,1,4,1,3,0,0,0,2,2,0,0,0,0,2
+401820653,2026,183,Syracuse,False,5120280,Kiyan Anthony,7,G,False,False,False,18,11,4,9,2,4,1,1,1,2,3,1,0,0,1,1
+401820653,2026,183,Syracuse,False,4897519,Bryce Zephir,55,G,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820653,2026,183,Syracuse,False,5311848,Tiefing Diawara,12,C,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,183,Syracuse,False,5311847,Luke Fennell,9,G,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,183,Syracuse,False,5239196,Aaron Womack III,14,G,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,183,Syracuse,False,5238188,Noah Lobdell,24,G,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,25,20,8,13,0,0,4,6,4,5,9,1,1,1,2,4
+401820653,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,37,11,4,13,1,6,2,2,0,3,3,1,3,0,1,4
+401820653,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,True,False,False,7,4,2,2,0,0,0,0,0,2,2,0,0,0,3,4
+401820653,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,34,9,3,14,0,3,3,4,2,5,7,7,3,1,0,4
+401820653,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,23,9,2,7,1,5,4,4,0,3,3,0,0,1,1,4
+401820653,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,13,4,2,4,0,0,0,2,0,2,2,0,0,0,1,3
+401820653,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,13,5,2,3,1,2,0,0,1,1,2,3,0,1,0,0
+401820653,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,26,10,2,6,1,1,5,8,2,2,4,1,1,1,1,3
+401820653,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,22,0,0,2,0,1,0,0,0,0,0,3,0,0,0,2
+401820653,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820653,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,28,16,7,13,1,1,1,2,2,5,7,0,0,2,2,5
+401820660,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,37,23,10,17,1,3,2,3,0,6,6,1,1,1,1,4
+401820660,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,True,False,False,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+401820660,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,38,21,5,10,1,2,10,10,0,6,6,12,3,0,4,3
+401820660,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,23,3,0,6,0,2,3,4,1,2,3,1,0,1,2,2
+401820660,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,9,0,0,0,0,0,0,0,2,0,2,0,0,0,0,3
+401820660,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,5,2,0,0,0,0,2,2,0,1,1,0,0,0,2,0
+401820660,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,23,4,1,3,0,2,2,2,1,1,2,2,0,1,0,2
+401820660,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,False,False,False,16,6,1,3,1,1,3,4,2,1,3,1,0,0,2,1
+401820660,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,19,6,2,4,2,3,0,0,0,1,1,1,0,0,0,3
+401820660,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,2390,Miami,False,5105798,Malik Reneau,5,F,True,False,False,30,18,5,12,2,3,6,8,2,2,4,2,1,1,3,4
+401820660,2026,2390,Miami,False,5101809,Shelton Henderson,7,F,True,False,False,34,17,7,9,2,4,1,5,1,4,5,0,3,0,2,3
+401820660,2026,2390,Miami,False,5106261,Ernest Udeh Jr.,8,C,True,False,False,29,13,5,6,0,0,3,4,4,11,15,1,1,1,0,2
+401820660,2026,2390,Miami,False,4845368,Tru Washington,10,G,True,False,False,29,7,2,9,1,5,2,4,0,1,1,2,2,0,1,2
+401820660,2026,2390,Miami,False,4837356,Tre Donaldson,3,G,True,False,False,33,27,8,13,3,6,8,9,0,1,1,10,3,0,1,3
+401820660,2026,2390,Miami,False,5281366,Timo Malovec,88,F,False,False,False,10,4,1,2,1,2,1,2,0,2,2,1,0,0,0,5
+401820660,2026,2390,Miami,False,5311984,Salih Altuntas,11,C,False,False,False,8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+401820660,2026,2390,Miami,False,5311986,Noam Dovrat,14,G,False,False,False,9,3,1,3,1,2,0,0,0,0,0,2,1,0,0,0
+401820660,2026,2390,Miami,False,5142709,Dante Allen,34,G,False,False,False,18,2,1,4,0,3,0,0,0,1,1,2,0,0,0,3
+401820660,2026,2390,Miami,False,4869762,Marcus Allen,4,F,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,2390,Miami,False,5101821,Treyvon Maddox,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,2390,Miami,False,5311985,JJ Laboy,12,G,False,True,False,,,,,,,,,,,,,,,,
+401820660,2026,2390,Miami,False,5214525,Jordyn Kee,1,G,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,5312288,Roman Siulepa,13,F,True,False,False,21,11,5,7,1,2,0,1,5,3,8,2,3,0,1,4
+401820668,2026,221,Pittsburgh,False,4712902,Cameron Corhen,2,F,True,False,False,28,15,6,9,0,1,3,4,0,3,3,1,4,1,1,4
+401820668,2026,221,Pittsburgh,False,5237300,Omari Witherspoon,8,G,True,False,False,18,4,2,3,0,1,0,0,0,1,1,2,0,1,2,0
+401820668,2026,221,Pittsburgh,False,5107652,Damarco Minor,7,G,True,False,False,34,3,1,4,1,2,0,0,1,3,4,7,1,1,0,2
+401820668,2026,221,Pittsburgh,False,4683675,Barry Dunning Jr.,22,G,True,False,False,30,17,6,12,2,6,3,3,1,6,7,1,0,0,0,3
+401820668,2026,221,Pittsburgh,False,5312287,Kieran Mullen,12,C,False,False,False,9,0,0,0,0,0,0,0,0,3,3,0,0,0,1,1
+401820668,2026,221,Pittsburgh,False,5196882,Macari Moore,21,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820668,2026,221,Pittsburgh,False,5101664,Nojus Indrusaitis,25,G,False,False,False,25,16,5,9,4,6,2,2,2,2,4,4,3,1,2,2
+401820668,2026,221,Pittsburgh,False,5060728,Brandin Cummings,3,G,False,False,False,34,23,9,20,3,8,2,2,0,2,2,2,1,0,2,2
+401820668,2026,221,Pittsburgh,False,5312286,Henry Lau,6,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,5238179,Amdy Ndiaye,0,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,5174567,Jajuan Nelson,44,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,5174566,Benjamin Mayhew,35,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,5174565,Papa Amadou Kante,4,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,221,Pittsburgh,False,4432926,Dishon Jackson,1,C,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,25,12,4,11,0,0,4,4,5,3,8,0,0,1,2,1
+401820668,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,29,11,3,10,0,2,5,6,2,0,2,3,0,0,2,2
+401820668,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,27,5,2,7,1,3,0,0,0,2,2,3,1,0,6,1
+401820668,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,15,2,1,2,0,1,0,0,0,3,3,2,0,0,3,0
+401820668,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,23,6,3,6,0,1,0,0,0,2,2,3,0,0,0,2
+401820668,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,8,0,0,1,0,0,0,2,2,2,4,0,0,0,0,0
+401820668,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,6,2,1,4,0,0,0,0,2,0,2,0,0,1,1,0
+401820668,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,20,3,1,4,0,1,1,3,0,4,4,3,2,1,0,1
+401820668,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,26,14,5,8,4,6,0,0,0,4,4,1,0,0,0,1
+401820668,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,21,11,4,7,3,6,0,0,0,0,0,1,0,0,1,2
+401820668,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820668,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,24,6,2,4,0,0,2,2,0,9,9,2,1,1,2,4
+401820678,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,38,21,6,13,4,10,5,8,0,5,5,3,0,0,2,2
+401820678,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,33,18,7,12,1,3,3,9,0,5,5,3,2,0,4,3
+401820678,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,33,16,5,11,2,4,4,4,3,4,7,0,1,0,5,1
+401820678,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,38,11,5,9,1,2,0,5,2,8,10,2,1,1,3,3
+401820678,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,15,0,0,0,0,0,0,0,1,2,3,0,0,0,0,2
+401820678,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+401820678,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,15,3,1,2,1,2,0,0,0,1,1,1,0,0,0,2
+401820678,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,4937074,Darrion Williams,1,F,True,False,False,30,7,2,11,1,6,2,2,0,4,4,5,4,0,2,2
+401820678,2026,152,NC State,False,4684799,Ven-Allen Lubin,22,F,True,False,False,31,12,5,9,0,0,2,6,3,4,7,2,0,3,1,3
+401820678,2026,152,NC State,False,4873151,Paul McNeil Jr.,2,G,True,False,False,28,12,3,11,3,10,3,4,1,2,3,0,0,1,0,2
+401820678,2026,152,NC State,False,4683860,Quadir Copeland,11,G,True,False,False,29,16,6,17,3,8,1,3,2,4,6,6,3,0,3,4
+401820678,2026,152,NC State,False,4585590,Alyn Breed,7,G,True,False,False,21,7,2,4,2,2,1,2,0,1,1,2,2,0,0,3
+401820678,2026,152,NC State,False,5311995,Musa Sagnia,13,C,False,False,False,9,6,2,2,0,0,2,2,0,1,1,0,0,0,1,0
+401820678,2026,152,NC State,False,5196877,Matt Able,3,G,False,False,False,17,5,1,3,1,3,2,2,0,3,3,1,0,0,1,3
+401820678,2026,152,NC State,False,5106059,Terrance Arceneaux,21,G,False,False,False,17,3,1,1,1,1,0,0,1,5,6,1,2,0,0,0
+401820678,2026,152,NC State,False,5105816,Tre Holloman,5,G,False,False,False,18,6,1,4,1,3,3,4,0,1,1,1,2,2,1,2
+401820678,2026,152,NC State,False,5174958,Jerry Deng,15,F,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,5142707,Colt Langdon,45,F,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,5101858,Zymicah Wilkins,33,F,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,4897482,Scottie Ebube,12,C,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,5311994,Jayme Kontuniemi,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820678,2026,152,NC State,False,5105430,Jordan Snell,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,228,Clemson,False,5176397,Carter Welling,22,F,True,False,False,12,2,0,4,0,0,2,2,1,1,2,2,0,1,1,3
+401820690,2026,228,Clemson,False,5174977,Jake Wahlin,10,F,True,False,False,31,13,5,10,3,6,0,0,0,8,8,1,1,1,0,1
+401820690,2026,228,Clemson,False,5105449,RJ Godfrey,0,F,True,False,False,18,9,4,7,0,1,1,1,1,3,4,2,2,0,0,4
+401820690,2026,228,Clemson,False,5106880,Jestin Porter,1,G,True,False,False,31,8,3,9,2,8,0,0,0,1,1,3,2,1,1,2
+401820690,2026,228,Clemson,False,5105445,Dillon Hunter,2,G,True,False,False,34,12,4,8,2,3,2,4,0,5,5,0,0,0,0,1
+401820690,2026,228,Clemson,False,5196962,Chase Thompson,3,F,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820690,2026,228,Clemson,False,4699440,Nick Davidson,11,F,False,False,False,30,13,5,10,1,4,2,3,2,4,6,0,0,2,2,2
+401820690,2026,228,Clemson,False,5179085,Ace Buckner,21,G,False,False,False,21,12,5,7,2,3,0,0,1,3,4,4,0,1,3,3
+401820690,2026,228,Clemson,False,5107144,Butta Johnson,4,G,False,False,False,19,8,2,6,1,3,3,3,1,3,4,2,0,0,1,0
+401820690,2026,228,Clemson,False,5311534,Blake Davidson,14,F,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,228,Clemson,False,5196959,Trent Steinour,44,F,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,228,Clemson,False,4869781,Dallas Thomas,8,F,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,228,Clemson,False,5237299,Zac Foster,5,G,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,31,5,2,3,0,0,1,2,1,9,10,2,1,3,1,2
+401820690,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,39,19,8,16,3,7,0,0,2,3,5,0,0,0,2,4
+401820690,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,34,10,3,10,0,2,4,5,2,4,6,5,3,2,5,0
+401820690,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,20,4,0,7,0,1,4,6,1,2,3,1,0,0,0,0
+401820690,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,20,8,3,7,2,3,0,0,0,1,1,0,0,0,1,3
+401820690,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,False,False,8,1,0,2,0,0,1,2,1,2,3,1,0,0,0,2
+401820690,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,6,2,1,1,0,0,0,0,0,1,1,0,0,0,0,0
+401820690,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,17,6,2,4,2,3,0,0,0,1,1,2,0,1,0,1
+401820690,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,25,8,2,7,2,5,2,2,2,0,2,3,0,0,0,3
+401820690,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820690,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,32,14,6,14,0,0,2,2,3,6,9,0,0,2,1,3
+401820699,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,26,8,4,8,0,3,0,0,0,1,1,0,1,0,2,2
+401820699,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,30,12,4,9,0,2,4,4,0,5,5,5,0,1,2,4
+401820699,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,30,11,4,7,3,6,0,0,1,3,4,1,0,0,1,2
+401820699,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,35,16,6,15,0,4,4,6,4,7,11,2,0,0,4,5
+401820699,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401820699,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,10,0,0,1,0,1,0,3,1,0,1,2,0,3,1,1
+401820699,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,7,2,0,0,0,0,2,2,0,0,0,0,1,0,1,2
+401820699,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,24,2,1,3,0,1,0,0,0,3,3,1,0,0,1,3
+401820699,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5106040,Tobi Lawal,1,F,True,False,False,25,10,2,7,1,3,5,8,2,3,5,0,1,1,3,5
+401820699,2026,259,Virginia Tech,False,4685673,Amani Hansberry,13,F,True,False,False,25,5,1,5,1,1,2,2,3,5,8,1,3,2,3,4
+401820699,2026,259,Virginia Tech,False,5311829,Neo Avdalas,17,G,True,False,False,29,9,3,15,2,9,1,2,0,3,3,2,1,1,0,0
+401820699,2026,259,Virginia Tech,False,5177040,Jailen Bedford,0,G,True,False,False,27,14,5,14,1,6,3,5,1,1,2,4,0,0,0,1
+401820699,2026,259,Virginia Tech,False,4873105,Ben Hammond,3,G,True,False,False,37,20,6,12,3,5,5,5,2,1,3,3,1,0,0,1
+401820699,2026,259,Virginia Tech,False,5311831,Antonio Dorn,77,C,False,False,False,7,2,1,3,0,0,0,0,2,2,4,0,0,0,0,2
+401820699,2026,259,Virginia Tech,False,5101850,Christian Gurdak,32,C,False,False,False,21,11,4,4,0,0,3,4,1,6,7,0,0,0,2,4
+401820699,2026,259,Virginia Tech,False,4712846,Jaden Schutt,2,G,False,False,False,29,0,0,5,0,5,0,0,1,1,2,1,0,0,0,1
+401820699,2026,259,Virginia Tech,False,5311826,Sin'Cere Jones,5,F,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5311830,Solomon Davis,22,C,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5311828,Shamarius Peterkin,15,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5311827,Brett Freeman,7,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5239617,Izaiah Pasha,4,G,False,True,False,,,,,,,,,,,,,,,,
+401820699,2026,259,Virginia Tech,False,5165275,Tyler Johnson,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,5095151,Caleb Wilson,8,F,True,False,False,30,22,9,15,1,3,3,3,2,4,6,5,1,1,1,1
+401820709,2026,153,North Carolina,False,5105571,Henri Veesaar,13,C,True,False,False,30,20,8,15,1,4,3,3,4,8,12,1,2,4,0,4
+401820709,2026,153,North Carolina,False,5144097,Derek Dixon,3,G,True,False,False,24,5,1,7,1,5,2,2,0,2,2,3,1,0,1,0
+401820709,2026,153,North Carolina,False,4712836,Seth Trimble,7,G,True,False,False,30,18,8,14,1,2,1,1,2,2,4,2,1,0,0,1
+401820709,2026,153,North Carolina,False,4711266,Jaydon Young,4,G,True,False,False,10,0,0,1,0,1,0,0,1,1,2,2,0,0,0,1
+401820709,2026,153,North Carolina,False,4895793,Zayden High,1,F,False,False,False,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0
+401820709,2026,153,North Carolina,False,4873181,Jarin Stevenson,15,F,False,False,False,22,7,3,6,0,1,1,2,2,4,6,2,1,0,0,1
+401820709,2026,153,North Carolina,False,5312014,Luka Bogavac,44,G,False,False,False,26,16,6,10,3,7,1,1,1,0,1,3,1,0,0,2
+401820709,2026,153,North Carolina,False,5101669,Jonathan Powell,11,G,False,False,False,10,0,0,3,0,2,0,0,0,1,1,0,0,0,0,0
+401820709,2026,153,North Carolina,False,5093253,Kyan Evans,0,G,False,False,False,16,3,1,6,1,6,0,0,0,2,2,3,2,0,0,1
+401820709,2026,153,North Carolina,False,5238173,John Holbrook,25,F,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,5241596,Ivan Matlekovic,40,C,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,4869763,James Brown,2,C,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,5312013,Evan Smith,32,G,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,5217193,Isaiah Denis,5,G,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,153,North Carolina,False,5116699,Elijah Davis,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,38,27,9,12,1,1,8,10,2,5,7,4,0,2,3,3
+401820709,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,30,14,6,10,2,2,0,0,2,1,3,1,0,1,1,2
+401820709,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,25,6,2,11,0,0,2,2,1,6,7,3,1,0,2,0
+401820709,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,24,4,2,6,0,0,0,0,1,2,3,2,0,0,2,2
+401820709,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,28,6,2,6,0,0,2,3,0,5,5,1,0,0,2,2
+401820709,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,8,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+401820709,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,29,15,5,11,3,8,2,2,0,4,4,1,0,0,1,0
+401820709,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,18,3,1,3,1,2,0,0,1,1,2,4,0,1,1,0
+401820709,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820709,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,32,10,4,6,0,0,2,3,3,9,12,8,1,0,2,5
+401820717,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,6,0,0,3,0,2,0,0,0,1,1,0,0,0,0,1
+401820717,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,26,9,4,9,0,2,1,4,0,5,5,4,0,0,3,2
+401820717,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,31,14,5,13,3,9,1,2,2,2,4,1,0,2,0,3
+401820717,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,33,14,5,9,2,3,2,2,0,3,3,2,0,0,1,3
+401820717,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,5,2,1,1,0,0,0,0,0,0,0,0,0,1,0,2
+401820717,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,19,2,1,3,0,2,0,0,0,1,1,1,2,0,1,4
+401820717,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,False,False,False,22,19,8,17,3,6,0,0,2,3,5,2,1,1,1,4
+401820717,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,26,15,6,10,2,5,1,3,0,2,2,2,1,0,0,3
+401820717,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,4684627,Chris Bell,22,F,True,False,False,26,14,4,9,3,5,3,4,0,4,4,1,0,0,2,1
+401820717,2026,25,California,False,4684155,John Camden,2,F,True,False,False,35,15,4,5,3,4,4,6,0,5,5,1,0,0,1,2
+401820717,2026,25,California,False,4897890,Milos Ilic,8,C,True,False,False,23,11,2,5,0,0,7,7,2,7,9,1,0,0,1,4
+401820717,2026,25,California,False,5196370,Justin Pippen,10,G,True,False,False,33,13,4,14,1,5,4,6,2,5,7,6,1,1,2,1
+401820717,2026,25,California,False,4845373,Dai Dai Ames,7,G,True,False,False,31,29,9,13,3,4,8,10,0,1,1,2,0,1,5,4
+401820717,2026,25,California,False,5176804,Dhiaukuei Manyiel Dut,12,F,False,False,False,8,1,0,0,0,0,1,2,1,3,4,1,0,0,0,2
+401820717,2026,25,California,False,5239840,Mantas Kocanas,17,C,False,False,False,9,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0
+401820717,2026,25,California,False,5164560,Semetri Carr,3,G,False,False,False,14,1,0,2,0,0,1,2,0,2,2,0,0,0,1,1
+401820717,2026,25,California,False,5107343,DeJuan Campbell,1,G,False,False,False,16,6,2,6,2,5,0,0,1,1,2,1,1,1,1,2
+401820717,2026,25,California,False,4703253,Nolan Dorsey,21,G,False,False,False,5,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0
+401820717,2026,25,California,False,5113388,Rytis Petraitis,31,F,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5061606,Sammie Yeanay,23,F,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,4683672,Lee Dort,34,F,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5311533,Luke Butler,15,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5311532,Jorell Clark,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5245385,BJ Fisher,26,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5238159,Stephon Marbury II,30,G,False,True,False,,,,,,,,,,,,,,,,
+401820717,2026,25,California,False,5041956,Jovani Ruff,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,28,14,6,12,0,0,2,2,3,3,6,2,1,0,4,2
+401820727,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,26,6,2,7,1,2,1,2,2,6,8,2,1,0,1,0
+401820727,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,True,False,False,27,5,1,7,1,4,2,2,0,0,0,0,1,0,2,3
+401820727,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,33,19,7,11,2,3,3,6,2,1,3,1,1,0,1,3
+401820727,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,28,13,5,16,1,3,2,2,0,3,3,1,1,1,2,0
+401820727,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,17,8,4,8,0,3,0,0,2,1,3,3,0,0,0,1
+401820727,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,12,4,2,2,0,0,0,1,0,0,0,0,0,0,0,3
+401820727,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,11,3,1,2,0,0,1,2,0,1,1,1,2,0,1,3
+401820727,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,18,0,0,0,0,0,0,0,0,1,1,0,1,1,1,3
+401820727,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5214644,Donavin Young,2,F,True,False,False,30,9,4,6,1,1,0,0,2,2,4,0,2,5,1,0
+401820727,2026,24,Stanford,False,5105657,AJ Rohosy,4,F,True,False,False,21,8,4,5,0,0,0,2,2,5,7,0,1,1,2,3
+401820727,2026,24,Stanford,False,5258459,Ebuka Okorie,1,G,True,False,False,36,40,12,21,3,6,13,13,1,4,5,4,4,1,2,0
+401820727,2026,24,Stanford,False,5105633,Benny Gealer,5,G,True,False,False,21,9,3,5,3,5,0,0,1,0,1,1,0,0,1,3
+401820727,2026,24,Stanford,False,5105632,Ryan Agarwal,11,G,True,False,False,30,4,2,8,0,5,0,0,1,8,9,2,0,1,2,3
+401820727,2026,24,Stanford,False,5175009,Aidan Cammann,52,F,False,False,False,17,7,1,3,1,2,4,4,0,3,3,0,1,1,1,3
+401820727,2026,24,Stanford,False,5105634,Jaylen Thompson,24,F,False,False,False,10,2,1,1,0,0,0,0,0,1,1,0,0,0,0,0
+401820727,2026,24,Stanford,False,5312293,Oskar Giltay,15,C,False,False,False,11,0,0,1,0,0,0,0,1,2,3,1,1,1,0,2
+401820727,2026,24,Stanford,False,5175008,Cameron Grant,20,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820727,2026,24,Stanford,False,5189814,Jeremy Dent-Smith,25,G,False,False,False,23,16,6,11,4,8,0,0,0,2,2,2,1,0,3,2
+401820727,2026,24,Stanford,False,5312292,Kristers Skrinda,12,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5164370,Evan Stinson,33,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5152726,Tallis Toure,3,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,4684745,Chisom Okpara,10,F,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5312291,Myles Jones,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5238186,Ethan Kitch,13,G,False,True,False,,,,,,,,,,,,,,,,
+401820727,2026,24,Stanford,False,5183923,Anthony Batson Jr.,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5176758,Tre'Von Spillers,25,F,True,False,False,32,13,5,7,1,2,2,2,2,2,4,3,1,2,0,2
+401820735,2026,154,Wake Forest,False,5176402,Cooper Schwieger,13,F,True,False,False,27,13,4,6,2,3,3,6,0,3,3,1,2,1,0,1
+401820735,2026,154,Wake Forest,False,5241913,Sebastian Akins,10,G,True,False,False,27,4,1,7,0,3,2,3,1,1,2,2,1,0,3,1
+401820735,2026,154,Wake Forest,False,5142609,Juke Harris,2,G,True,False,False,39,23,9,18,3,8,2,3,1,12,13,3,0,0,0,1
+401820735,2026,154,Wake Forest,False,4894452,Myles Colvin,6,G,True,False,False,22,7,2,5,1,3,2,2,1,8,9,2,0,3,4,1
+401820735,2026,154,Wake Forest,False,5175037,Omaha Biliew,0,F,False,False,False,14,3,1,2,1,2,0,2,0,1,1,0,1,1,1,3
+401820735,2026,154,Wake Forest,False,5237435,Isaac Carr,7,G,False,False,False,13,3,1,1,1,1,0,0,0,0,0,4,0,0,1,0
+401820735,2026,154,Wake Forest,False,4905250,Mekhi Mason,8,G,False,False,False,26,17,5,7,4,6,3,4,0,2,2,4,1,1,0,2
+401820735,2026,154,Wake Forest,False,5105342,Owen Kmety,,F,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5312297,Dimitrije Kovacevic,33,F,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5174580,Vincent Ricchiuti,9,F,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5174579,Marqus Marion,11,F,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5196911,Jaylen Cross,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5312296,Anson Beard Jr.,30,G,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5174581,Will Underwood,4,G,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,154,Wake Forest,False,5108081,Nate Calmese,1,G,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,30,14,6,9,0,0,2,2,4,5,9,1,1,2,2,3
+401820735,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,30,18,7,12,3,5,1,2,2,4,6,1,1,1,0,4
+401820735,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,19,0,0,5,0,1,0,0,1,0,1,3,1,0,2,1
+401820735,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,31,9,4,15,1,4,0,0,1,2,3,5,1,0,0,4
+401820735,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,21,9,3,6,1,2,2,3,0,2,2,2,0,0,1,1
+401820735,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,10,3,1,2,1,1,0,0,0,0,0,0,1,0,1,0
+401820735,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,10,0,0,1,0,0,0,2,1,1,2,1,0,0,0,0
+401820735,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,8,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0
+401820735,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,25,9,3,8,3,4,0,0,0,3,3,0,0,0,0,0
+401820735,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,16,5,2,6,1,3,0,0,1,1,2,2,0,0,1,1
+401820735,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820735,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,29,14,4,5,0,1,6,6,3,9,12,3,0,0,5,1
+401820743,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,31,16,7,15,2,9,0,0,0,1,1,0,0,3,3,3
+401820743,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,True,False,False,23,6,2,5,2,4,0,0,0,2,2,4,2,0,3,2
+401820743,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,25,13,4,8,1,3,4,4,0,0,0,1,1,0,1,3
+401820743,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,35,14,4,7,3,4,3,4,0,1,1,3,0,0,0,1
+401820743,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+401820743,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,False,False,False,17,2,1,5,0,2,0,0,0,3,3,0,2,0,1,1
+401820743,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,15,0,0,1,0,1,0,0,1,0,1,0,0,0,0,2
+401820743,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,22,9,3,7,3,6,0,0,0,1,1,1,2,0,1,4
+401820743,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5312256,Brady Koehler,6,F,True,False,False,17,3,1,3,1,2,0,0,1,3,4,2,1,1,1,4
+401820743,2026,87,Notre Dame,False,4702120,Carson Towt,33,F,True,False,False,29,8,4,4,0,0,0,1,5,4,9,2,2,1,2,1
+401820743,2026,87,Notre Dame,False,5144373,Cole Certa,5,G,True,False,False,40,37,12,20,7,11,6,6,1,2,3,0,0,0,0,0
+401820743,2026,87,Notre Dame,False,4912455,Braeden Shrewsberry,11,G,True,False,False,40,20,5,11,4,8,6,6,0,1,1,4,1,0,4,0
+401820743,2026,87,Notre Dame,False,4872727,Logan Imes,2,G,True,False,False,36,14,6,12,2,4,0,0,2,7,9,3,1,0,3,2
+401820743,2026,87,Notre Dame,False,5312257,Ryder Frost,7,F,False,False,False,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401820743,2026,87,Notre Dame,False,5142610,Garrett Sundra,12,F,False,False,False,12,5,1,1,0,0,3,4,0,2,2,0,0,0,0,3
+401820743,2026,87,Notre Dame,False,5137653,Sir Mohammed,13,G,False,False,False,23,2,0,7,0,2,2,2,2,3,5,3,0,0,1,3
+401820743,2026,87,Notre Dame,False,5312261,Matthew MacLellan,34,F,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5312260,Luke Devine,22,F,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5105845,Kebba Njie,14,F,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5312259,Tommy Ahneman,15,C,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5312258,Jalen Haralson,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5238175,Brady Stevens,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5141770,Mark Zackery IV,24,G,False,True,False,,,,,,,,,,,,,,,,
+401820743,2026,87,Notre Dame,False,5101623,Markus Burton,3,G,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,258,Virginia,False,5311846,Thijs De Ridder,28,F,True,False,False,22,22,9,13,1,3,3,4,1,4,5,0,3,1,0,0
+401820750,2026,258,Virginia,False,5311844,Johann Grunloh,17,C,True,False,False,21,11,4,6,1,3,2,3,5,1,6,1,1,4,1,3
+401820750,2026,258,Virginia,False,5176232,Sam Lewis,5,G,True,False,False,22,6,2,9,0,3,2,2,2,3,5,0,0,0,1,1
+401820750,2026,258,Virginia,False,5105464,Dallin Hall,30,G,True,False,False,28,12,5,8,2,3,0,1,0,3,3,10,2,0,1,0
+401820750,2026,258,Virginia,False,4683758,Malik Thomas,1,G,True,False,False,19,17,6,11,5,8,0,0,1,3,4,1,0,0,3,3
+401820750,2026,258,Virginia,False,4894460,Carter Lang,35,F,False,False,False,2,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+401820750,2026,258,Virginia,False,4703393,Devin Tillis,11,F,False,False,False,11,6,2,4,2,3,0,0,0,1,1,0,1,0,2,2
+401820750,2026,258,Virginia,False,5037878,Ugonna Onyenso,33,C,False,False,False,17,6,3,7,0,1,0,1,4,5,9,2,1,4,0,2
+401820750,2026,258,Virginia,False,5311845,Owen Odom,22,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820750,2026,258,Virginia,False,5239714,Martin Carrere,7,G,False,False,False,9,1,0,1,0,0,1,2,2,0,2,0,1,0,2,1
+401820750,2026,258,Virginia,False,5174572,Desmond Roberts,13,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820750,2026,258,Virginia,False,5150404,Chance Mallory,2,G,False,False,False,23,6,2,7,2,5,0,0,2,5,7,5,2,0,1,1
+401820750,2026,258,Virginia,False,5107274,Jacari White,6,G,False,False,False,18,5,2,8,1,5,0,0,0,4,4,2,0,0,2,0
+401820750,2026,258,Virginia,False,5080790,Elijah Gertrude,12,G,False,False,False,6,2,1,4,0,2,0,0,2,0,2,2,1,0,0,0
+401820750,2026,258,Virginia,False,5144157,Silas Barksdale,21,F,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,25,13,4,8,0,0,5,6,4,4,8,2,2,0,3,3
+401820750,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,29,12,4,11,1,3,3,4,0,1,1,0,2,1,2,1
+401820750,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,21,7,3,3,0,0,1,1,0,1,1,4,1,0,3,1
+401820750,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,16,0,0,7,0,2,0,0,1,2,3,1,0,1,0,2
+401820750,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,35,18,6,13,1,2,5,5,0,6,6,2,0,0,0,2
+401820750,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,False,False,23,4,2,6,0,3,0,0,0,3,3,2,0,0,3,2
+401820750,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,21,4,2,3,0,0,0,0,1,3,4,1,0,0,2,2
+401820750,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,22,7,2,10,1,6,2,3,1,2,3,2,3,1,1,1
+401820750,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,8,3,1,3,1,3,0,0,0,0,0,0,0,0,2,1
+401820750,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820750,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,37,17,7,14,0,2,3,4,4,3,7,4,2,2,4,4
+401820756,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,20,6,2,7,0,1,2,2,0,2,2,0,0,0,1,0
+401820756,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,35,12,5,10,2,5,0,0,0,2,2,3,4,0,5,4
+401820756,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,28,15,7,13,1,4,0,0,0,5,5,2,1,0,1,1
+401820756,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,29,12,3,7,0,1,6,6,1,0,1,1,1,0,3,4
+401820756,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,28,6,3,3,0,0,0,0,4,7,11,1,1,0,0,2
+401820756,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,7,0,0,4,0,3,0,0,0,0,0,0,0,0,1,1
+401820756,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,16,2,1,3,0,2,0,0,1,0,1,2,0,0,1,0
+401820756,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,97,Louisville,False,5311967,Sananda Fru,13,F,True,False,False,17,2,1,3,0,0,0,0,2,2,4,0,1,1,2,1
+401820756,2026,97,Louisville,False,5107157,Ryan Conwell,3,G,True,False,False,30,15,5,11,2,7,3,3,1,0,1,4,1,0,3,1
+401820756,2026,97,Louisville,False,5101761,Mikel Brown Jr.,0,G,True,False,False,31,19,5,10,3,7,6,6,0,4,4,2,2,0,4,2
+401820756,2026,97,Louisville,False,4712845,Isaac McKneely,10,G,True,False,False,23,14,4,4,3,3,3,3,0,2,2,0,1,0,2,1
+401820756,2026,97,Louisville,False,4702784,J'Vonne Hadley,1,G,True,False,False,27,17,6,11,1,5,4,4,2,3,5,3,2,0,1,2
+401820756,2026,97,Louisville,False,5311969,Vangelis Zougris,53,F,False,False,False,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+401820756,2026,97,Louisville,False,4873187,Khani Rooths,9,F,False,False,False,16,3,1,3,1,2,0,0,0,2,2,0,0,0,2,2
+401820756,2026,97,Louisville,False,4589481,Kasean Pryor,7,F,False,False,False,7,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+401820756,2026,97,Louisville,False,4702739,Aly Khalifa,15,C,False,False,False,17,4,1,3,1,2,1,2,0,3,3,3,1,0,2,1
+401820756,2026,97,Louisville,False,5311968,Will Hanke,33,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401820756,2026,97,Louisville,False,5242127,Adrian Wooley,14,G,False,False,False,14,3,1,4,1,3,0,0,0,2,2,1,2,0,0,1
+401820756,2026,97,Louisville,False,5174946,Kobe Rodgers,11,G,False,False,False,10,7,2,2,1,1,2,2,1,2,3,0,0,0,1,1
+401820756,2026,97,Louisville,False,5106779,Cole Sherman,4,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401820756,2026,97,Louisville,False,5105765,Spencer Legg,55,G,False,False,False,1,3,1,1,1,1,0,0,0,1,1,0,0,0,0,0
+401820756,2026,97,Louisville,False,5311966,Mouhamed Camara,12,F,False,True,False,,,,,,,,,,,,,,,,
+401820756,2026,97,Louisville,False,5104203,London Johnson,5,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5316049,Alex Steen,25,F,True,False,False,23,7,2,3,0,0,3,4,3,5,8,0,0,1,0,1
+401820772,2026,52,Florida State,False,5316047,Thomas Bassong,3,F,True,False,False,27,14,6,8,1,1,1,4,7,5,12,1,1,0,2,3
+401820772,2026,52,Florida State,False,5105448,Chauncey Wiggins,7,F,True,False,False,22,12,3,8,1,5,5,6,1,0,1,0,1,2,0,1
+401820772,2026,52,Florida State,False,5108969,Lajae Jones,10,G,True,False,False,33,4,1,9,0,5,2,2,1,6,7,2,2,0,1,4
+401820772,2026,52,Florida State,False,4685802,Robert McCray V,6,G,True,False,False,29,20,8,15,3,4,1,2,1,3,4,5,2,0,1,3
+401820772,2026,52,Florida State,False,4873208,AJ Swinton,19,F,False,False,False,25,7,3,5,1,3,0,0,1,2,3,3,2,0,2,3
+401820772,2026,52,Florida State,False,5316046,Cam Miles,2,G,False,False,False,13,4,2,4,0,2,0,0,0,0,0,1,0,0,0,0
+401820772,2026,52,Florida State,False,5239821,Martin Somerville,1,G,False,False,False,25,9,1,7,0,5,7,8,2,3,5,3,1,0,1,3
+401820772,2026,52,Florida State,False,5105779,Kobe MaGee,5,G,False,False,False,3,3,1,1,1,1,0,0,0,1,1,0,0,0,1,0
+401820772,2026,52,Florida State,False,5238166,Alier Maluk,12,F,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5114231,Shah Muhammad,4,F,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5332074,Jasen Lopez,8,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5316048,Xavier Osceola,11,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5316045,Max Garcia-Plata,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,52,Florida State,False,5238165,Jalen Crawford,15,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,16,0,0,1,0,0,0,0,2,4,6,1,0,0,0,5
+401820772,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,31,17,4,14,3,9,6,8,1,3,4,2,0,1,2,3
+401820772,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,21,2,0,3,0,3,2,2,0,3,3,3,0,0,2,2
+401820772,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,33,15,5,10,2,4,3,4,1,2,3,1,0,1,2,2
+401820772,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,37,16,6,16,1,5,3,5,6,1,7,8,0,0,0,3
+401820772,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,16,0,0,0,0,0,0,0,1,3,4,0,1,0,0,2
+401820772,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401820772,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,27,15,5,12,5,11,0,0,1,0,1,1,0,0,1,1
+401820772,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,18,6,2,6,2,6,0,0,1,2,3,1,0,0,2,0
+401820772,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820772,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,4684627,Chris Bell,22,F,True,False,False,26,10,4,12,0,7,2,4,0,1,1,1,2,1,0,3
+401820780,2026,25,California,False,4684155,John Camden,2,F,True,False,False,32,12,3,7,2,6,4,4,1,9,10,2,2,0,1,5
+401820780,2026,25,California,False,4683672,Lee Dort,34,F,True,False,False,28,16,8,11,0,0,0,1,0,6,6,0,0,2,2,2
+401820780,2026,25,California,False,5196370,Justin Pippen,10,G,True,False,False,31,0,0,7,0,2,0,0,0,2,2,8,3,1,4,3
+401820780,2026,25,California,False,4845373,Dai Dai Ames,7,G,True,False,False,31,18,6,11,2,3,4,4,0,3,3,3,0,0,0,2
+401820780,2026,25,California,False,5061606,Sammie Yeanay,23,F,False,False,False,2,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+401820780,2026,25,California,False,4897890,Milos Ilic,8,C,False,False,False,12,4,2,3,0,1,0,2,0,5,5,1,1,0,0,3
+401820780,2026,25,California,False,5164560,Semetri Carr,3,G,False,False,False,14,8,2,2,1,1,3,4,2,2,4,1,0,0,0,1
+401820780,2026,25,California,False,5107343,DeJuan Campbell,1,G,False,False,False,18,8,3,10,0,3,2,2,0,1,1,1,1,0,1,1
+401820780,2026,25,California,False,4703253,Nolan Dorsey,21,G,False,False,False,6,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0
+401820780,2026,25,California,False,5176804,Dhiaukuei Manyiel Dut,12,F,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5113388,Rytis Petraitis,31,F,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5239840,Mantas Kocanas,17,C,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5311533,Luke Butler,15,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5311532,Jorell Clark,6,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5245385,BJ Fisher,26,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5238159,Stephon Marbury II,30,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,25,California,False,5041956,Jovani Ruff,0,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,27,8,3,5,0,0,2,4,1,5,6,1,0,0,7,4
+401820780,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,36,19,6,12,5,9,2,2,1,5,6,1,0,1,2,4
+401820780,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,36,8,2,7,0,3,4,5,0,8,8,10,3,0,1,3
+401820780,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,33,16,4,12,1,5,7,7,0,1,1,2,1,1,2,3
+401820780,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,34,10,3,7,0,1,4,5,0,8,8,2,0,0,1,2
+401820780,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,13,4,2,2,0,0,0,1,1,0,1,0,0,2,2,1
+401820780,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,False,False,5,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+401820780,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,16,0,0,3,0,1,0,0,0,3,3,0,1,0,2,3
+401820780,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820780,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5142356,Baye Ndongo,11,F,True,False,False,31,5,2,5,0,0,1,2,4,6,10,3,0,0,3,4
+401820787,2026,59,Georgia Tech,True,4683757,Kowacie Reeves Jr.,14,F,True,False,False,39,20,9,12,2,4,0,0,0,4,4,0,0,1,2,2
+401820787,2026,59,Georgia Tech,True,5106284,Lamar Washington,1,G,True,False,False,17,3,1,2,1,2,0,0,0,0,0,2,1,0,2,4
+401820787,2026,59,Georgia Tech,True,5101784,Akai Fleming,0,G,True,False,False,40,18,5,12,2,3,6,7,2,4,6,1,0,0,4,4
+401820787,2026,59,Georgia Tech,True,5060730,Jaeden Mustaf,3,G,True,False,False,36,28,8,14,1,4,11,12,1,4,5,2,3,0,2,1
+401820787,2026,59,Georgia Tech,True,5172343,Cole Kirouac,8,C,False,False,False,14,0,0,0,0,0,0,0,0,1,1,0,1,3,0,2
+401820787,2026,59,Georgia Tech,True,4888733,Chas Kelley III,7,G,False,False,False,23,2,1,7,0,5,0,0,0,2,2,3,1,0,1,4
+401820787,2026,59,Georgia Tech,True,5248298,Eric Chatfield Jr.,2,F,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5238167,Dyllan Thompson,32,F,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5258494,Mouhamed Sylla,6,C,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5061592,Peyton Marshall,5,C,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5311960,Davi Remagen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5144109,Brandon Stores Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,59,Georgia Tech,True,5105607,Kam Craft,12,G,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,228,Clemson,False,5105449,RJ Godfrey,0,F,True,False,False,17,8,3,4,0,0,2,3,4,2,6,3,1,0,1,1
+401820787,2026,228,Clemson,False,4699440,Nick Davidson,11,F,True,False,False,23,15,6,8,3,5,0,0,1,1,2,0,0,0,0,5
+401820787,2026,228,Clemson,False,5107144,Butta Johnson,4,G,True,False,False,32,15,5,8,2,5,3,3,0,3,3,2,2,0,2,1
+401820787,2026,228,Clemson,False,5106880,Jestin Porter,1,G,True,False,False,32,9,3,9,1,6,2,2,1,1,2,0,0,0,1,0
+401820787,2026,228,Clemson,False,5105445,Dillon Hunter,2,G,True,False,False,23,3,0,5,0,2,3,4,0,4,4,5,2,1,0,1
+401820787,2026,228,Clemson,False,5196962,Chase Thompson,3,F,False,False,False,4,3,0,0,0,0,3,4,0,0,0,1,1,0,0,1
+401820787,2026,228,Clemson,False,5176397,Carter Welling,22,F,False,False,False,22,13,5,9,1,1,2,3,1,3,4,0,2,2,1,2
+401820787,2026,228,Clemson,False,5174977,Jake Wahlin,10,F,False,False,False,22,3,1,6,1,4,0,0,0,3,3,0,0,0,2,2
+401820787,2026,228,Clemson,False,5179085,Ace Buckner,21,G,False,False,False,25,10,2,7,1,3,5,7,1,0,1,5,2,0,1,3
+401820787,2026,228,Clemson,False,5311534,Blake Davidson,14,F,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,228,Clemson,False,5196959,Trent Steinour,44,F,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,228,Clemson,False,4869781,Dallas Thomas,8,F,False,True,False,,,,,,,,,,,,,,,,
+401820787,2026,228,Clemson,False,5237299,Zac Foster,5,G,False,True,False,,,,,,,,,,,,,,,,
