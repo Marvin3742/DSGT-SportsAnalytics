@@ -9,6 +9,7 @@ __pycache__/
 # Raw API cache (processed CSVs are committed)
 data/raw/*
 !data/raw/.gitkeep
+data/exports/
 
 # Environment / secrets
 .env

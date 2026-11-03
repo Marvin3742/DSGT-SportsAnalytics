@@ -9,5 +9,6 @@ dependencies:
   - ipykernel
   - pytest
   - ruff
+  - typer
   - pip:
       - -e .

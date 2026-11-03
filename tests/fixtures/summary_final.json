@@ -2667,5 +2667,62 @@
     "displayOrder": 2
    }
   ]
+ },
+ "gameInfo": {
+  "venue": {
+   "id": "2206",
+   "guid": "e670c3d3-8efe-380e-8cdd-17ebf4c8bcc3",
+   "fullName": "McCamish Pavilion",
+   "address": {
+    "city": "Atlanta",
+    "state": "GA"
+   },
+   "grass": false,
+   "images": [
+    {
+     "href": "https://a.espncdn.com/i/venues/mens-college-basketball/day/2206.jpg",
+     "width": 2000,
+     "height": 1125,
+     "alt": "",
+     "rel": [
+      "full",
+      "day"
+     ]
+    }
+   ]
+  },
+  "attendance": 3551,
+  "officials": [
+   {
+    "fullName": "Ron Groover",
+    "displayName": "Ron Groover",
+    "position": {
+     "name": "Referee",
+     "displayName": "Referee",
+     "id": "40"
+    },
+    "order": 1
+   },
+   {
+    "fullName": "Connor Penn",
+    "displayName": "Connor Penn",
+    "position": {
+     "name": "Referee",
+     "displayName": "Referee",
+     "id": "40"
+    },
+    "order": 2
+   },
+   {
+    "fullName": "Italo Araujo",
+    "displayName": "Italo Araujo",
+    "position": {
+     "name": "Referee",
+     "displayName": "Referee",
+     "id": "40"
+    },
+    "order": 3
+   }
+  ]
  }
 }

@@ -1,0 +1,7 @@
+seasons = [2026, 2027]
+
+# Team names, abbreviations, or ESPN ids to scrape. Empty means all of Division I.
+teams = []
+
+# Teams whose full rosters and player bios go into players.csv.
+roster_teams = ["Georgia Tech"]

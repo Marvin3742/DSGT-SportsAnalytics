@@ -1,30 +1,30 @@
-player_id,season,player,first_name,last_name,jersey,position,height_in,height,weight_lb,class,hometown,headshot_url
-5248298,2026,Eric Chatfield Jr.,Eric,Chatfield Jr.,2,F,72,"6' 0""",160,Sophomore,"Atlanta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5248298.png
-5105607,2026,Kam Craft,Kam,Craft,12,G,78,"6' 6""",225,Senior,"Chicago, IL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105607.png
-5101784,2026,Akai Fleming,Akai,Fleming,5,G,76,"6' 4""",200,Sophomore,"Marietta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101784.png
-5172343,2026,Cole Kirouac,Cole,Kirouac,8,C,84,"7' 0""",215,Sophomore,"Cumming, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5172343.png
-5061592,2026,Peyton Marshall,Peyton,Marshall,6,C,84,"7' 0""",270,Junior,"Atlanta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5061592.png
-5060730,2026,Jaeden Mustaf,Jaeden,Mustaf,3,G,78,"6' 6""",215,Junior,"Bowie, MD",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5060730.png
-5142356,2026,Baye Ndongo,Baye,Ndongo,11,F,81,"6' 9""",238,Senior,"Mbour, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142356.png
-5311960,2026,Davi Remagen,Davi,Remagen,1,G,75,"6' 3""",208,Sophomore,"Koln, Germany",
-5144109,2026,Brandon Stores Jr.,Brandon,Stores Jr.,12,G,77,"6' 5""",210,Freshman,"Bronx, NY",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144109.png
-5258494,2026,Mouhamed Sylla,Mouhamed,Sylla,14,C,82,"6' 10""",230,Sophomore,"Louga, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5258494.png
-5238167,2026,Dyllan Thompson,Dyllan,Thompson,21,F,79,"6' 7""",215,Junior,"Houston, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5238167.png
-5106284,2026,Lamar Washington,Lamar,Washington,8,G,76,"6' 4""",210,Senior,"Portland, OR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106284.png
-4683757,2026,Kowacie Reeves Jr.,Kowacie,Reeves Jr.,14,F,79,"6' 7""",205,Senior,,https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683757.png
-4888733,2026,Chas Kelley III,Chas,Kelley III,7,G,75,"6' 3""",185,Senior,,https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4888733.png
-5174455,2027,Kayden Allen,Kayden,Allen,1,G,78,"6' 6""",210,Freshman,"Lilburn, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174455.png
-5144491,2027,Kaiden Bailey,Kaiden,Bailey,2,G,74,"6' 2""",185,Freshman,"Irvine, CA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144491.png
-5105607,2027,Kam Craft,Kam,Craft,12,G,78,"6' 6""",225,Senior,"Chicago, IL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105607.png
-5454821,2027,Cody Cross,Cody,Cross,35,G,74,"6' 2""",190,Freshman,"Mansfield, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5454821.png
-5210396,2027,Moustapha Diop,Moustapha,Diop,5,F,83,"6' 11""",205,Freshman,"Theis, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5210396.png
-5106449,2027,Jackson Fields,Jackson,Fields,7,F,81,"6' 9""",220,Senior,"Missouri City, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106449.png
-5176315,2027,Colby Garland,Colby,Garland,0,G,73,"6' 1""",195,Senior,"Magnolia, AR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176315.png
-5345510,2027,Haiden Harper,Haiden,Harper,9,G,73,"6' 1""",165,Freshman,"Opelika, AL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5345510.png
-5144115,2027,Tylis Jordan,Tylis,Jordan,10,F,82,"6' 10""",215,Sophomore,"Milledgeville, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144115.png
-5172343,2027,Cole Kirouac,Cole,Kirouac,8,C,84,"7' 0""",215,Sophomore,"Cumming, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5172343.png
-5454822,2027,Ilja Kurucs,Ilja,Kurucs,6,F,82,"6' 10""",210,Freshman,"Cesis, Latvia",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5454822.png
-5144145,2027,Jackson McVey,Jackson,McVey,14,C,85,"7' 1""",250,Sophomore,"Ellijay, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144145.png
-5221320,2027,Courtland Muldrew,Courtland,Muldrew,30,G,75,"6' 3""",195,Sophomore,"Bentonville, AR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5221320.png
-5176736,2027,Victor Valdes,Victor,Valdes,11,F,79,"6' 7""",245,Senior,"Monterrey, Mexico",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176736.png
-5176076,2027,Nasir Whitlock,Nasir,Whitlock,3,G,74,"6' 2""",180,Senior,"Brooklyn Park, MN",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176076.png
+player_id,season,team_id,player,first_name,last_name,jersey,position,height_in,height,weight_lb,class,hometown,headshot_url
+5248298,2026,59,Eric Chatfield Jr.,Eric,Chatfield Jr.,2,F,72,"6' 0""",160,Sophomore,"Atlanta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5248298.png
+5105607,2026,59,Kam Craft,Kam,Craft,12,G,78,"6' 6""",225,Senior,"Chicago, IL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105607.png
+5101784,2026,59,Akai Fleming,Akai,Fleming,5,G,76,"6' 4""",200,Sophomore,"Marietta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101784.png
+5172343,2026,59,Cole Kirouac,Cole,Kirouac,8,C,84,"7' 0""",215,Sophomore,"Cumming, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5172343.png
+5061592,2026,59,Peyton Marshall,Peyton,Marshall,6,C,84,"7' 0""",270,Junior,"Atlanta, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5061592.png
+5060730,2026,59,Jaeden Mustaf,Jaeden,Mustaf,3,G,78,"6' 6""",215,Junior,"Bowie, MD",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5060730.png
+5142356,2026,59,Baye Ndongo,Baye,Ndongo,11,F,81,"6' 9""",238,Senior,"Mbour, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142356.png
+5311960,2026,59,Davi Remagen,Davi,Remagen,1,G,75,"6' 3""",208,Sophomore,"Koln, Germany",
+5144109,2026,59,Brandon Stores Jr.,Brandon,Stores Jr.,12,G,77,"6' 5""",210,Freshman,"Bronx, NY",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144109.png
+5258494,2026,59,Mouhamed Sylla,Mouhamed,Sylla,14,C,82,"6' 10""",230,Sophomore,"Louga, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5258494.png
+5238167,2026,59,Dyllan Thompson,Dyllan,Thompson,21,F,79,"6' 7""",215,Junior,"Houston, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5238167.png
+5106284,2026,59,Lamar Washington,Lamar,Washington,8,G,76,"6' 4""",210,Senior,"Portland, OR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106284.png
+4683757,2026,59,Kowacie Reeves Jr.,Kowacie,Reeves Jr.,14,F,79,"6' 7""",205,Senior,,https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683757.png
+4888733,2026,59,Chas Kelley III,Chas,Kelley III,7,G,75,"6' 3""",185,Senior,,https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4888733.png
+5174455,2027,59,Kayden Allen,Kayden,Allen,1,G,78,"6' 6""",210,Freshman,"Lilburn, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174455.png
+5144491,2027,59,Kaiden Bailey,Kaiden,Bailey,2,G,74,"6' 2""",185,Freshman,"Irvine, CA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144491.png
+5105607,2027,59,Kam Craft,Kam,Craft,12,G,78,"6' 6""",225,Senior,"Chicago, IL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105607.png
+5454821,2027,59,Cody Cross,Cody,Cross,35,G,74,"6' 2""",190,Freshman,"Mansfield, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5454821.png
+5210396,2027,59,Moustapha Diop,Moustapha,Diop,5,F,83,"6' 11""",205,Freshman,"Theis, Senegal",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5210396.png
+5106449,2027,59,Jackson Fields,Jackson,Fields,7,F,81,"6' 9""",220,Senior,"Missouri City, TX",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106449.png
+5176315,2027,59,Colby Garland,Colby,Garland,0,G,73,"6' 1""",195,Senior,"Magnolia, AR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176315.png
+5345510,2027,59,Haiden Harper,Haiden,Harper,9,G,73,"6' 1""",165,Freshman,"Opelika, AL",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5345510.png
+5144115,2027,59,Tylis Jordan,Tylis,Jordan,10,F,82,"6' 10""",215,Sophomore,"Milledgeville, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144115.png
+5172343,2027,59,Cole Kirouac,Cole,Kirouac,8,C,84,"7' 0""",215,Sophomore,"Cumming, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5172343.png
+5454822,2027,59,Ilja Kurucs,Ilja,Kurucs,6,F,82,"6' 10""",210,Freshman,"Cesis, Latvia",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5454822.png
+5144145,2027,59,Jackson McVey,Jackson,McVey,14,C,85,"7' 1""",250,Sophomore,"Ellijay, GA",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144145.png
+5221320,2027,59,Courtland Muldrew,Courtland,Muldrew,30,G,75,"6' 3""",195,Sophomore,"Bentonville, AR",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5221320.png
+5176736,2027,59,Victor Valdes,Victor,Valdes,11,F,79,"6' 7""",245,Senior,"Monterrey, Mexico",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176736.png
+5176076,2027,59,Nasir Whitlock,Nasir,Whitlock,3,G,74,"6' 2""",180,Senior,"Brooklyn Park, MN",https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176076.png
