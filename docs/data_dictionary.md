@@ -117,9 +117,3 @@ One row per player per season for the teams listed in `roster_teams` in `cbb.tom
 | hometown | e.g. `Atlanta, GA` |
 | headshot_url | Player photo |
 
-## Things to watch for
-
-- **Season percentages:** sum makes and attempts, then divide. Averaging the per-game `fg_pct` gives the wrong answer.
-- **Rebounds:** team `reb` is often a few higher than the sum of player rebounds, because ESPN credits some rebounds to the team.
-- **Box scores:** almost every finished game has one. The rare exception has a final score but no box score (`has_box_score = False`).
-- **ESPN data errors:** in about 0.1% of team box scores, the player points don't add up to the team score, usually by 2. None involve Georgia Tech.
