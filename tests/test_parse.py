@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 
-import pandas as pd
 import pytest
 
 from cbb.lookup import resolve_team
@@ -23,24 +22,6 @@ UMES_GAME, DUKE_GAME = 401820296, 401820636
 def load(name):
     """Load a JSON fixture by file name."""
     return json.loads((FIXTURES / name).read_text())
-
-
-@pytest.fixture
-def events():
-    """Scoreboard events: GT's 2025-26 opener vs UMES, GT at Duke (ACC), and the 2026-27 opener."""
-    return load("scoreboard_events.json")
-
-
-@pytest.fixture
-def summary():
-    """Box score for GT's 56-52 OT win over Maryland Eastern Shore on 2025-11-03."""
-    return load("summary_final.json")
-
-
-@pytest.fixture
-def summaries(summary):
-    """Summaries keyed by event id; only the UMES game has a box score."""
-    return {str(UMES_GAME): summary}
 
 
 def by_id(rows, **keys):
@@ -149,16 +130,7 @@ def test_resolve_team():
         resolve_team("Georgia S", teams)
 
 
-def test_validate_catches_bad_scores(events, summaries):
-    tables = {
-        "teams": parse_teams(events, parse_conferences(events), set()),
-        "games": parse_games(events, summaries),
-        "team_games": parse_team_games(events, summaries),
-        "player_box": parse_player_box(summaries[str(UMES_GAME)]),
-        "players": [],
-    }
-    frames = {name: pd.DataFrame(rows).convert_dtypes() for name, rows in tables.items()}
-    frames["players"] = pd.DataFrame(columns=["player_id", "season", "team_id"])
+def test_validate_catches_bad_scores(frames):
     assert validate(frames) == ([], [])
     frames["team_games"].loc[0, "team_score"] = 99
     errors, _ = validate(frames)

@@ -38,7 +38,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 153,2026,North Carolina,Tar Heels,North Carolina Tar Heels,UNC,2,ACC,True,7bafd4,13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png
 2110,2026,Central Arkansas,Bears,Central Arkansas Bears,CARK,46,Atlantic Sun,True,a7a9ac,8e959a,https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png
 2737,2026,Winthrop,Eagles,Winthrop Eagles,WIN,6,Big South,True,9e0b0e,fdb41e,https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png
-2511,2026,Queens University,Royals,Queens University Royals,QUC,46,Atlantic Sun,False,192C66,857040,https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png
+2511,2026,Queens University,Royals,Queens University Royals,QUC,46,Atlantic Sun,True,192C66,857040,https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png
 179,2026,St. Bonaventure,Bonnies,St. Bonaventure Bonnies,SBU,3,A-10,True,70261D,,https://a.espncdn.com/i/teamlogos/ncaa/500/179.png
 71,2026,Bradley,Braves,Bradley Braves,BRAD,18,MVC,True,b70002,c0c0c0,https://a.espncdn.com/i/teamlogos/ncaa/500/71.png
 2837,2026,East Texas A&M,Lions,East Texas A&M Lions,ETAM,25,Southland,True,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png
@@ -344,7 +344,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 96,2026,Kentucky,Wildcats,Kentucky Wildcats,UK,23,SEC,True,0033a0,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2447,2026,Nicholls,Colonels,Nicholls Colonels,NICH,25,Southland,True,C41230,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png
 2641,2026,Texas Tech,Red Raiders,Texas Tech Red Raiders,TTU,8,Big 12,True,da291c,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
-2815,2026,Lindenwood,Lions,Lindenwood Lions,LIN,20,OVC,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png
+2815,2026,Lindenwood,Lions,Lindenwood Lions,LIN,20,OVC,True,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png
 2378,2026,UMBC,Retrievers,UMBC Retrievers,UMBC,1,Am. East,True,000000,ad860a,https://a.espncdn.com/i/teamlogos/ncaa/500/2378.png
 112706,2026,Penn State York,Nittany Lions,Penn State York Nittany Lions,PSUY,,,False,,,
 2565,2026,SIU Edwardsville,Cougars,SIU Edwardsville Cougars,SIUE,20,OVC,True,eb1c23,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png
@@ -429,7 +429,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 548,2026,LaGrange,Panthers,LaGrange Panthers,LGC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/548.png
 2355,2026,Lynchburg,Hornets,Lynchburg Hornets,LYBG,,,False,,,
 2086,2026,Butler,Bulldogs,Butler Bulldogs,BTLR,4,Big East,True,0d1361,00a3e0,https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png
-88,2026,Southern Indiana,Screaming Eagles,Southern Indiana Screaming Eagles,USI,20,OVC,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png
+88,2026,Southern Indiana,Screaming Eagles,Southern Indiana Screaming Eagles,USI,20,OVC,True,,,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png
 257,2026,Richmond,Spiders,Richmond Spiders,RICH,3,A-10,True,9e0712,b90b2e,https://a.espncdn.com/i/teamlogos/ncaa/500/257.png
 2896,2026,Southern Virginia,Knights,Southern Virginia Knights,SOVA,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2896.png
 84,2026,Indiana,Hoosiers,Indiana Hoosiers,IU,7,Big Ten,True,970310,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png
@@ -771,7 +771,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2459,2027,Northern Illinois,Huskies,Northern Illinois Huskies,NIU,45,Horizon,True,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
 2026,2027,App State,Mountaineers,App State Mountaineers,APP,27,Sun Belt,True,000000,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
 2771,2027,Merrimack,Warriors,Merrimack Warriors,MRMK,13,Metro,True,2f4f93,e8c535,https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png
-2511,2027,Queens University,Royals,Queens University Royals,QUC,46,Atlantic Sun,False,192C66,857040,https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png
+2511,2027,Queens University,Royals,Queens University Royals,QUC,46,Atlantic Sun,True,192C66,857040,https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png
 2737,2027,Winthrop,Eagles,Winthrop Eagles,WIN,6,Big South,True,9e0b0e,fdb41e,https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png
 2382,2027,Mercer,Bears,Mercer Bears,MER,24,SoCon,True,ff7f29,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png
 2890,2027,Reinhardt,Eagles,Reinhardt Eagles,RHDT,,,False,000000,,
@@ -932,7 +932,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2550,2027,Seton Hall,Pirates,Seton Hall Pirates,HALL,4,Big East,True,0857B1,8a8d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png
 2612,2027,Saint Peter's,Peacocks,Saint Peter's Peacocks,SPU,13,Metro,True,004CC2,,https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png
 2057,2027,Belmont,Bruins,Belmont Bruins,BEL,18,MVC,True,182142,c9262d,https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png
-88,2027,Southern Indiana,Screaming Eagles,Southern Indiana Screaming Eagles,USI,20,OVC,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png
+88,2027,Southern Indiana,Screaming Eagles,Southern Indiana Screaming Eagles,USI,20,OVC,True,,,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png
 2546,2027,Southeast Missouri State,Redhawks,Southeast Missouri State Redhawks,SEMO,20,OVC,True,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png
 288,2027,Lipscomb,Bisons,Lipscomb Bisons,LIP,46,Atlantic Sun,True,20366C,f6b734,https://a.espncdn.com/i/teamlogos/ncaa/500/288.png
 158,2027,Nebraska,Cornhuskers,Nebraska Cornhuskers,NEB,7,Big Ten,True,e31937,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png
@@ -988,7 +988,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3084,2027,Utah Valley,Wolverines,Utah Valley Wolverines,UVU,9,Big West,True,004812,e1c736,https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png
 112694,2027,Western Colorado,Mountaineers,Western Colorado Mountaineers,WCOL,,,False,,,
 2628,2027,TCU,Horned Frogs,TCU Horned Frogs,TCU,8,Big 12,True,4d1979,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
-2815,2027,Lindenwood,Lions,Lindenwood Lions,LIN,20,OVC,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png
+2815,2027,Lindenwood,Lions,Lindenwood Lions,LIN,20,OVC,True,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png
 2655,2027,Tulane,Green Wave,Tulane Green Wave,TULN,62,American,True,006747,418fde,https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
 2630,2027,UT Martin,Skyhawks,UT Martin Skyhawks,UTM,20,OVC,True,FF6700,102a5c,https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png
 2567,2027,SMU,Mustangs,SMU Mustangs,SMU,2,ACC,True,a80000,0033a1,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
@@ -1097,6 +1097,12 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2547,2027,Seattle U,Redhawks,Seattle U Redhawks,SEA,29,WCC,True,BF2E1A,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png
 2633,2027,Tennessee,Volunteers,Tennessee Volunteers,TENN,23,SEC,True,ff8200,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
 2747,2027,Wofford,Terriers,Wofford Terriers,WOF,24,SoCon,True,533B22,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2747.png
+258,2027,Virginia,Cavaliers,Virginia Cavaliers,UVA,2,ACC,True,232d4b,f84c1e,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+2182,2027,Drexel,Dragons,Drexel Dragons,DREX,10,CAA,True,020260,ffd65a,https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png
+8,2027,Arkansas,Razorbacks,Arkansas Razorbacks,ARK,23,SEC,True,a32136,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+2029,2027,Arkansas-Pine Bluff,Golden Lions,Arkansas-Pine Bluff Golden Lions,UAPB,26,SWAC,True,e0aa0f,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png
+333,2027,Alabama,Crimson Tide,Alabama Crimson Tide,ALA,23,SEC,True,9e1b32,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+2534,2027,Sam Houston,Bearkats,Sam Houston Bearkats,SHSU,11,CUSA,True,f56423,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png
 96,2027,Kentucky,Wildcats,Kentucky Wildcats,UK,23,SEC,True,0033a0,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2363,2027,Manhattan,Jaspers,Manhattan Jaspers,MAN,13,Metro,True,4f8537,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png
 2430,2027,UNC Greensboro,Spartans,UNC Greensboro Spartans,UNCG,24,SoCon,True,003559,ffd90a,https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png
@@ -1114,12 +1120,6 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 107,2027,Holy Cross,Crusaders,Holy Cross Crusaders,HC,22,Patriot,True,582c83,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/107.png
 103,2027,Boston College,Eagles,Boston College Eagles,BC,2,ACC,True,8c2232,dbcca6,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2681,2027,Wagner,Seahawks,Wagner Seahawks,WAG,19,NEC,True,00483A,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png
-258,2027,Virginia,Cavaliers,Virginia Cavaliers,UVA,2,ACC,True,232d4b,f84c1e,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png
-2182,2027,Drexel,Dragons,Drexel Dragons,DREX,10,CAA,True,020260,ffd65a,https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png
-333,2027,Alabama,Crimson Tide,Alabama Crimson Tide,ALA,23,SEC,True,9e1b32,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png
-2534,2027,Sam Houston,Bearkats,Sam Houston Bearkats,SHSU,11,CUSA,True,f56423,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png
-8,2027,Arkansas,Razorbacks,Arkansas Razorbacks,ARK,23,SEC,True,a32136,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png
-2029,2027,Arkansas-Pine Bluff,Golden Lions,Arkansas-Pine Bluff Golden Lions,UAPB,26,SWAC,True,e0aa0f,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png
 2623,2027,Missouri State,Bears,Missouri State Bears,MOST,11,CUSA,True,5e0009,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png
 2876,2027,Lincoln (MO),Blue Tigers,Lincoln (MO) Blue Tigers,LNMO,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2876.png
 2460,2027,Northern Iowa,Panthers,Northern Iowa Panthers,UNI,18,MVC,True,473282,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png
@@ -1152,10 +1152,10 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 279,2027,Pacific,Tigers,Pacific Tigers,PAC,29,WCC,True,F47820,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/279.png
 3246,2027,Bethesda,Flames,Bethesda Flames,BTHS,,,False,,,
 126956,2027,Framingham State,Rams,Framingham State Rams,FRSU,,,False,,,
-111180,2027,Christendom,Crusaders,Christendom Crusaders,CTDM,,,False,,,
 2151,2027,Concordia Chicago,Cougars,Concordia Chicago Cougars,CUC,,,False,572a31,ffc72e,https://a.espncdn.com/i/teamlogos/ncaa/500/2151.png
 2215,2027,Erskine,Flying Fleet,Erskine Flying Fleet,ERSK,,,False,701931,000000,
 2603,2027,Saint Joseph's,Hawks,Saint Joseph's Hawks,JOES,3,A-10,True,9e1b32,6c6f70,https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png
+111180,2027,Christendom,Crusaders,Christendom Crusaders,CTDM,,,False,,,
 2181,2027,Drake,Bulldogs,Drake Bulldogs,DRKE,18,MVC,True,005596,bec0c2,https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png
 2964,2027,Central College,Dutch,Central College Dutch,CNTC,,,False,ea0029,c8c8c8,https://a.espncdn.com/i/teamlogos/ncaa/500/2964.png
 494,2027,Blue Mountain Christian,Toppers,Blue Mountain Christian Toppers,BMCU,,,False,,,
@@ -1172,11 +1172,12 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 134743,2027,Grace University,Lancers,Grace University Lancers,GRCU,,,False,,,
 131858,2027,Salish Kootenai,Bison,Salish Kootenai Bison,SKC,,,False,,,
 2351,2027,Loyola Marymount,Lions,Loyola Marymount Lions,LMU,29,WCC,True,880029,00345b,https://a.espncdn.com/i/teamlogos/ncaa/500/2351.png
+219,2027,Pennsylvania,Quakers,Pennsylvania Quakers,PENN,12,Ivy,True,082A74,a6163d,https://a.espncdn.com/i/teamlogos/ncaa/500/219.png
 247,2027,King's,Monarchs,King's Monarchs,KNGS,,,False,c41230,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/247.png
 289,2027,Mount St Mary,Knights,Mount St Mary Knights,MSMC,,,False,,,
 2232,2027,Fort Valley State,Wildcats,Fort Valley State Wildcats,FVSU,,,False,f9bd0a,2a307f,https://a.espncdn.com/i/teamlogos/ncaa/500/2232.png
 2758,2027,Howard Payne,Yellow Jackets,Howard Payne Yellow Jackets,HWPU,,,False,02215b,b5985b,https://a.espncdn.com/i/teamlogos/ncaa/500/2758.png
-131616,2027,Central Bible,Saints,Central Bible Saints,CBMO,,,False,,,
+131616,2027,Central Bible,Saints,Central Bible Saints,CBBL,,,False,,,
 126,2027,Kalamazoo,Hornets,Kalamazoo Hornets,KALC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/126.png
 2896,2027,Southern Virginia,Knights,Southern Virginia Knights,SOVA,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2896.png
 128256,2027,College of Biblical Studies,Ambassadors,College of Biblical Studies Ambassadors,CBS,,,False,,,
@@ -1188,7 +1189,6 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2121,2027,Centre,Colonels,Centre Colonels,CCO,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2121.png
 2119,2027,Central State,Marauders,Central State Marauders,CNSU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2119.png
 3107,2027,East West,Phantoms,East West Phantoms,EAWE,,,False,,,
-219,2027,Pennsylvania,Quakers,Pennsylvania Quakers,PENN,12,Ivy,True,082A74,a6163d,https://a.espncdn.com/i/teamlogos/ncaa/500/219.png
 502,2027,Calumet St. Joseph,Crimson Wave,Calumet St. Joseph Crimson Wave,CSJ,,,False,,,
 2381,2027,Menlo,Oaks,Menlo Oaks,MNLO,,,False,000000,,
 2934,2027,Cal State Bakersfield,Roadrunners,Cal State Bakersfield Roadrunners,CSUB,9,Big West,True,003BAB,,https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png
@@ -1207,7 +1207,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3065,2027,Briar Cliff,Chargers,Briar Cliff Chargers,BRCF,,,False,,,
 124946,2027,Lincoln (CA),Oaklanders,Lincoln (CA) Oaklanders,LNCA,,,False,,,
 170,2027,City College NY,Beavers,City College NY Beavers,CCNY,,,False,,,
-134851,2027,Andrew,Fighting Tigers,Andrew Fighting Tigers,AND,,,False,,,
+134851,2027,Andrew,Fighting Tigers,Andrew Fighting Tigers,ANDR,,,False,,,
 109700,2027,Boyce,Bulldogs,Boyce Bulldogs,BOYC,,,False,,,
 100,2027,Loyola New Orleans,Wolfpack,Loyola New Orleans Wolfpack,LNO,,,False,000000,,
 130195,2027,Penn State Shenango,Nittany Lions,Penn State Shenango Nittany Lions,PSSH,,,False,,,
@@ -1215,16 +1215,16 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2823,2027,Northwestern (OK),Rangers,Northwestern (OK) Rangers,NWOK,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2823.png
 2891,2027,Ripon,Red Hawks,Ripon Red Hawks,RIP,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2891.png
 3164,2027,Central Penn,Knights,Central Penn Knights,CPC,,,False,,,
-80,2027,Chicago,Maroons,Chicago Maroons,CHI,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/80.png
 2019,2027,Allen,Yellow Jackets,Allen Yellow Jackets,ALNU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2019.png
 6319,2027,Keuka,Storm,Keuka Storm,KEUK,,,False,,,
-134891,2027,Georgia Gwinnett,Grizzlies,Georgia Gwinnett Grizzlies,GGC,,,False,,,
-132013,2027,Baptist (Fl),Eagles,Baptist (Fl) Eagles,BAP,,,False,,,
+80,2027,Chicago,Maroons,Chicago Maroons,CHI,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/80.png
 14632,2027,McDaniel,Green Terror,McDaniel Green Terror,MCD,,,False,,,
 2274,2027,Hiram,Terriers,Hiram Terriers,HIRM,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2274.png
 128344,2027,Penn State Schuylkill,Nittany Lions,Penn State Schuylkill Nittany Lions,PSUS,,,False,,,
 2564,2027,Simpson (IA),Storm,Simpson (IA) Storm,SCIA,,,False,b20838,f0b310,https://a.espncdn.com/i/teamlogos/ncaa/500/2564.png
 332,2027,Muskingum,Fighting Muskies,Muskingum Fighting Muskies,MSK,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/332.png
+134891,2027,Georgia Gwinnett,Grizzlies,Georgia Gwinnett Grizzlies,GGC,,,False,,,
+132013,2027,Baptist (Fl),Eagles,Baptist (Fl) Eagles,BAP,,,False,,,
 2689,2027,Washington Maryland,Shoremen,Washington Maryland Shoremen,WCMD,,,False,000000,,
 2157,2027,Covenant,Fighting Scots,Covenant Fighting Scots,COV,,,False,000000,,
 347,2027,Elmira,Soaring Eagles,Elmira Soaring Eagles,ELMR,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/347.png
@@ -1241,11 +1241,11 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3141,2027,Northern New Mexico,Eagles,Northern New Mexico Eagles,NNMC,,,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/3141.png
 2940,2027,Livingstone,Blue Bears,Livingstone Blue Bears,LIV,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2940.png
 2679,2027,Voorhees,Tigers,Voorhees Tigers,VRHS,,,False,,,
-2824,2027,Oklahoma Panhandle,PANHANDLE ST,Oklahoma Panhandle PANHANDLE ST,OPSU,,,False,000000,,
 2645,2027,Thomas College,Terriers,Thomas College Terriers,THMC,,,False,,,
 131625,2027,Great Lakes Christian,Crusaders,Great Lakes Christian Crusaders,GLCC,,,False,,,
 2327,2027,Lees McRae,Bobcats,Lees McRae Bobcats,LMCR,,,False,000000,,
 131603,2027,Bryant & Stratton-Albany,Bobcats,Bryant & Stratton-Albany Bobcats,B&SA,,,False,,,
+2824,2027,Oklahoma Panhandle,PANHANDLE ST,Oklahoma Panhandle PANHANDLE ST,OPSU,,,False,000000,,
 2113,2027,Centenary (LA),Ladies,Centenary (LA) Ladies,CTLA,,,False,a20b36,,https://a.espncdn.com/i/teamlogos/ncaa/500/2113.png
 2970,2027,William Paterson,Pioneers,William Paterson Pioneers,WPU,,,False,000000,f57b21,https://a.espncdn.com/i/teamlogos/ncaa/500/2970.png
 2233,2027,Franklin,Grizzlies,Franklin Grizzlies,FRKL,,,False,1b295b,fdd106,https://a.espncdn.com/i/teamlogos/ncaa/500/2233.png
@@ -1262,20 +1262,20 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3106,2027,Corban,Warriors,Corban Warriors,CORB,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/3106.png
 2465,2027,Northwest University,Eagles,Northwest University Eagles,NWWA,,,False,,,
 177,2027,Plattsburgh,Cardinals,Plattsburgh Cardinals,PLAT,,,False,,,
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
 3189,2027,Coastal Georgia,Mariner,Coastal Georgia Mariner,COGA,,,False,,,
 2828,2027,Shenandoah,Hornets,Shenandoah Hornets,SHEN,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2828.png
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2189,2027,Earlham,Quakers,Earlham Quakers,EARL,,,False,000000,,
 2176,2027,Dillard,Blue Devils,Dillard Blue Devils,DLRD,,,False,000000,,
 2481,2027,Oklahoma City,Okies,Oklahoma City Okies,OKCY,,,False,,,
-2488,2027,Paine,Lions,Paine Lions,PANE,,,False,,,
-134875,2027,Abraham Baldwin Agricultural College,ABRBALD,Abraham Baldwin Agricultural College ABRBALD,ABR,,,False,,,
+134875,2027,Abraham Baldwin Agricultural,Stallions,Abraham Baldwin Agricultural Stallions,ABAC,,,False,,,
 424,2027,Capital,Crusaders,Capital Crusaders,CAPU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/424.png
 2211,2027,Emmanuel (MA),Lions,Emmanuel (MA) Lions,ECMA,,,False,,,
-134850,2027,Wright State - Lake,Lakers,Wright State - Lake Lakers,WRI,,,False,,,
+134850,2027,Wright State-Lake,Lakers,Wright State-Lake Lakers,WSUL,,,False,,,
 3185,2027,UC Merced,Bobcats,UC Merced Bobcats,UCME,,,False,,,
 2178,2027,Doane,Tigers,Doane Tigers,DOAN,,,False,,,
+2488,2027,Paine,Lions,Paine Lions,PANE,,,False,,,
 124809,2027,Miami (OH) Hamilton,Harriers,Miami (OH) Hamilton Harriers,MHAM,,,False,,,
 366,2027,Ferrum,Panthers,Ferrum Panthers,FC,,,False,000000,c0a656,https://a.espncdn.com/i/teamlogos/ncaa/500/366.png
 2227,2027,Florida Memorial,Lions,Florida Memorial Lions,FMU,,,False,000000,,
@@ -1287,9 +1287,9 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 182,2027,SUNY Potsdam,SUNY-POTSDAM,SUNY Potsdam SUNY-POTSDAM,NYPM,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/182.png
 126890,2027,Maine Augusta,Moose,Maine Augusta Moose,UMA,,,False,,,
 551,2027,Vermont State Lyndon,Hornets,Vermont State Lyndon Hornets,VTSL,,,False,,,
-123362,2027,Fort Lauderdale,Eagles,Fort Lauderdale Eagles,UFTL,,,False,,,
 2590,2027,Spring Hill,Badgers,Spring Hill Badgers,SPRH,,,False,000000,,
 111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
+123362,2027,Fort Lauderdale,Eagles,Fort Lauderdale Eagles,UFTL,,,False,,,
 124721,2027,Life University,Running Eagles,Life University Running Eagles,LIFE,,,False,,,
 2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
 343,2027,MCLA,Mohawks,MCLA Mohawks,MCLA,,,False,,,
@@ -1334,11 +1334,11 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3166,2027,Arlington Baptist,Patriots,Arlington Baptist Patriots,ABU,,,False,,,
 2027,2027,Arkansas Baptist,Buffaloes,Arkansas Baptist Buffaloes,ARBA,,,False,,,
 2384,2027,Mercy,Mavericks,Mercy Mavericks,MRCY,,,False,000000,,
+3183,2027,Penn State Abington,Nittany Lions,Penn State Abington Nittany Lions,PSAB,,,False,,,
 2022,2027,American International,Yellow Jackets,American International Yellow Jackets,AIC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2022.png
 126822,2027,Grace Christian,Tigers,Grace Christian Tigers,GCRU,,,False,,,
 2410,2027,Montreat,Cavaliers,Montreat Cavaliers,MNTT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2410.png
 2683,2027,Warner,Royals,Warner Royals,WRNR,,,False,000000,,
-3183,2027,Penn State Abington,Nittany Lions,Penn State Abington Nittany Lions,PSAB,,,False,,,
 2963,2027,Case Western Reserve,Spartans,Case Western Reserve Spartans,CWRU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2963.png
 131761,2027,Bryant & Stratton (OH),Bobcats,Bryant & Stratton (OH) Bobcats,B&SO,,,False,,,
 2040,2027,Auburn Montgomery,Senators,Auburn Montgomery Senators,AUM,,,False,,,
@@ -1367,7 +1367,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 535,2027,Haskell,Jayhawks,Haskell Jayhawks,HSKL,,,False,000000,,
 2202,2027,Eastern Oregon,Mountaineers,Eastern Oregon Mountaineers,EOU,,,False,000000,,
 405,2027,Mission,Patriots,Mission Patriots,MIS,,,False,,,
-121894,2027,North Central,Rams,North Central Rams,NCU,,,False,,,
+121894,2027,North Central (MN),Rams,North Central (MN) Rams,NCU,,,False,,,
 2042,2027,Augustana (IL),Vikings,Augustana (IL) Vikings,AUGC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2042.png
 2685,2027,Wartburg,Knights,Wartburg Knights,WTBG,,,False,f5822b,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2685.png
 3173,2027,Pensacola Christian,PENSACOLA CHRISTIAN,Pensacola Christian PENSACOLA CHRISTIAN,PCC,,,False,,,
@@ -1428,7 +1428,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2370,2027,UT Southern,Firehawks,UT Southern Firehawks,UTSO,,,False,,,
 2660,2027,UMass Boston,Beacons,UMass Boston Beacons,MBOS,,,False,,,
 2730,2027,William Carey,Crusaders,William Carey Crusaders,WILC,,,False,000000,,
-3109,2027,Ozarks,Eagles,Ozarks Eagles,UOFO,,,False,,,
+3109,2027,Ozarks (AR),Eagles,Ozarks (AR) Eagles,UOFO,,,False,,,
 531,2027,Providence (MT),Argonauts,Providence (MT) Argonauts,PRMT,,,False,000000,,
 2281,2027,Huston Tillotson,Rams,Huston Tillotson Rams,HTU,,,False,000000,,
 2871,2027,Kean,Cougars,Kean Cougars,KEAN,,,False,092f56,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2871.png
@@ -1444,7 +1444,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2064,2027,Bethel (TN),Wildcats,Bethel (TN) Wildcats,BTTN,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2064.png
 110031,2027,Benedictine Mesa,Redhawks,Benedictine Mesa Redhawks,BENU,,,False,,,
 130174,2027,Texas A&M-San Antonio,Jaguars,Texas A&M-San Antonio Jaguars,TASA,,,False,,,
-130241,2027,Spartanburg Methodist,Pioneers,Spartanburg Methodist Pioneers,SMC,,,False,,,
+130241,2027,Spartanburg Methodist,Pioneers,Spartanburg Methodist Pioneers,SPTB,,,False,,,
 111179,2027,Georgian Court,Lions,Georgian Court Lions,GCTU,,,False,,,
 66786,2027,Saint Elizabeth,Eagles,Saint Elizabeth Eagles,STE,,,False,,,
 486,2027,Aquinas,Saints,Aquinas Saints,AQUI,,,False,,,

@@ -114,6 +114,7 @@ def parse_team_games(events, summaries):
                 "team_score": team_score,
                 "opponent_score": opponent_score,
                 "margin": team_score - opponent_score if done else None,
+                "overtimes": max(len(team.get("linescores", [])) - 2, 0) if done else None,
                 "rank": _rank(team),
                 "opponent_rank": _rank(opponent),
                 **_stat_columns(box.get(int(team["id"]), {}), TEAM_STATS),

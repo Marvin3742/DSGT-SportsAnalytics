@@ -20,4 +20,4 @@ cbb validate                            # check the CSVs
 
 ## Data
 
-CSVs for Power BI are in `data/processed/`. See [docs/data_dictionary.md](docs/data_dictionary.md).
+CSVs for Power BI are in `data/processed/`, updated every morning by GitHub Actions. See [docs/data_dictionary.md](docs/data_dictionary.md).

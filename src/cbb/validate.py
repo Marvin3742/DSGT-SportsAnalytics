@@ -6,6 +6,8 @@ KEYS = {
     "team_games": ["game_id", "team_id"],
     "player_box": ["game_id", "team_id", "player_id"],
     "players": ["player_id", "season", "team_id"],
+    "team_seasons": ["team_id", "season", "split"],
+    "player_seasons": ["player_id", "season", "team_id"],
 }
 MAX_BOX_SCORE_MISMATCH_RATE = 0.01
 

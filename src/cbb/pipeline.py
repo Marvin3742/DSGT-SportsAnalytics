@@ -5,6 +5,7 @@ import pandas as pd
 import requests
 
 from cbb.espn import EspnClient
+from cbb.metrics import add_game_metrics, player_seasons, team_seasons
 from cbb.parse import (
     parse_conferences,
     parse_games,
@@ -35,7 +36,18 @@ def build(seasons, team_ids=None, roster_team_ids=(), client=None, workers=4):
         )
         for name, rows in season_tables.items():
             tables[name].extend(rows)
-    return {name: pd.DataFrame(rows).convert_dtypes() for name, rows in tables.items()}
+    return to_frames(tables)
+
+
+def to_frames(tables):
+    """Turn rows keyed by table name into DataFrames and add the derived metric tables."""
+    frames = {name: pd.DataFrame(rows).convert_dtypes() for name, rows in tables.items()}
+    frames["team_games"] = add_game_metrics(frames["team_games"])
+    frames["team_seasons"] = team_seasons(frames["team_games"], frames["teams"]).convert_dtypes()
+    frames["player_seasons"] = player_seasons(
+        frames["player_box"], frames["team_games"]
+    ).convert_dtypes()
+    return frames
 
 
 def build_season(client, season, team_ids, roster_team_ids, d1_team_ids, workers):
