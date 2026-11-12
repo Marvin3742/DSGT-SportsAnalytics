@@ -1257,8 +1257,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2359,2027,Macalester,Scots,Macalester Scots,MAC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2359.png
 353,2027,Johnson & Wales,Griffins,Johnson & Wales Griffins,JWU,,,False,,,
 2677,2027,Viterbo,V-Hawks,Viterbo V-Hawks,VTBO,,,False,,,
-124942,2027,Mary Baldwin,Fighting Squirrels,Mary Baldwin Fighting Squirrels,MBAL,,,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/124942.png
 2310,2027,Kentucky State,Thorobreds,Kentucky State Thorobreds,KYSU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2310.png
+124942,2027,Mary Baldwin,Fighting Squirrels,Mary Baldwin Fighting Squirrels,MBAL,,,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/124942.png
 3106,2027,Corban,Warriors,Corban Warriors,CORB,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/3106.png
 2465,2027,Northwest University,Eagles,Northwest University Eagles,NWWA,,,False,,,
 177,2027,Plattsburgh,Cardinals,Plattsburgh Cardinals,PLAT,,,False,,,
@@ -1282,14 +1282,14 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 111949,2027,DeSales,Bulldogs,DeSales Bulldogs,DSLU,,,False,,,
 561,2027,Mayville State,Comets,Mayville State Comets,MYSU,,,False,000000,,
 2145,2027,Colorado Colorado Springs,Mountain Lions,Colorado Colorado Springs Mountain Lions,UCCS,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2145.png
-594,2027,Pacific Union,PACIFIC UNION,Pacific Union PACIFIC UNION,PUC,,,False,,,
 111914,2027,Wilson,WILSON,Wilson WILSON,WLSN,,,False,,,
 182,2027,SUNY Potsdam,SUNY-POTSDAM,SUNY Potsdam SUNY-POTSDAM,NYPM,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/182.png
 126890,2027,Maine Augusta,Moose,Maine Augusta Moose,UMA,,,False,,,
-551,2027,Vermont State Lyndon,Hornets,Vermont State Lyndon Hornets,VTSL,,,False,,,
 2590,2027,Spring Hill,Badgers,Spring Hill Badgers,SPRH,,,False,000000,,
-111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
+551,2027,Vermont State Lyndon,Hornets,Vermont State Lyndon Hornets,VTSL,,,False,,,
 123362,2027,Fort Lauderdale,Eagles,Fort Lauderdale Eagles,UFTL,,,False,,,
+594,2027,Pacific Union,PACIFIC UNION,Pacific Union PACIFIC UNION,PUC,,,False,,,
+111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
 124721,2027,Life University,Running Eagles,Life University Running Eagles,LIFE,,,False,,,
 2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
 343,2027,MCLA,Mohawks,MCLA Mohawks,MCLA,,,False,,,
