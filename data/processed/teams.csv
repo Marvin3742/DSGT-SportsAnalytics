@@ -1264,8 +1264,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 177,2027,Plattsburgh,Cardinals,Plattsburgh Cardinals,PLAT,,,False,,,
 3189,2027,Coastal Georgia,Mariner,Coastal Georgia Mariner,COGA,,,False,,,
 2828,2027,Shenandoah,Hornets,Shenandoah Hornets,SHEN,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2828.png
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
+2410,2027,Montreat,Cavaliers,Montreat Cavaliers,MNTT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2410.png
 2189,2027,Earlham,Quakers,Earlham Quakers,EARL,,,False,000000,,
 2176,2027,Dillard,Blue Devils,Dillard Blue Devils,DLRD,,,False,000000,,
 2481,2027,Oklahoma City,Okies,Oklahoma City Okies,OKCY,,,False,,,
@@ -1291,13 +1290,15 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 594,2027,Pacific Union,PACIFIC UNION,Pacific Union PACIFIC UNION,PUC,,,False,,,
 111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
 124721,2027,Life University,Running Eagles,Life University Running Eagles,LIFE,,,False,,,
-2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 343,2027,MCLA,Mohawks,MCLA Mohawks,MCLA,,,False,,,
 190,2027,Defiance,Yellow Jackets,Defiance Yellow Jackets,DFC,,,False,4e2d8a,ded27c,https://a.espncdn.com/i/teamlogos/ncaa/500/190.png
 2990,2027,St. Joseph's Brooklyn,Bears,St. Joseph's Brooklyn Bears,SJBK,,,False,,,
 390,2027,Utica,Pioneers,Utica Pioneers,UTIC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/390.png
 130401,2027,Columbia (SC),Fighting Koalas,Columbia (SC) Fighting Koalas,CCSC,,,False,,,
 556,2027,Malone,Pioneers,Malone Pioneers,MLN,,,False,000000,,
+2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
 2877,2027,Lindsey Wilson,Blue Raiders,Lindsey Wilson Blue Raiders,LWU,,,False,000000,,
 241,2027,McMurry,War Hawks,McMurry War Hawks,MCM,,,False,98002e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/241.png
 2061,2027,Berea,Mountaineers,Berea Mountaineers,BERE,,,False,000000,,
@@ -1337,7 +1338,6 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 3183,2027,Penn State Abington,Nittany Lions,Penn State Abington Nittany Lions,PSAB,,,False,,,
 2022,2027,American International,Yellow Jackets,American International Yellow Jackets,AIC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2022.png
 126822,2027,Grace Christian,Tigers,Grace Christian Tigers,GCRU,,,False,,,
-2410,2027,Montreat,Cavaliers,Montreat Cavaliers,MNTT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2410.png
 2683,2027,Warner,Royals,Warner Royals,WRNR,,,False,000000,,
 2963,2027,Case Western Reserve,Spartans,Case Western Reserve Spartans,CWRU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2963.png
 131761,2027,Bryant & Stratton (OH),Bobcats,Bryant & Stratton (OH) Bobcats,B&SO,,,False,,,
