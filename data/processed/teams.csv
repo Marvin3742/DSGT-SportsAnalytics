@@ -1286,9 +1286,9 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 126890,2027,Maine Augusta,Moose,Maine Augusta Moose,UMA,,,False,,,
 2590,2027,Spring Hill,Badgers,Spring Hill Badgers,SPRH,,,False,000000,,
 551,2027,Vermont State Lyndon,Hornets,Vermont State Lyndon Hornets,VTSL,,,False,,,
-123362,2027,Fort Lauderdale,Eagles,Fort Lauderdale Eagles,UFTL,,,False,,,
 594,2027,Pacific Union,PACIFIC UNION,Pacific Union PACIFIC UNION,PUC,,,False,,,
 111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
+123362,2027,Fort Lauderdale,Eagles,Fort Lauderdale Eagles,UFTL,,,False,,,
 124721,2027,Life University,Running Eagles,Life University Running Eagles,LIFE,,,False,,,
 -1,2027,TBD,TBD,TBD,TBD,,,False,,,
 -2,2027,TBD,TBD,TBD,TBD,,,False,,,
@@ -1315,8 +1315,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 130183,2027,Justice,Lions,Justice Lions,JUS,,,False,,,
 126954,2027,Clinton,Golden Bears,Clinton Golden Bears,CTON,,,False,,,
 2903,2027,Southwestern Adventist,Knights,Southwestern Adventist Knights,SWA,,,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/2903.png
-484,2027,Alice Lloyd,Eagles,Alice Lloyd Eagles,AL,,,False,,,
 123306,2027,Lancaster Bible,Chargers,Lancaster Bible Chargers,LBC,,,False,,,
+484,2027,Alice Lloyd,Eagles,Alice Lloyd Eagles,AL,,,False,,,
 2288,2027,IU South Bend,Titans,IU South Bend Titans,IUSB,,,False,000000,,
 178,2027,RIT,Tigers,RIT Tigers,RIT,,,False,000000,ff6b00,https://a.espncdn.com/i/teamlogos/ncaa/500/178.png
 2589,2027,Spalding,Pelicans,Spalding Pelicans,SPLD,,,False,,,
@@ -1404,9 +1404,9 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 111943,2027,Mount Aloysius,Mounties,Mount Aloysius Mounties,MTAL,,,False,,,
 2657,2027,Tuskegee,Golden Tigers,Tuskegee Golden Tigers,TUSK,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2657.png
 63,2027,Buena Vista,Beavers,Buena Vista Beavers,BVU,,,False,feba12,001440,https://a.espncdn.com/i/teamlogos/ncaa/500/63.png
-2081,2027,Bryan,Lions,Bryan Lions,BRYN,,,False,,,
 2517,2027,Regis College,Pride,Regis College Pride,RGIS,,,False,,,
 2326,2027,LeTourneau,Yellow Jackets,LeTourneau Yellow Jackets,LETU,,,False,,,https://a.espncdn.com/i/teamlogos/ncaa/500/2326.png
+2081,2027,Bryan,Lions,Bryan Lions,BRYN,,,False,,,
 3158,2027,Our Lady of the Lake,Saints,Our Lady of the Lake Saints,OLLU,,,False,,,
 2637,2027,Texas College,Steers,Texas College Steers,TXCL,,,False,000000,,
 433,2027,Westminster (MO),Blue Jays,Westminster (MO) Blue Jays,WCMO,,,False,06496f,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/433.png
