@@ -7066,82 +7066,82 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401917527,2027,2026-27,Regular Season,2026-11-13,2026-11-13 22:00,Final,True,False,False,,2501,Portland,2837,East Texas A&M,88,94,2837,2,Chiles Center,Portland,OR,1038,True
 401917525,2027,2026-27,Regular Season,2026-11-13,2026-11-13 22:00,Final,True,False,False,,2608,Saint Mary's,82,UIC,84,61,2608,0,University Credit Union Pavilion,Moraga,CA,3076,True
 401920345,2027,2026-27,Regular Season,2026-11-13,2026-11-13 22:30,Final,True,False,False,,2856,California Baptist,2029,Arkansas-Pine Bluff,74,60,2856,0,Dale E. and Sarah Ann Fowler Events Center,Riverside,CA,4193,True
-401919004,2027,2026-27,Regular Season,2026-11-14,2026-11-14 12:00,Scheduled,False,False,False,,2006,Akron,2655,Tulane,,,,,James A. Rhodes Arena,Akron,OH,,False
-401929362,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,False,False,,265,Washington State,2465,Northwest University,,,,,Beasley Coliseum,Pullman,WA,,False
-401923303,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,False,False,,311,Maine,2182,Drexel,,,,,Skip Chappelle Court in Memorial Gymnasium,Orono,ME,,False
-401920750,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,False,False,,2754,Youngstown State,276,Marshall,,,,,Zidian Family Arena at Beeghly Center,Youngstown,OH,,False
-401920693,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,False,False,,261,Vermont,177,Plattsburgh,,,,,Patrick Gymnasium,Burlington,VT,,False
-401920074,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,True,False,Showdown in St. Pete,2244,George Mason,71,Bradley,,,,,McArthur Center,St. Petersburg,FL,,False
-401912229,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Scheduled,False,False,False,,349,Army,2900,St. Thomas,,,,,Christl Arena,West Point,NY,,False
-401911231,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:30,Scheduled,False,False,False,,36,Colorado State,2350,Loyola Chicago,,,,,Moby Arena,Fort Collins,CO,,False
-401919847,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2641,Texas Tech,284,Stonehill,,,,,United Supermarkets Arena,Lubbock,TX,,False
-401923261,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2226,Florida Atlantic,3189,Coastal Georgia,,,,,Abessinio Court at Eleanor R. Baldwin Arena,Boca Raton,FL,,False
-401922230,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2511,Queens University,2747,Wofford,,,,,Curry Arena,Charlotte,NC,,False
-401922220,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2454,North Florida,2643,The Citadel,,,,,UNF Arena,Jacksonville,FL,,False
-401921155,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2448,North Carolina A&T,2129,Cheyney (PA),,,,,Corbett Sports Center,Greensboro,NC,,False
-401921096,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2617,Stephen F. Austin,242,Rice,,,,,William R. Johnson Coliseum,Nacogdoches,TX,,False
-401920915,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,91,Bellarmine,2459,Northern Illinois,,,,,Knights Hall,Louisville,KY,,False
-401918993,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,58,South Florida,2154,Coppin State,,,,,Yuengling Center,Tampa,FL,,False
-401911392,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,2579,South Carolina,2241,Gardner-Webb,,,,,Colonial Life Arena,Columbia,SC,,False
-401911015,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Scheduled,False,False,False,,339,Evansville,193,Miami (OH),,,,,Ford Center,Evansville,IN,,False
-401922054,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:30,Scheduled,False,False,False,,2515,Radford,2828,Shenandoah,,,,,The Dedmon Center,Radford,VA,,False
-401921038,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:30,Scheduled,False,False,False,,2737,Winthrop,2296,Jackson State,,,,,Winthrop Coliseum,Rock Hill,SC,,False
-401924921,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:00,Scheduled,False,False,False,,2172,Denver,2751,Wyoming,,,,,Hamilton Gymnasium,Denver,CO,,False
-401921689,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:30,Scheduled,False,False,False,Bad Boy Mowers Series,2250,Gonzaga,99,LSU,,,,,Spokane Numerica Veterans Arena,Spokane,WA,,False
-401911016,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:30,Scheduled,False,False,False,,94,Northern Kentucky,2117,Central Michigan,,,,,Truist Arena,Highland Heights,KY,,False
-401934189,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,350,UNC Wilmington,2410,Montreat,,,,,Trask Coliseum,Wilmington,NC,,False
-401928804,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,2174,Detroit Mercy,2649,Toledo,,,,,Calihan Hall,Detroit,MI,,False
-401925889,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,True,False,,2458,Northern Colorado,2571,South Dakota State,,,,,The Monument,Rapid City,SD,,False
-401922046,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,295,Old Dominion,2344,Longwood,,,,,Chartway Arena,Norfolk,VA,,False
-401921221,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,2426,Navy,2261,Hampton,,,,,Alumni Hall (Navy),Annapolis,MD,,False
-401920307,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,59,Georgia Tech,2427,UNC Asheville,,,,,McCamish Pavilion,Atlanta,GA,,False
-401918979,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,151,East Carolina,2169,Delaware State,,,,,Williams Arena at Minges Coliseum,Greenville,NC,,False
-401911264,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,179,St. Bonaventure,322,Lafayette,,,,,Reilly Center,Saint Bonaventure,NY,,False
-401909728,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Scheduled,False,False,False,,154,Wake Forest,253,Southern Utah,,,,,LJVM Coliseum,Winston-Salem,NC,,False
-401920741,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:30,Scheduled,False,False,False,,2097,Campbell,2908,South Carolina Upstate,,,,,John W. Pope Jr. Convocation Center,Buies Creek,NC,,False
-401927387,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Scheduled,False,False,False,,2473,Oakland,2460,Northern Iowa,,,,,OU Credit Union O'rena,Rochester,MI,,False
-401920567,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Scheduled,False,True,False,410 Invitational - Consolation,2352,Loyola Maryland,2415,Morgan State,,,,,SECU Arena,Towson,MD,,False
-401918055,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Scheduled,False,False,False,,25,California,3101,Utah Tech,,,,,Haas Pavilion,Berkeley,CA,,False
-401926777,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,278,Fresno State,27,UC Riverside,,,,,Save Mart Center,Fresno,CA,,False
-401925948,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,2692,Weber State,124946,Lincoln (CA),,,,,Dee Events Center,Ogden,UT,,False
-401925827,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,249,North Texas,6,South Alabama,,,,,The Super Pit,Denton,TX,,False
-401925048,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,2443,LSU New Orleans,2573,Southern New Orleans,,,,,Lakefront Arena,New Orleans,LA,,False
-401919782,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,2330,Le Moyne,2363,Manhattan,,,,,Ted Grant Court,Syracuse,NY,,False
-401909534,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Scheduled,False,False,False,,2507,Providence,38,Colorado,,,,,Amica Mutual Pavilion,Providence,RI,,False
-401920193,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:30,Scheduled,False,False,False,Big 5 Classic - Campus Game,2603,Saint Joseph's,219,Pennsylvania,,,,,Michael J. Hagan '85 Arena,Philadelphia,PA,,False
-401927377,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,282,Indiana State,2189,Earlham,,,,,Hulman Center,Terre Haute,IN,,False
-401925774,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2166,Davidson,47,Howard,,,,,John M. Belk Arena,Davidson,NC,,False
-401925108,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,250,UT Arlington,292,UT Rio Grande Valley,,,,,College Park Center,Arlington,TX,,False
-401921775,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,222,Villanova,2520,Rider,,,,,Finneran Pavilion,Villanova,PA,,False
-401921063,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2539,San Francisco,2502,Portland State,,,,,The Sobrato Center,San Francisco,CA,,False
-401920867,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2217,Fairfield,2885,NJIT,,,,,Leo D. Mahoney Arena,Fairfield,CT,,False
-401920705,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2717,Western Carolina,288,Lipscomb,,,,,Ramsey Center,Cullowhee,NC,,False
-401919017,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,55,Jacksonville State,5,UAB,,,,,Pete Mathews Coliseum,Jacksonville,AL,,False
-401917951,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2724,Wichita State,2046,Austin Peay,,,,,Charles Koch Arena,Wichita,KS,,False
-401911376,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2127,Charleston Southern,2698,West Georgia,,,,,Buccaneer Fieldhouse,Charleston,SC,,False
-401911308,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Scheduled,False,False,False,,2561,Siena,225,Brown,,,,,MVP Arena,Albany,NY,,False
-401920961,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Scheduled,False,False,False,,2413,Morehead State,85,IU Indianapolis,,,,,Ellis T. Johnson Arena,Morehead,KY,,False
-401920568,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Scheduled,False,False,False,410 Invitational - Championship,119,Towson,2378,UMBC,,,,,SECU Arena,Towson,MD,,False
-401911276,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Scheduled,False,False,False,,2184,Duquesne,2066,Binghamton,,,,,UPMC Cooper Fieldhouse,Pittsburgh,PA,,False
-401911188,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Scheduled,False,False,False,,2168,Dayton,2132,Cincinnati,,,,,UD Arena,Dayton,OH,,False
-401929444,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,2032,Arkansas State,2176,Dillard,,,,,First National Bank Arena,Jonesboro,AR,,False
-401929400,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,198,Oral Roberts,2481,Oklahoma City,,,,,Mabee Center,Tulsa,OK,,False
-401925079,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,2031,Little Rock,2466,Northwestern State,,,,,Jack Stephens Center,Little Rock,AR,,False
-401925063,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,2447,Nicholls,2348,Louisiana Tech,,,,,David R. Stopher Gymnasium,Thibodaux,LA,,False
-401911520,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,16,Sacramento State,302,UC Davis,,,,,Hornet Pavilion,Sacramento,CA,,False
-401911347,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Scheduled,False,False,False,,2253,Grand Canyon,2433,UL Monroe,,,,,Global Credit Union Arena,Phoenix,AZ,,False
-401920760,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:30,Scheduled,False,False,False,,2057,Belmont,231,Furman,,,,,Curb Event Center Arena,Nashville,TN,,False
-401922031,2027,2026-27,Regular Season,2026-11-14,2026-11-14 21:00,Scheduled,False,False,False,,155,North Dakota,149,Montana,,,,,Betty Engelstad Sioux Center,Grand Forks,ND,,False
-401917530,2027,2026-27,Regular Season,2026-11-14,2026-11-14 22:00,Scheduled,False,False,False,,2541,Santa Clara,167,New Mexico,,,,,Leavey Center,Santa Clara,CA,,False
-401911455,2027,2026-27,Regular Season,2026-11-14,2026-11-14 22:00,Scheduled,False,False,False,,2440,Nevada,3084,Utah Valley,,,,,Lawlor Events Center,Reno,NV,,False
+401921689,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:30,Final,True,False,False,Bad Boy Mowers Series,2250,Gonzaga,99,LSU,80,81,99,0,Spokane Numerica Veterans Arena,Spokane,WA,12000,True
+401919847,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2641,Texas Tech,284,Stonehill,88,37,2641,0,United Supermarkets Arena,Lubbock,TX,11869,True
+401919004,2027,2026-27,Regular Season,2026-11-14,2026-11-14 12:00,Final,True,False,False,,2006,Akron,2655,Tulane,65,63,2006,0,James A. Rhodes Arena,Akron,OH,,True
+401929362,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,False,False,,265,Washington State,2465,Northwest University,123,87,265,0,Beasley Coliseum,Pullman,WA,2624,True
+401923303,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,False,False,,311,Maine,2182,Drexel,64,66,2182,0,Skip Chappelle Court in Memorial Gymnasium,Orono,ME,993,True
+401920750,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,False,False,,2754,Youngstown State,276,Marshall,74,71,2754,0,Zidian Family Arena at Beeghly Center,Youngstown,OH,1463,True
+401920693,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,False,False,,261,Vermont,177,Plattsburgh,104,59,261,0,Patrick Gymnasium,Burlington,VT,1911,True
+401920074,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,True,False,Showdown in St. Pete,71,Bradley,2244,George Mason,62,61,71,0,McArthur Center,St. Petersburg,FL,,True
+401912229,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:00,Final,True,False,False,,349,Army,2900,St. Thomas,79,77,349,0,Christl Arena,West Point,NY,2961,True
+401911231,2027,2026-27,Regular Season,2026-11-14,2026-11-14 13:30,Final,True,False,False,,36,Colorado State,2350,Loyola Chicago,58,73,2350,0,Moby Arena,Fort Collins,CO,4597,True
+401923261,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2226,Florida Atlantic,3189,Coastal Georgia,78,63,2226,0,Abessinio Court at Eleanor R. Baldwin Arena,Boca Raton,FL,2079,True
+401922230,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2511,Queens University,2747,Wofford,97,92,2511,0,Curry Arena,Charlotte,NC,,True
+401922220,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2454,North Florida,2643,The Citadel,74,77,2643,0,UNF Arena,Jacksonville,FL,2485,True
+401921155,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2448,North Carolina A&T,2129,Cheyney (PA),104,76,2448,0,Ellis Corbett Sports Center,Greensboro,NC,450,True
+401921096,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2617,Stephen F. Austin,242,Rice,78,81,242,1,William R. Johnson Coliseum,Nacogdoches,TX,2282,True
+401920915,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,91,Bellarmine,2459,Northern Illinois,64,72,2459,0,Knights Hall,Louisville,KY,1025,True
+401918993,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,58,South Florida,2154,Coppin State,73,63,58,0,Yuengling Center,Tampa,FL,2677,True
+401911392,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,2579,South Carolina,2241,Gardner-Webb,79,62,2579,0,Colonial Life Arena,Columbia,SC,10461,True
+401911015,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:00,Final,True,False,False,,339,Evansville,193,Miami (OH),78,86,193,0,Ford Center,Evansville,IN,2652,True
+401922054,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:30,Final,True,False,False,,2515,Radford,2828,Shenandoah,102,63,2515,0,The Dedmon Center,Radford,VA,814,True
+401921038,2027,2026-27,Regular Season,2026-11-14,2026-11-14 14:30,Final,True,False,False,,2737,Winthrop,2296,Jackson State,72,76,2296,0,Winthrop Coliseum,Rock Hill,SC,2123,True
+401924921,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:00,Final,True,False,False,,2172,Denver,2751,Wyoming,53,76,2751,0,Hamilton Gymnasium,Denver,CO,1803,True
+401911016,2027,2026-27,Regular Season,2026-11-14,2026-11-14 15:30,Final,True,False,False,,94,Northern Kentucky,2117,Central Michigan,57,68,2117,0,Truist Arena,Highland Heights,KY,2309,True
+401934189,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,350,UNC Wilmington,2410,Montreat,100,41,350,0,Trask Coliseum,Wilmington,NC,5160,True
+401928804,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,2174,Detroit Mercy,2649,Toledo,72,85,2649,0,Calihan Hall,Detroit,MI,1201,True
+401925889,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,True,False,,2458,Northern Colorado,2571,South Dakota State,46,71,2571,0,The Monument,Rapid City,SD,2545,True
+401922046,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,295,Old Dominion,2344,Longwood,80,74,295,0,Chartway Arena,Norfolk,VA,4004,True
+401921221,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,2426,Navy,2261,Hampton,58,56,2426,0,Alumni Hall (Navy),Annapolis,MD,1302,True
+401920307,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,59,Georgia Tech,2427,UNC Asheville,75,74,59,0,McCamish Pavilion,Atlanta,GA,5023,True
+401918979,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,151,East Carolina,2169,Delaware State,72,48,151,0,Williams Arena at Minges Coliseum,Greenville,NC,2788,True
+401911264,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,179,St. Bonaventure,322,Lafayette,81,58,179,0,Reilly Center,Saint Bonaventure,NY,3412,True
+401909728,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Final,True,False,False,,154,Wake Forest,253,Southern Utah,89,51,154,0,LJVM Coliseum,Winston-Salem,NC,6206,True
+401920741,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:30,Final,True,False,False,,2097,Campbell,2908,South Carolina Upstate,93,77,2097,0,John W. Pope Jr. Convocation Center,Buies Creek,NC,1129,True
+401927387,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Final,True,False,False,,2473,Oakland,2460,Northern Iowa,80,76,2473,0,OU Credit Union O'rena,Rochester,MI,2609,True
+401920567,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Final,True,True,False,410 Invitational - Consolation,2352,Loyola Maryland,2415,Morgan State,61,63,2415,1,SECU Arena,Towson,MD,650,True
+401918055,2027,2026-27,Regular Season,2026-11-14,2026-11-14 17:00,Final,True,False,False,,25,California,3101,Utah Tech,79,73,25,0,Haas Pavilion,Berkeley,CA,2862,True
+401926777,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,278,Fresno State,27,UC Riverside,89,80,278,0,Save Mart Center,Fresno,CA,2783,True
+401925948,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,2692,Weber State,124946,Lincoln (CA),80,57,2692,0,Dee Events Center,Ogden,UT,2115,True
+401925827,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,249,North Texas,6,South Alabama,66,65,249,0,The Super Pit,Denton,TX,2328,True
+401925048,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,2443,LSU New Orleans,2573,Southern New Orleans,98,82,2443,0,Lakefront Arena,New Orleans,LA,713,True
+401919782,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,2330,Le Moyne,2363,Manhattan,76,62,2330,0,Ted Grant Court,Syracuse,NY,673,True
+401909534,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:00,Final,True,False,False,,2507,Providence,38,Colorado,67,53,2507,0,Amica Mutual Pavilion,Providence,RI,12400,True
+401920193,2027,2026-27,Regular Season,2026-11-14,2026-11-14 18:30,Final,True,False,False,Big 5 Classic - Campus Game,2603,Saint Joseph's,219,Pennsylvania,83,77,2603,0,Michael J. Hagan '85 Arena,Philadelphia,PA,3078,True
+401927377,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,282,Indiana State,2189,Earlham,109,37,282,0,Hulman Center,Terre Haute,IN,3852,True
+401925774,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2166,Davidson,47,Howard,58,64,47,0,John M. Belk Arena,Davidson,NC,2340,True
+401925108,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,250,UT Arlington,292,UT Rio Grande Valley,85,77,250,0,College Park Center,Arlington,TX,2449,True
+401921775,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,222,Villanova,2520,Rider,99,62,222,0,Finneran Pavilion,Villanova,PA,6501,True
+401921063,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2539,San Francisco,2502,Portland State,68,84,2502,0,The Sobrato Center,San Francisco,CA,1137,True
+401920867,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2217,Fairfield,2885,NJIT,63,60,2217,0,Leo D. Mahoney Arena,Fairfield,CT,1566,True
+401920705,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2717,Western Carolina,288,Lipscomb,68,75,288,0,Ramsey Center,Cullowhee,NC,1847,True
+401919017,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,55,Jacksonville State,5,UAB,71,68,55,0,Pete Mathews Coliseum,Jacksonville,AL,2900,True
+401917951,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2724,Wichita State,2046,Austin Peay,76,60,2724,0,Charles Koch Arena,Wichita,KS,6002,True
+401911376,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2127,Charleston Southern,2698,West Georgia,92,68,2127,0,Buccaneer Fieldhouse,Charleston,SC,865,True
+401911308,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Final,True,False,False,,2561,Siena,225,Brown,79,74,2561,0,MVP Arena,Albany,NY,4603,True
+401920961,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Final,True,False,False,,2413,Morehead State,85,IU Indianapolis,79,75,2413,0,Ellis T. Johnson Arena,Morehead,KY,1012,True
+401920568,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Final,True,False,False,410 Invitational - Championship,119,Towson,2378,UMBC,68,42,119,0,SECU Arena,Towson,MD,2410,True
+401911276,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Final,True,False,False,,2184,Duquesne,2066,Binghamton,71,58,2184,0,UPMC Cooper Fieldhouse,Pittsburgh,PA,2411,True
+401911188,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:30,Final,True,False,False,,2168,Dayton,2132,Cincinnati,72,95,2132,0,UD Arena,Dayton,OH,13407,True
+401929444,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,2032,Arkansas State,2176,Dillard,99,65,2032,0,First National Bank Arena,Jonesboro,AR,3187,True
+401929400,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,198,Oral Roberts,2481,Oklahoma City,82,39,198,0,Mabee Center,Tulsa,OK,3501,True
+401925079,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,2031,Little Rock,2466,Northwestern State,84,83,2031,1,Jack Stephens Center,Little Rock,AR,1027,True
+401925063,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,2447,Nicholls,2348,Louisiana Tech,71,68,2447,0,David R. Stopher Gymnasium,Thibodaux,LA,645,True
+401911520,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,16,Sacramento State,302,UC Davis,56,75,302,0,Hornet Pavilion,Sacramento,CA,3122,True
+401911347,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:00,Final,True,False,False,,2253,Grand Canyon,2433,UL Monroe,88,52,2253,0,Global Credit Union Arena,Phoenix,AZ,,True
+401920760,2027,2026-27,Regular Season,2026-11-14,2026-11-14 20:30,Final,True,False,False,,2057,Belmont,231,Furman,72,62,2057,0,Curb Event Center Arena,Nashville,TN,1471,True
+401922031,2027,2026-27,Regular Season,2026-11-14,2026-11-14 21:00,Final,True,False,False,,155,North Dakota,149,Montana,71,80,149,0,Betty Engelstad Sioux Center,Grand Forks,ND,876,True
+401917530,2027,2026-27,Regular Season,2026-11-14,2026-11-14 22:00,Final,True,False,False,,2541,Santa Clara,167,New Mexico,90,85,2541,0,Leavey Center,Santa Clara,CA,2211,True
+401911455,2027,2026-27,Regular Season,2026-11-14,2026-11-14 22:00,Final,True,False,False,,2440,Nevada,3084,Utah Valley,71,73,3084,0,Lawlor Events Center,Reno,NV,7358,True
 401924720,2027,2026-27,Regular Season,2026-11-14,2026-11-14 11:00,Postponed,False,False,False,,172,Cornell,2430,UNC Greensboro,,,,,Newman Arena,Ithaca,NY,,False
 401917529,2027,2026-27,Regular Season,2026-11-14,2026-11-14 16:00,Postponed,False,False,False,,279,Pacific,2005,Air Force,,,,,Alex G. Spanos Center,Stockton,CA,,False
 401926864,2027,2026-27,Regular Season,2026-11-14,2026-11-14 19:00,Postponed,False,False,False,,350,UNC Wilmington,309,Louisiana,,,,,Trask Coliseum,Wilmington,NC,,False
 401929458,2027,2026-27,Regular Season,2026-11-15,2026-11-15 12:00,Scheduled,False,False,False,,526,Florida Gulf Coast,134875,Abraham Baldwin Agricultural,,,,,Alico Arena,Fort Myers,FL,,False
+401924858,2027,2026-27,Regular Season,2026-11-15,2026-11-15 12:00,Scheduled,False,False,False,,2115,Central Connecticut,2514,Quinnipiac,,,,,Detrick Gymnasium,New Britain,CT,,False
 401918949,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,235,Memphis,97,Louisville,,,,,FedExForum,Memphis,TN,,False
 401926063,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,True,False,,158,Nebraska,68,Boise State,,,,,Sanford Pentagon,Sioux Falls,SD,,False
 401925896,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,2247,Georgia State,2450,Norfolk State,,,,,GSU Convocation Center,Atlanta,GA,,False
-401924858,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,2115,Central Connecticut,2514,Quinnipiac,,,,,Detrick Gymnasium,New Britain,CT,,False
 401920771,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,48,Delaware,2142,Colgate,,,,,Bob Carpenter Center,Newark,DE,,False
 401920235,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,104,Boston University,159,Dartmouth,,,,,Case Gym,Boston,MA,,False
 401912210,2027,2026-27,Regular Season,2026-11-15,2026-11-15 13:00,Scheduled,False,False,False,,44,American University,108,Harvard,,,,,Bender Arena,Washington,DC,,False
@@ -7152,7 +7152,6 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401925926,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,232,Charleston,2569,South Carolina State,,,,,TD Arena,Charleston,SC,,False
 401925812,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,Big 5 Classic - Campus Game,2325,La Salle,218,Temple,,,,,John Glaser Arena,Philadelphia,PA,,False
 401924744,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,43,Yale,2211,Emmanuel (MA),,,,,John J. Lee Amphitheater,New Haven,CT,,False
-401921760,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,254,Utah,264,Washington,,,,,Jon M. Huntsman Center,Salt Lake City,UT,,False
 401921287,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,107,Holy Cross,399,UAlbany,,,,,Hart Center Arena,Worcester,MA,,False
 401920136,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,2449,North Dakota State,2934,Cal State Bakersfield,,,,,Scheels Center,Fargo,ND,,False
 401920065,2027,2026-27,Regular Season,2026-11-15,2026-11-15 14:00,Scheduled,False,False,False,,227,Rhode Island,163,Princeton,,,,,Thomas M. Ryan Center,Kingston,RI,,False
@@ -7163,6 +7162,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401921168,2027,2026-27,Regular Season,2026-11-15,2026-11-15 15:00,Scheduled,False,False,False,,2010,Alabama A&M,325,Cleveland State,,,,,Event Center,Huntsville,AL,,False
 401911251,2027,2026-27,Regular Season,2026-11-15,2026-11-15 15:00,Scheduled,False,False,False,,139,Saint Louis,2272,High Point,,,,,Chaifetz Arena,St. Louis,MO,,False
 401909493,2027,2026-27,Regular Season,2026-11-15,2026-11-15 15:00,Scheduled,False,True,False,,2294,Iowa,156,Creighton,,,,,Casey's Center,Des Moines,IA,,False
+401934396,2027,2026-27,Regular Season,2026-11-15,2026-11-15 16:00,Scheduled,False,False,False,,279,Pacific,2005,Air Force,,,,,Alex G. Spanos Center,Stockton,CA,,False
 401928789,2027,2026-27,Regular Season,2026-11-15,2026-11-15 16:00,Scheduled,False,True,False,Compete 4 Cause Classic,21,San Diego State,166,New Mexico State,,,,,Frontwave Arena,Oceanside,CA,,False
 401928353,2027,2026-27,Regular Season,2026-11-15,2026-11-15 16:00,Scheduled,False,False,False,,2540,UC Santa Barbara,3185,UC Merced,,,,,The Thunderdome,Santa Barbara,CA,,False
 401919825,2027,2026-27,Regular Season,2026-11-15,2026-11-15 16:00,Scheduled,False,False,False,,256,James Madison,2385,Mercyhurst,,,,,Atlantic Union Bank Center,Harrisonburg,VA,,False
@@ -7177,7 +7177,6 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401920124,2027,2026-27,Regular Season,2026-11-15,2026-11-15 18:00,Scheduled,False,False,False,,147,Montana State,13,Cal Poly,,,,,Worthington Arena,Bozeman,MT,,False
 401920681,2027,2026-27,Regular Season,2026-11-15,2026-11-15 19:00,Scheduled,False,False,False,,2599,St. John's,183,Syracuse,,,,,Madison Square Garden,New York,NY,,False
 401926772,2027,2026-27,Regular Season,2026-11-15,2026-11-15 19:00,Scheduled,False,False,False,,30,USC,2029,Arkansas-Pine Bluff,,,,,Galen Center,Los Angeles,CA,,False
-401929419,2027,2026-27,Regular Season,2026-11-15,2026-11-15 20:00,Scheduled,False,False,False,,2638,UTEP,50,Florida A&M,,,,,Don Haskins Center,El Paso,TX,,False
 401929200,2027,2026-27,Regular Season,2026-11-15,2026-11-15 20:00,Scheduled,False,False,False,,2636,UTSA,326,Texas State,,,,,UTSA Convocation Center,San Antonio,TX,,False
 401925718,2027,2026-27,Regular Season,2026-11-15,2026-11-15 20:00,Scheduled,False,False,False,,2065,Bethune-Cookman,2488,Paine,,,,,Moore Gymnasium (FL),Daytona Beach,FL,,False
 401920896,2027,2026-27,Regular Season,2026-11-15,2026-11-15 20:00,Scheduled,False,False,False,,275,Wisconsin,324,Coastal Carolina,,,,,Kohl Center,Madison,WI,,False
@@ -7185,6 +7184,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401920962,2027,2026-27,Regular Season,2026-11-16,2026-11-16 11:00,Scheduled,False,False,False,,2413,Morehead State,124809,Miami (OH) Hamilton,,,,,Ellis T. Johnson Arena,Morehead,KY,,False
 401929371,2027,2026-27,Regular Season,2026-11-16,2026-11-16 12:00,Scheduled,False,False,False,,2453,North Alabama,2225,Fisk,,,,,CB&S Bank Arena at Flowers Hall,Florence,AL,,False
 401911211,2027,2026-27,Regular Season,2026-11-16,2026-11-16 12:00,Scheduled,False,False,False,,45,George Washington,366,Ferrum,,,,,Charles E. Smith Center,Washington,DC,,False
+401929419,2027,2026-27,Regular Season,2026-11-16,2026-11-16 14:00,Scheduled,False,False,False,,2638,UTEP,50,Florida A&M,,,,,Don Haskins Center,El Paso,TX,,False
 401921087,2027,2026-27,Regular Season,2026-11-16,2026-11-16 18:00,Scheduled,False,False,False,America East-Metro Challenge,2378,UMBC,314,Iona,,,,,Chesapeake Employers Insurance Arena,Baltimore,MD,,False
 401916298,2027,2026-27,Regular Season,2026-11-16,2026-11-16 18:00,Scheduled,False,False,False,,120,Maryland,2016,Alcorn State,,,,,XFINITY Center,College Park,MD,,False
 401916317,2027,2026-27,Regular Season,2026-11-16,2026-11-16 18:30,Scheduled,False,False,False,,194,Ohio State,2504,Prairie View A&M,,,,,Schottenstein Center,Columbus,OH,,False
@@ -7202,7 +7202,6 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401926153,2027,2026-27,Regular Season,2026-11-16,2026-11-16 19:30,Scheduled,False,False,False,,2546,Southeast Missouri State,111166,Midway,,,,,Show Me Center,Cape Girardeau,MO,,False
 401929411,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,2571,South Dakota State,561,Mayville State,,,,,First Bank & Trust Arena,Brookings,SD,,False
 401928997,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,2674,Valparaiso,502,Calumet St. Joseph,,,,,Athletics-Recreation Center,Valparaiso,IN,,False
-401926143,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,155,North Dakota,2565,SIU Edwardsville,,,,,Betty Engelstad Sioux Center,Grand Forks,ND,,False
 401920735,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,77,Northwestern,171,Columbia,,,,,Welsh-Ryan Arena,Evanston,IL,,False
 401917964,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,2623,Missouri State,2000,Abilene Christian,,,,,Great Southern Bank Arena,Springfield,MO,,False
 401917917,2027,2026-27,Regular Season,2026-11-16,2026-11-16 20:00,Scheduled,False,False,False,,197,Oklahoma State,2110,Central Arkansas,,,,,Gallagher-Iba Arena,Stillwater,OK,,False
@@ -7260,6 +7259,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401929358,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2572,Southern Miss,250,UT Arlington,,,,,Reed Green Coliseum,Hattiesburg,MS,,False
 401927867,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2464,Northern Arizona,111226,Embry Riddle (AZ),,,,,Rolle Activity Center,Flagstaff,AZ,,False
 401927388,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2460,Northern Iowa,2815,Lindenwood,,,,,McLeod Center,Cedar Falls,IA,,False
+401926143,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,155,North Dakota,2565,SIU Edwardsville,,,,,Betty Engelstad Sioux Center,Grand Forks,ND,,False
 401925012,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2437,Omaha,2320,Lamar,,,,,Baxter Arena,Omaha,NE,,False
 401922221,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2454,North Florida,123362,Fort Lauderdale,,,,,UNF Arena,Jacksonville,FL,,False
 401921106,2027,2026-27,Regular Season,2026-11-17,2026-11-17 20:00,Scheduled,False,False,False,,2287,Illinois State,91,Bellarmine,,,,,CEFCU Arena,Normal,IL,,False
@@ -7302,7 +7302,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401922212,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2226,Florida Atlantic,526,Florida Gulf Coast,,,,,Abessinio Court at Eleanor R. Baldwin Arena,Boca Raton,FL,,False
 401922055,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2515,Radford,231,Furman,,,,,The Dedmon Center,Radford,VA,,False
 401922047,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2344,Longwood,2678,VMI,,,,,Joan Perry Brock Center,Farmville,VA,,False
-401921156,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2448,North Carolina A&T,2415,Morgan State,,,,,Corbett Sports Center,Greensboro,NC,,False
+401921156,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2448,North Carolina A&T,2415,Morgan State,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401921141,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2579,South Carolina,2210,Elon,,,,,Colonial Life Arena,Columbia,SC,,False
 401920963,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,195,Ohio,2413,Morehead State,,,,,Convocation Center (OH),Athens,OH,,False
 401920772,2027,2026-27,Regular Season,2026-11-18,2026-11-18 19:00,Scheduled,False,False,False,,2142,Colgate,390,Utica,,,,,Cotterell Court,Hamilton,NY,,False
@@ -7547,7 +7547,6 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401911233,2027,2026-27,Regular Season,2026-11-22,2026-11-22 23:59,Scheduled,False,True,False,Acrisure Series,2350,Loyola Chicago,23,San José State,,,,,Acrisure Arena,Palm Springs,CA,,False
 401932055,2027,2026-27,Regular Season,2026-11-23,2026-11-23 00:00,Scheduled,False,False,False,,47,Howard,128342,Notre Dame (MD),,,,,Burr Gymnasium,Washington,DC,,False
 401928389,2027,2026-27,Regular Season,2026-11-23,2026-11-23 00:00,Scheduled,False,False,False,,2755,Grambling,3120,Ecclesia,,,,,Fredrick C. Hobdy Assembly Center,Grambling,LA,,False
-401926183,2027,2026-27,Regular Season,2026-11-23,2026-11-23 00:00,Scheduled,False,False,False,,2492,Pepperdine,2430,UNC Greensboro,,,,,Firestone Fieldhouse,Malibu,CA,,False
 401927397,2027,2026-27,Regular Season,2026-11-23,2026-11-23 11:00,Scheduled,False,True,False,ESPN Events Invitational - Adventure Bracket,2026,App State,179,St. Bonaventure,,,,,State Farm Field House,Kissimmee,FL,,False
 401921700,2027,2026-27,Regular Season,2026-11-23,2026-11-23 11:00,Scheduled,False,True,False,Fort Myers Tip-Off - Palms Division,2166,Davidson,2460,Northern Iowa,,,,,Suncoast Credit Union Arena,Fort Myers,FL,,False
 401921209,2027,2026-27,Regular Season,2026-11-23,2026-11-23 12:30,Scheduled,False,True,True,U.S. Virgin Islands Paradise Jam - Seventh Place Game,-1,TBD,-2,TBD,,,,,Elridge Blake Sports and Fitness Center,Charlotte Amalie,Virgin Islands,,False
@@ -7586,6 +7585,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401922263,2027,2026-27,Regular Season,2026-11-23,2026-11-23 21:00,Scheduled,False,False,False,,70,Idaho,316,Dickinson State,,,,,ICCU Arena,Moscow,ID,,False
 401922032,2027,2026-27,Regular Season,2026-11-23,2026-11-23 21:00,Scheduled,False,False,False,,149,Montana,2104,Carroll (MT),,,,,Dahlberg Arena,Missoula,MT,,False
 401909536,2027,2026-27,Regular Season,2026-11-23,2026-11-23 21:00,Scheduled,False,True,False,Southwest Maui Invitational,2507,Providence,2670,VCU,,,,,Lahaina Civic Center,Maui,HI,,False
+401926183,2027,2026-27,Regular Season,2026-11-23,2026-11-23 21:30,Scheduled,False,False,False,,2492,Pepperdine,2430,UNC Greensboro,,,,,Firestone Fieldhouse,Malibu,CA,,False
 401921663,2027,2026-27,Regular Season,2026-11-23,2026-11-23 21:30,Scheduled,False,True,True,Acrisure Series - Championship Game,-1,TBD,-2,TBD,,,,,Acrisure Arena,Palm Springs,CA,,False
 401920721,2027,2026-27,Regular Season,2026-11-23,2026-11-23 22:00,Scheduled,False,False,False,,2439,UNLV,331,Eastern Washington,,,,,Thomas & Mack Center,Las Vegas,NV,,False
 401918057,2027,2026-27,Regular Season,2026-11-23,2026-11-23 22:00,Scheduled,False,False,False,,25,California,2011,Alabama State,,,,,Haas Pavilion,Berkeley,CA,,False
@@ -7679,7 +7679,6 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401909763,2027,2026-27,Regular Season,2026-11-24,2026-11-24 23:59,Scheduled,False,True,False,Acrisure Series,38,Colorado,24,Stanford,,,,,Acrisure Arena,Palm Springs,CA,,False
 401909800,2027,2026-27,Regular Season,2026-11-25,2026-11-25 00:30,Scheduled,False,True,False,Players Era 16,2306,Kansas State,2250,Gonzaga,,,,,T-Mobile Arena,Las Vegas,NV,,False
 401924897,2027,2026-27,Regular Season,2026-11-25,2026-11-25 00:00,Scheduled,False,False,False,,167,New Mexico,2400,Mississippi Valley State,,,,,The Pit,Albuquerque,NM,,False
-401920138,2027,2026-27,Regular Season,2026-11-25,2026-11-25 00:00,Scheduled,False,False,False,,2492,Pepperdine,2934,Cal State Bakersfield,,,,,Firestone Fieldhouse,Malibu,CA,,False
 401927399,2027,2026-27,Regular Season,2026-11-25,2026-11-25 10:00,Scheduled,False,True,False,ESPN Events Invitational - Adventure Bracket,2057,Belmont,179,St. Bonaventure,,,,,State Farm Field House,Kissimmee,FL,,False
 401928845,2027,2026-27,Regular Season,2026-11-25,2026-11-25 11:00,Scheduled,False,True,False,Jacksonville Classic,195,Ohio,242,Rice,,,,,The Reef,Jacksonville,FL,,False
 401921702,2027,2026-27,Regular Season,2026-11-25,2026-11-25 11:00,Scheduled,False,True,False,Fort Myers Tip-Off - Palms Division,2429,Charlotte,2460,Northern Iowa,,,,,Suncoast Credit Union Arena,Fort Myers,FL,,False
@@ -7737,6 +7736,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401918960,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,152,NC State,2450,Norfolk State,,,,,Lenovo Center,Raleigh,NC,,False
 401911028,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,275,Wisconsin,111,Northeastern,,,,,Kohl Center,Madison,WI,,False
 401929287,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:30,Scheduled,False,True,False,Battle 4 Atlantis - Championship Bracket,344,Mississippi State,154,Wake Forest,,,,,Imperial Arena,Nassau,Bahamas,,False
+401920138,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:00,Scheduled,False,False,False,,2492,Pepperdine,2934,Cal State Bakersfield,,,,,Firestone Fieldhouse,Malibu,CA,,False
 401920550,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:30,Scheduled,False,True,True,Cancun Challenge - Riviera Division - Championship,-1,TBD,-2,TBD,,,,,Hard Rock Hotel Riviera Maya,Cancun,Mexico,,False
 401911522,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:30,Scheduled,False,True,False,Resorts World Classic,302,UC Davis,2437,Omaha,,,,,Resorts World Event Center,Las Vegas,NV,,False
 401925880,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Scheduled,False,False,False,,147,Montana State,3218,Northwest Indian,,,,,Worthington Arena,Bozeman,MT,,False
@@ -7839,7 +7839,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401922241,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,56,Stetson,128550,New College,,,,,Insight Credit Union Arena at Edmunds Center,DeLand,FL,,False
 401922224,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,171,Columbia,2454,North Florida,,,,,Levien Gymnasium,New York,NY,,False
 401921245,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,True,False,Mahoney Classic,2426,Navy,2115,Central Connecticut,,,,,Leo D. Mahoney Arena,Fairfield,CT,,False
-401921158,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,2448,North Carolina A&T,2169,Delaware State,,,,,Corbett Sports Center,Greensboro,NC,,False
+401921158,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,2448,North Carolina A&T,2169,Delaware State,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401921031,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,2427,UNC Asheville,290,Georgia Southern,,,,,Kimmel Arena,Asheville,NC,,False
 401920977,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,236,Chattanooga,2653,Troy,,,,,McKenzie Arena,Chattanooga,TN,,False
 401920415,2027,2026-27,Regular Season,2026-11-28,2026-11-28 14:00,Scheduled,False,False,False,,2272,High Point,2643,The Citadel,,,,,Qubein Center,High Point,NC,,False
@@ -7966,7 +7966,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401925081,2027,2026-27,Regular Season,2026-12-01,2026-12-01 00:00,Scheduled,False,False,False,,2466,Northwestern State,3120,Ecclesia,,,,,Prather Coliseum,Natchitoches,LA,,False
 401917906,2027,2026-27,Regular Season,2026-12-01,2026-12-01 11:00,Scheduled,False,False,False,,2698,West Georgia,88,Southern Indiana,,,,,The Coliseum,Carrollton,GA,,False
 401928361,2027,2026-27,Regular Season,2026-12-01,2026-12-01 12:00,Scheduled,False,False,False,,2582,Southern,3134,Champion Christian,,,,,F.G. Clark Activity Center,Baton Rouge,LA,,False
-401921159,2027,2026-27,Regular Season,2026-12-01,2026-12-01 16:00,Scheduled,False,False,False,,2448,North Carolina A&T,50024,Washington Adventist,,,,,Corbett Sports Center,Greensboro,NC,,False
+401921159,2027,2026-27,Regular Season,2026-12-01,2026-12-01 16:00,Scheduled,False,False,False,,2448,North Carolina A&T,50024,Washington Adventist,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401906785,2027,2026-27,Regular Season,2026-12-01,2026-12-01 17:00,Scheduled,False,False,False,ACC/SEC Men's Challenge,61,Georgia,103,Boston College,,,,,Stegeman Coliseum,Athens,GA,,False
 401929615,2027,2026-27,Regular Season,2026-12-01,2026-12-01 18:00,Scheduled,False,False,False,,2803,Bryant,185,Vassar,,,,,Chace Athletic Center,Smithfield,RI,,False
 401923307,2027,2026-27,Regular Season,2026-12-01,2026-12-01 18:00,Scheduled,False,False,False,,311,Maine,126890,Maine Augusta,,,,,Skip Chappelle Court in Memorial Gymnasium,Orono,ME,,False
@@ -8247,6 +8247,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401922033,2027,2026-27,Regular Season,2026-12-05,2026-12-05 18:30,Scheduled,False,False,False,,328,Utah State,149,Montana,,,,,Dee Glen Smith Spectrum,Logan,UT,,False
 401926865,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,False,,350,UNC Wilmington,2674,Valparaiso,,,,,Trask Coliseum,Wilmington,NC,,False
 401925015,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,True,,2320,Lamar,2466,Northwestern State,,,,,Montagne Center,Beaumont,TX,,False
+401921760,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,False,,254,Utah,264,Washington,,,,,Jon M. Huntsman Center,Salt Lake City,UT,,False
 401921067,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,False,,2539,San Francisco,233,South Dakota,,,,,The Sobrato Center,San Francisco,CA,,False
 401920861,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,False,,276,Marshall,2065,Bethune-Cookman,,,,,Cam Henderson Center,Huntington,WV,,False
 401919035,2027,2026-27,Regular Season,2026-12-05,2026-12-05 19:00,Scheduled,False,False,False,,2724,Wichita State,68,Boise State,,,,,Charles Koch Arena,Wichita,KS,,False
@@ -8406,7 +8407,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401925900,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,2450,Norfolk State,3111,Apprentice School,,,,,Joseph G. Echols Hall,Norfolk,VA,,False
 401924746,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,43,Yale,226,Rhode Island College,,,,,John J. Lee Amphitheater,New Haven,CT,,False
 401923265,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,2226,Florida Atlantic,2053,Barry,,,,,Abessinio Court at Eleanor R. Baldwin Arena,Boca Raton,FL,,False
-401921161,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,2448,North Carolina A&T,256,James Madison,,,,,Corbett Sports Center,Greensboro,NC,,False
+401921161,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,2448,North Carolina A&T,256,James Madison,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401920872,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,2441,New Haven,2885,NJIT,,,,,Jeffery P. Hazell Athletics Center,West Haven,CT,,False
 401920312,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,59,Georgia Tech,2643,The Citadel,,,,,McCamish Pavilion,Atlanta,GA,,False
 401918998,2027,2026-27,Regular Season,2026-12-09,2026-12-09 19:00,Scheduled,False,False,False,,58,South Florida,294,Jacksonville,,,,,Yuengling Center,Tampa,FL,,False
@@ -9593,7 +9594,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401911847,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,236,Chattanooga,2430,UNC Greensboro,,,,,McKenzie Arena,Chattanooga,TN,,False
 401905402,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,294,Jacksonville,288,Lipscomb,,,,,Swisher Gymnasium,Jacksonville,FL,,False
 401905401,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,2454,North Florida,91,Bellarmine,,,,,UNF Arena,Jacksonville,FL,,False
-401905226,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,350,UNC Wilmington,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905226,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,350,UNC Wilmington,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905225,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,2097,Campbell,2210,Elon,,,,,John W. Pope Jr. Convocation Center,Buies Creek,NC,,False
 401905224,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,2405,Monmouth,2261,Hampton,,,,,Hackensack Meridian Athletic Center,West Long Branch,NJ,,False
 401905223,2027,2026-27,Regular Season,2027-01-07,2027-01-07 19:00,Scheduled,False,False,True,,111,Northeastern,2729,William & Mary,,,,,Cabot Center,Boston,MA,,False
@@ -9953,7 +9954,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905239,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,232,Charleston,2097,Campbell,,,,,TD Arena,Charleston,SC,,False
 401905238,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,2729,William & Mary,2261,Hampton,,,,,Kaplan Arena,Williamsburg,VA,,False
 401905237,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,119,Towson,2405,Monmouth,,,,,SECU Arena,Towson,MD,,False
-401905235,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2619,Stony Brook,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905235,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2619,Stony Brook,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905234,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:00,Scheduled,False,False,True,,2182,Drexel,111,Northeastern,,,,,Daskalakis Athletic Center,Philadelphia,PA,,False
 401919242,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:30,Scheduled,False,False,True,,2739,Green Bay,2754,Youngstown State,,,,,Resch Center,Ashwaubenon,WI,,False
 401911990,2027,2026-27,Regular Season,2027-01-14,2027-01-14 19:30,Scheduled,False,False,True,,2433,UL Monroe,6,South Alabama,,,,,b1Bank Fant Coliseum,Monroe,LA,,False
@@ -10045,7 +10046,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905625,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,48,Delaware,2393,Middle Tennessee,,,,,Bob Carpenter Center,Newark,DE,,False
 401905414,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2697,West Florida,294,Jacksonville,,,,,UWF Field House,Pensacola,FL,,False
 401905411,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,91,Bellarmine,56,Stetson,,,,,Knights Hall,Louisville,KY,,False
-401905245,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,232,Charleston,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905245,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,232,Charleston,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905244,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2729,William & Mary,2097,Campbell,,,,,Kaplan Arena,Williamsburg,VA,,False
 401905242,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2405,Monmouth,2182,Drexel,,,,,Hackensack Meridian Athletic Center,West Long Branch,NJ,,False
 401905241,2027,2026-27,Regular Season,2027-01-16,2027-01-16 14:00,Scheduled,False,False,True,,2261,Hampton,2275,Hofstra,,,,,Convocation Center (VA),Hampton,VA,,False
@@ -10195,7 +10196,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401913458,2027,2026-27,Regular Season,2027-01-18,2027-01-18 20:30,Scheduled,False,False,True,,253,Southern Utah,147,Montana State,,,,,America First Event Center,Cedar City,UT,,False
 401913457,2027,2026-27,Regular Season,2027-01-18,2027-01-18 21:00,Scheduled,False,False,True,,3101,Utah Tech,149,Montana,,,,,Burns Arena,St. George,UT,,False
 401913455,2027,2026-27,Regular Season,2027-01-18,2027-01-18 21:00,Scheduled,False,False,True,,331,Eastern Washington,304,Idaho State,,,,,Reese Court,Cheney,WA,,False
-401905251,2027,2026-27,Regular Season,2027-01-18,2027-01-18 21:00,Scheduled,False,False,True,,2448,North Carolina A&T,2261,Hampton,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905251,2027,2026-27,Regular Season,2027-01-18,2027-01-18 21:00,Scheduled,False,False,True,,2448,North Carolina A&T,2261,Hampton,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401911868,2027,2026-27,Regular Season,2027-01-18,2027-01-18 21:30,Scheduled,False,False,True,,236,Chattanooga,2635,Tennessee Tech,,,,,McKenzie Arena,Chattanooga,TN,,False
 401925932,2027,2026-27,Regular Season,2027-01-19,2027-01-19 00:00,Scheduled,False,False,False,,2569,South Carolina State,108806,Mid Atlantic Christian,,,,,Smith-Hammond-Middleton Memorial Center,Orangeburg,SC,,False
 401911865,2027,2026-27,Regular Season,2027-01-19,2027-01-19 18:00,Scheduled,False,False,True,,231,Furman,2747,Wofford,,,,,Timmons Arena,Greenville,SC,,False
@@ -10641,7 +10642,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905639,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,48,Delaware,166,New Mexico State,,,,,Bob Carpenter Center,Newark,DE,,False
 401905421,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2511,Queens University,91,Bellarmine,,,,,Curry Arena,Charlotte,NC,,False
 401905266,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2182,Drexel,119,Towson,,,,,Daskalakis Athletic Center,Philadelphia,PA,,False
-401905265,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2405,Monmouth,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905265,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2405,Monmouth,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905264,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2097,Campbell,2275,Hofstra,,,,,John W. Pope Jr. Convocation Center,Buies Creek,NC,,False
 401905263,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:00,Scheduled,False,False,True,,2210,Elon,111,Northeastern,,,,,Schar Center,Elon,NC,,False
 401919266,2027,2026-27,Regular Season,2027-01-28,2027-01-28 19:30,Scheduled,False,False,True,,2750,Wright State,325,Cleveland State,,,,,Nutter Center,Dayton,OH,,False
@@ -11294,7 +11295,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905437,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,2454,North Florida,2511,Queens University,,,,,UNF Arena,Jacksonville,FL,,False
 401905436,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,526,Florida Gulf Coast,288,Lipscomb,,,,,Alico Arena,Fort Myers,FL,,False
 401905435,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,56,Stetson,91,Bellarmine,,,,,Insight Credit Union Arena at Edmunds Center,DeLand,FL,,False
-401905291,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2210,Elon,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905291,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,2448,North Carolina A&T,2210,Elon,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905290,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,2405,Monmouth,119,Towson,,,,,Hackensack Meridian Athletic Center,West Long Branch,NJ,,False
 401905289,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,2097,Campbell,2182,Drexel,,,,,John W. Pope Jr. Convocation Center,Buies Creek,NC,,False
 401905288,2027,2026-27,Regular Season,2027-02-11,2027-02-11 19:00,Scheduled,False,False,True,,111,Northeastern,2275,Hofstra,,,,,Cabot Center,Boston,MA,,False
@@ -11395,7 +11396,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905440,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,56,Stetson,288,Lipscomb,,,,,Insight Credit Union Arena at Edmunds Center,DeLand,FL,,False
 401905439,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,526,Florida Gulf Coast,91,Bellarmine,,,,,Alico Arena,Fort Myers,FL,,False
 401905296,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,2097,Campbell,2729,William & Mary,,,,,John W. Pope Jr. Convocation Center,Buies Creek,NC,,False
-401905295,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2182,Drexel,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905295,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2182,Drexel,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905292,2027,2026-27,Regular Season,2027-02-13,2027-02-13 14:00,Scheduled,False,False,True,,119,Towson,111,Northeastern,,,,,SECU Arena,Towson,MD,,False
 401925698,2027,2026-27,Regular Season,2027-02-13,2027-02-13 15:00,Scheduled,False,False,True,,2065,Bethune-Cookman,2016,Alcorn State,,,,,Moore Gymnasium (FL),Daytona Beach,FL,,False
 401924085,2027,2026-27,Regular Season,2027-02-13,2027-02-13 15:00,Scheduled,False,False,True,,2344,Longwood,2427,UNC Asheville,,,,,Joan Perry Brock Center,Farmville,VA,,False
@@ -11726,7 +11727,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905743,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,155,North Dakota,233,South Dakota,,,,,Betty Engelstad Sioux Center,Grand Forks,ND,,False
 401905674,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,2534,Sam Houston,166,New Mexico State,,,,,Bernard G. Johnson Coliseum,Huntsville,TX,,False
 401905671,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,2229,Florida International,2393,Middle Tennessee,,,,,Ocean Bank Convocation Center,Miami,FL,,False
-401905306,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2729,William & Mary,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905306,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2729,William & Mary,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905305,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:00,Scheduled,False,False,True,,2261,Hampton,2405,Monmouth,,,,,Convocation Center (VA),Hampton,VA,,False
 401918215,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:15,Scheduled,False,False,True,,2567,SMU,183,Syracuse,,,,,Moody Coliseum (Dallas),Dallas,TX,,False
 401920655,2027,2026-27,Regular Season,2027-02-20,2027-02-20 14:30,Scheduled,False,False,True,,269,Marquette,41,UConn,,,,,Fiserv Forum,Milwaukee,WI,,False
@@ -12069,7 +12070,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401905683,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2393,Middle Tennessee,98,Western Kentucky,,,,,Murphy Center,Murfreesboro,TN,,False
 401905680,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,338,Kennesaw State,2229,Florida International,,,,,VyStar Arena,Kennesaw,GA,,False
 401905453,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,91,Bellarmine,2511,Queens University,,,,,Knights Hall,Louisville,KY,,False
-401905320,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2097,Campbell,,,,,Corbett Sports Center,Greensboro,NC,,False
+401905320,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2448,North Carolina A&T,2097,Campbell,,,,,Ellis Corbett Sports Center,Greensboro,NC,,False
 401905318,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2261,Hampton,119,Towson,,,,,Convocation Center (VA),Hampton,VA,,False
 401905317,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2182,Drexel,2275,Hofstra,,,,,Daskalakis Athletic Center,Philadelphia,PA,,False
 401905316,2027,2026-27,Regular Season,2027-02-27,2027-02-27 14:00,Scheduled,False,False,True,,2405,Monmouth,2619,Stony Brook,,,,,Hackensack Meridian Athletic Center,West Long Branch,NJ,,False
