@@ -1290,9 +1290,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 111226,2027,Embry Riddle (AZ),Eagles,Embry Riddle (AZ) Eagles,ERAZ,,,False,,,
 124721,2027,Life University,Running Eagles,Life University Running Eagles,LIFE,,,False,,,
 2829,2027,Simon Fraser,Red Leafs,Simon Fraser Red Leafs,SFRU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2829.png
-594,2027,Pacific Union,PACIFIC UNION,Pacific Union PACIFIC UNION,PUC,,,False,,,
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
+594,2027,Pacific Union,Pioneers,Pacific Union Pioneers,PUC,,,False,,,
 343,2027,MCLA,Mohawks,MCLA Mohawks,MCLA,,,False,,,
 190,2027,Defiance,Yellow Jackets,Defiance Yellow Jackets,DFC,,,False,4e2d8a,ded27c,https://a.espncdn.com/i/teamlogos/ncaa/500/190.png
 2990,2027,St. Joseph's Brooklyn,Bears,St. Joseph's Brooklyn Bears,SJBK,,,False,,,
@@ -1302,6 +1300,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
 2877,2027,Lindsey Wilson,Blue Raiders,Lindsey Wilson Blue Raiders,LWU,,,False,000000,,
 241,2027,McMurry,War Hawks,McMurry War Hawks,MCM,,,False,98002e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/241.png
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2061,2027,Berea,Mountaineers,Berea Mountaineers,BERE,,,False,000000,,
 75,2027,North Park,Vikings,North Park Vikings,NPU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/75.png
 2839,2027,Tusculum,Pioneers,Tusculum Pioneers,TUSC,,,False,f2682a,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2839.png
@@ -1372,8 +1372,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 121894,2027,North Central (MN),Rams,North Central (MN) Rams,NCU,,,False,,,
 2042,2027,Augustana (IL),Vikings,Augustana (IL) Vikings,AUGC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2042.png
 2685,2027,Wartburg,Knights,Wartburg Knights,WTBG,,,False,f5822b,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2685.png
-3173,2027,Pensacola Christian,PENSACOLA CHRISTIAN,Pensacola Christian PENSACOLA CHRISTIAN,PCC,,,False,,,
 2304,2027,Johnson C. Smith,Golden Bulls,Johnson C. Smith Golden Bulls,JCSU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2304.png
+3173,2027,Pensacola Christian,PENSACOLA CHRISTIAN,Pensacola Christian PENSACOLA CHRISTIAN,PCC,,,False,,,
 134752,2027,Florida Polytechnic,Phoenix,Florida Polytechnic Phoenix,FLO,,,False,,,
 123410,2027,Kansas Christian,Falcons,Kansas Christian Falcons,KCC,,,False,,,
 2299,2027,Jarvis Christian,Bulldogs,Jarvis Christian Bulldogs,JVCU,,,False,000000,,
@@ -1442,15 +1442,15 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 53,2027,Florida Tech,Panthers,Florida Tech Panthers,FIT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/53.png
 2355,2027,Lynchburg,Hornets,Lynchburg Hornets,LYBG,,,False,,,
 118,2027,Johns Hopkins,Blue Jays,Johns Hopkins Blue Jays,JHU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/118.png
-2920,2027,Mobile,Rams,Mobile Rams,MOBL,,,False,,,
 2064,2027,Bethel (TN),Wildcats,Bethel (TN) Wildcats,BTTN,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2064.png
+2920,2027,Mobile,Rams,Mobile Rams,MOBL,,,False,,,
 110031,2027,Benedictine Mesa,Redhawks,Benedictine Mesa Redhawks,BENU,,,False,,,
 130174,2027,Texas A&M-San Antonio,Jaguars,Texas A&M-San Antonio Jaguars,TASA,,,False,,,
 130241,2027,Spartanburg Methodist,Pioneers,Spartanburg Methodist Pioneers,SPTB,,,False,,,
 111179,2027,Georgian Court,Lions,Georgian Court Lions,GCTU,,,False,,,
 66786,2027,Saint Elizabeth,Eagles,Saint Elizabeth Eagles,STE,,,False,,,
-486,2027,Aquinas,Saints,Aquinas Saints,AQUI,,,False,,,
 2374,2027,Marywood,Pacers,Marywood Pacers,MWD,,,False,000000,,
+486,2027,Aquinas,Saints,Aquinas Saints,AQUI,,,False,,,
 2404,2027,Molloy,Lions,Molloy Lions,MLLY,,,False,,,
 111948,2027,Elms,Blazers,Elms Blazers,ELMS,,,False,,,
 224,2027,Westminster (UT),Griffins,Westminster (UT) Griffins,WUUT,,,False,,,
