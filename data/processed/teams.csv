@@ -1300,8 +1300,6 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2841,2027,Union Commonwealth (KY),Bulldogs,Union Commonwealth (KY) Bulldogs,UNKY,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2841.png
 2877,2027,Lindsey Wilson,Blue Raiders,Lindsey Wilson Blue Raiders,LWU,,,False,000000,,
 241,2027,McMurry,War Hawks,McMurry War Hawks,MCM,,,False,98002e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/241.png
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2061,2027,Berea,Mountaineers,Berea Mountaineers,BERE,,,False,000000,,
 75,2027,North Park,Vikings,North Park Vikings,NPU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/75.png
 2839,2027,Tusculum,Pioneers,Tusculum Pioneers,TUSC,,,False,f2682a,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2839.png
@@ -1311,6 +1309,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 402,2027,Worcester State,Lancers,Worcester State Lancers,WORC,,,False,004b8e,ffc629,https://a.espncdn.com/i/teamlogos/ncaa/500/402.png
 3079,2027,Central Baptist,Mustangs,Central Baptist Mustangs,CNTB,,,False,,,
 2706,2027,WVU Tech,Golden Bears,WVU Tech Golden Bears,WVUT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2706.png
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2488,2027,Paine,Lions,Paine Lions,PANE,,,False,,,
 422,2027,Neumann,Knights,Neumann Knights,NEU,,,False,,,
 2944,2027,Penn State Behrend,Lions,Penn State Behrend Lions,PSBH,,,False,,,
