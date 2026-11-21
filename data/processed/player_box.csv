@@ -230573,6 +230573,194 @@ game_id,season,team_id,team,opponent_id,player_id,player,jersey,position,starter
 401917536,2027,2541,Santa Clara,2670,5458451,Brayde Kuykendall,13,G,False,True,False,,,,,,,,,,,,,,,,
 401917536,2027,2541,Santa Clara,2670,5458449,Eli Jolin,7,G,False,True,False,,,,,,,,,,,,,,,,
 401917536,2027,2541,Santa Clara,2670,5196879,KJ Cochran,12,G,False,True,False,,,,,,,,,,,,,,,,
+401920427,2027,2352,Loyola Maryland,258,5314515,Everett Barnes,17,F,True,False,False,22,5,2,5,1,2,0,0,2,2,4,1,0,0,1,1
+401920427,2027,2352,Loyola Maryland,258,5313004,Abdullah Amzil,14,F,True,False,False,22,15,5,5,5,5,0,0,1,1,2,0,0,0,1,0
+401920427,2027,2352,Loyola Maryland,258,5144143,D'Andre Harrison,0,F,True,False,False,21,2,1,2,0,0,0,0,1,1,2,2,0,0,3,1
+401920427,2027,2352,Loyola Maryland,258,5314513,Carter Berg-McLean,5,G,True,False,False,26,6,3,8,0,0,0,0,1,2,3,3,0,0,3,1
+401920427,2027,2352,Loyola Maryland,258,5241309,Leo Ricketts,33,G,True,False,False,24,13,4,10,2,6,3,3,0,0,0,3,1,0,2,2
+401920427,2027,2352,Loyola Maryland,258,5458371,Gage Howard,24,F,False,False,False,16,3,1,3,1,2,0,0,1,1,2,0,1,1,0,1
+401920427,2027,2352,Loyola Maryland,258,5314517,Sebastien Emenalo,13,F,False,False,False,19,0,0,5,0,3,0,0,1,5,6,3,1,0,4,0
+401920427,2027,2352,Loyola Maryland,258,5238193,Mason Hagedorn,9,F,False,False,False,4,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+401920427,2027,2352,Loyola Maryland,258,5458370,Zeke Walker,7,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920427,2027,2352,Loyola Maryland,258,5458369,Seamus Bieg,4,G,False,False,False,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+401920427,2027,2352,Loyola Maryland,258,5458368,Robbie Long III,3,G,False,False,False,18,6,2,6,2,4,0,0,1,2,3,0,0,0,1,0
+401920427,2027,2352,Loyola Maryland,258,5314615,Max Ortega,1,G,False,False,False,16,9,2,7,0,1,5,5,0,0,0,3,0,0,1,1
+401920427,2027,2352,Loyola Maryland,258,5176081,Troy Cicero Jr.,2,G,False,False,False,7,0,0,1,0,1,0,0,0,2,2,0,0,0,0,0
+401920427,2027,2352,Loyola Maryland,258,5313384,Alex Huguet,12,F,False,True,False,,,,,,,,,,,,,,,,
+401920427,2027,2352,Loyola Maryland,258,5247862,Sam Springer,22,F,False,True,False,,,,,,,,,,,,,,,,
+401920427,2027,2352,Loyola Maryland,258,5242965,Goap Kodi,8,F,False,True,False,,,,,,,,,,,,,,,,
+401920427,2027,258,Virginia,2352,5457336,Nolan Adekunle,22,F,True,False,False,21,2,1,3,0,2,0,0,2,2,4,3,0,1,1,3
+401920427,2027,258,Virginia,2352,5311846,Thijs De Ridder,28,F,True,False,False,27,18,6,12,1,5,5,5,2,2,4,2,2,1,0,1
+401920427,2027,258,Virginia,2352,5311844,Johann Grunloh,17,C,True,False,False,27,13,6,10,1,2,0,0,4,3,7,1,0,4,1,0
+401920427,2027,258,Virginia,2352,5176232,Sam Lewis,5,G,True,False,False,24,20,7,12,3,5,3,5,1,3,4,4,2,0,0,1
+401920427,2027,258,Virginia,2352,5150404,Chance Mallory,1,G,True,False,False,20,10,4,6,2,2,0,0,0,4,4,6,0,0,1,0
+401920427,2027,258,Virginia,2352,5144157,Silas Barksdale,21,F,False,False,False,4,0,0,1,0,1,0,0,0,2,2,0,0,0,0,1
+401920427,2027,258,Virginia,2352,5106205,Kalu Anya,6,F,False,False,False,14,3,1,2,1,2,0,0,0,1,1,2,2,0,1,0
+401920427,2027,258,Virginia,2352,4894460,Carter Lang,35,F,False,False,False,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+401920427,2027,258,Virginia,2352,5222140,Favour Ibe,34,C,False,False,False,7,2,1,2,0,1,0,0,0,2,2,0,0,0,0,1
+401920427,2027,258,Virginia,2352,5457334,Quincy Watson,11,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401920427,2027,258,Virginia,2352,5457333,Nick Rotter,8,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920427,2027,258,Virginia,2352,5312387,Christian Harmon,2,G,False,False,False,5,5,1,3,1,2,2,2,1,0,1,3,1,0,0,0
+401920427,2027,258,Virginia,2352,5239714,Martin Carrere,7,G,False,False,False,14,8,3,6,2,4,0,0,2,2,4,2,1,2,0,0
+401920427,2027,258,Virginia,2352,5174984,Jan Vide,37,G,False,False,False,13,8,4,6,0,0,0,0,1,0,1,3,4,1,0,2
+401920427,2027,258,Virginia,2352,5080790,Elijah Gertrude,12,G,False,False,False,14,7,3,5,1,3,0,0,0,1,1,0,2,1,1,0
+401920427,2027,258,Virginia,2352,4711267,Jurian Dixon,4,G,False,False,False,5,5,2,4,1,1,0,0,0,0,0,1,0,0,0,0
+401920427,2027,258,Virginia,2352,5311845,Owen Odom,00,G,False,True,False,,,,,,,,,,,,,,,,
+401920427,2027,258,Virginia,2352,5174572,Desmond Roberts,13,G,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,2197,Eastern Illinois,356,5461458,Gavin Welch,11,F,True,False,False,27,2,1,6,0,3,0,0,0,1,1,1,0,1,3,4
+401913529,2027,2197,Eastern Illinois,356,5184415,Tanner Vogel,6,C,True,False,False,30,6,2,10,1,7,1,2,3,5,8,2,1,1,1,0
+401913529,2027,2197,Eastern Illinois,356,5461456,Shia Francis,8,G,True,False,False,12,2,1,2,0,1,0,0,0,1,1,1,0,0,0,5
+401913529,2027,2197,Eastern Illinois,356,5461454,Jalen Calloway,4,G,True,False,False,36,17,8,16,1,4,0,3,1,3,4,5,2,0,2,1
+401913529,2027,2197,Eastern Illinois,356,5461453,Jaden Miller,3,G,True,False,False,22,4,2,2,0,0,0,0,1,0,1,2,1,0,2,1
+401913529,2027,2197,Eastern Illinois,356,5461457,Ethan Hillsman,9,F,False,False,False,15,7,2,5,1,2,2,4,1,0,1,0,0,0,1,2
+401913529,2027,2197,Eastern Illinois,356,5461460,Logan Kurtz,13,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401913529,2027,2197,Eastern Illinois,356,5461459,Jayden Wright,12,G,False,False,False,21,3,1,5,1,4,0,0,1,4,5,3,0,0,1,0
+401913529,2027,2197,Eastern Illinois,356,5461452,Devin Davenport,2,G,False,False,False,7,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+401913529,2027,2197,Eastern Illinois,356,5311584,Shane Sims,23,G,False,False,False,20,11,5,9,1,5,0,2,1,0,1,1,0,0,0,2
+401913529,2027,2197,Eastern Illinois,356,5311579,Markus Blackwell,1,G,False,False,False,7,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+401913529,2027,2197,Eastern Illinois,356,5461455,Daniel Ntambwe,7,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,2197,Eastern Illinois,356,5320250,Demar Burton,24,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,2197,Eastern Illinois,356,5311583,Andrew Austin,15,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,2197,Eastern Illinois,356,5107814,JT Elder,5,G,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,356,Illinois,2197,5346752,Zavier Zens,22,F,True,False,False,24,17,6,10,5,9,0,0,4,4,8,3,1,0,1,1
+401913529,2027,356,Illinois,2197,5214642,Tomislav Ivisic,13,C,True,False,False,25,22,8,8,3,3,3,3,0,4,4,4,1,0,1,0
+401913529,2027,356,Illinois,2197,5325990,Ethan Brown,34,G,True,False,False,26,26,9,13,7,11,1,1,0,4,4,3,3,0,0,0
+401913529,2027,356,Illinois,2197,5311991,Stefan Vaaks,7,G,True,False,False,27,20,7,13,4,8,2,2,3,8,11,9,0,0,2,2
+401913529,2027,356,Illinois,2197,5175007,Andrej Stojakovic,2,G,True,False,False,26,6,1,9,1,5,3,4,2,4,6,3,1,1,0,0
+401913529,2027,356,Illinois,2197,5310771,Landon Davis,27,F,False,False,False,21,8,2,5,2,5,2,2,0,3,3,1,1,2,1,3
+401913529,2027,356,Illinois,2197,5173645,Jason Jakstys,31,C,False,False,False,15,4,1,2,0,1,2,2,2,1,3,3,1,1,0,2
+401913529,2027,356,Illinois,2197,5311834,Blake Fagbemi,8,G,False,False,False,14,3,1,3,1,3,0,2,1,2,3,0,0,1,1,0
+401913529,2027,356,Illinois,2197,5239488,Quentin McCoy,5,G,False,False,False,3,2,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+401913529,2027,356,Illinois,2197,5280898,Lucas Morillo,23,NA,False,False,False,19,6,2,4,0,1,2,2,1,2,3,3,0,0,0,2
+401913529,2027,356,Illinois,2197,5311832,David Mirkovic,0,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,356,Illinois,2197,5176150,Jake Davis,15,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,356,Illinois,2197,5174665,Zvonimir Ivisic,44,F,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,356,Illinois,2197,5308441,Lincoln Williams,1,G,False,True,False,,,,,,,,,,,,,,,,
+401913529,2027,356,Illinois,2197,5307569,Quentin Coleman,11,G,False,True,False,,,,,,,,,,,,,,,,
+401906852,2027,324,Coastal Carolina,2633,5313146,Drew Fuquay,6,F,True,False,False,18,6,2,6,2,4,0,1,2,2,4,0,1,1,1,5
+401906852,2027,324,Coastal Carolina,2633,5312427,Derrick Green,15,F,True,False,False,16,2,1,3,0,0,0,0,4,1,5,0,0,0,1,4
+401906852,2027,324,Coastal Carolina,2633,5313368,Trey Perry,0,G,True,False,False,30,12,4,20,1,9,3,3,1,2,3,1,0,0,1,2
+401906852,2027,324,Coastal Carolina,2633,5312425,Tristan Thompson,1,G,True,False,False,20,8,3,9,1,3,1,4,2,5,7,0,0,1,2,1
+401906852,2027,324,Coastal Carolina,2633,5196911,Jaylen Cross,9,G,True,False,False,24,8,3,9,2,4,0,2,4,2,6,2,0,0,0,0
+401906852,2027,324,Coastal Carolina,2633,5459652,Fletcher Bigham,20,F,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401906852,2027,324,Coastal Carolina,2633,5459650,Jordan Buzzard,11,F,False,False,False,11,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0
+401906852,2027,324,Coastal Carolina,2633,4711280,Ashton Hardaway,7,F,False,False,False,17,0,0,4,0,3,0,0,1,1,2,1,1,0,0,1
+401906852,2027,324,Coastal Carolina,2633,4873194,Caleb Middleton,10,C,False,False,False,13,2,1,3,0,0,0,0,1,1,2,0,0,0,1,2
+401906852,2027,324,Coastal Carolina,2633,5459653,JT Kelsheimer,30,G,False,False,False,1,3,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+401906852,2027,324,Coastal Carolina,2633,5459651,Bryson Sams,12,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401906852,2027,324,Coastal Carolina,2633,5459649,Q Williams IV,4,G,False,False,False,9,0,0,3,0,1,0,0,0,2,2,0,0,0,1,0
+401906852,2027,324,Coastal Carolina,2633,5316314,Jaevian Alston,2,G,False,False,False,8,4,2,4,0,1,0,0,1,1,2,0,1,0,0,2
+401906852,2027,324,Coastal Carolina,2633,5312344,Darius Washington III,5,G,False,False,False,23,6,2,8,0,5,2,4,0,4,4,2,0,0,2,1
+401906852,2027,324,Coastal Carolina,2633,5172339,DaJohn Craig,3,G,False,False,False,9,0,0,3,0,2,0,0,0,0,0,1,1,0,2,0
+401906852,2027,2633,Tennessee,324,5142710,DeWayne Brown II,6,F,True,False,False,29,20,8,9,0,0,4,6,1,10,11,1,1,1,3,4
+401906852,2027,2633,Tennessee,324,5174609,Miles Rubin,25,C,True,False,False,31,7,3,6,0,0,1,4,5,4,9,2,0,3,0,1
+401906852,2027,2633,Tennessee,324,5142609,Juke Harris,2,G,True,False,False,29,17,7,14,0,3,3,4,0,5,5,3,0,0,0,3
+401906852,2027,2633,Tennessee,324,5060712,Terrence Hill Jr.,3,G,True,False,False,21,6,2,10,0,4,2,2,0,2,2,7,0,0,1,0
+401906852,2027,2633,Tennessee,324,4683944,Tyler Lundblade,7,G,True,False,False,23,7,2,5,1,4,2,2,0,2,2,2,1,1,0,0
+401906852,2027,2633,Tennessee,324,5242126,Braedan Lue,0,F,False,False,False,16,4,2,4,0,0,0,3,1,4,5,0,0,0,0,2
+401906852,2027,2633,Tennessee,324,5142734,Chris Washington Jr.,33,F,False,False,False,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+401906852,2027,2633,Tennessee,324,5106041,Christian Fermin,12,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+401906852,2027,2633,Tennessee,324,5319274,Marquis Clark,8,G,False,False,False,2,2,1,1,0,0,0,0,0,1,1,0,1,0,0,0
+401906852,2027,2633,Tennessee,324,5311526,Troy Henderson,24,G,False,False,False,15,2,1,4,0,2,0,0,0,3,3,5,0,0,1,1
+401906852,2027,2633,Tennessee,324,5238229,Campbell Duncan,21,G,False,False,False,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401906852,2027,2633,Tennessee,324,5238228,Gavin Paull,11,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401906852,2027,2633,Tennessee,324,5144499,Manny Green,1,G,False,False,False,10,5,2,2,1,1,0,0,1,1,2,1,2,1,1,0
+401906852,2027,2633,Tennessee,324,4845373,Dai Dai Ames,4,G,False,False,False,19,8,3,7,2,5,0,0,0,0,0,1,0,0,1,2
+401906852,2027,2633,Tennessee,324,5308440,Ralph Scott,13,F,False,True,False,,,,,,,,,,,,,,,,
+401906852,2027,2633,Tennessee,324,4433625,Jalen Washington,9,F,False,True,False,,,,,,,,,,,,,,,,
+401906852,2027,2633,Tennessee,324,5312258,Jalen Haralson,10,G,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,2116,UCF,238,5313662,Isaiah Malone,32,F,True,False,False,24,9,4,8,1,5,0,0,0,2,2,1,0,1,0,4
+401921757,2027,2116,UCF,238,4915060,John Bol,7,C,True,False,False,17,5,2,3,0,0,1,1,0,3,3,0,0,1,0,4
+401921757,2027,2116,UCF,238,5106868,Arturo Dean,2,G,True,False,False,36,13,4,13,1,3,4,4,2,3,5,6,5,0,0,2
+401921757,2027,2116,UCF,238,5105529,Riley Kugel,8,G,True,False,False,11,1,0,3,0,1,1,2,0,1,1,0,1,0,3,0
+401921757,2027,2116,UCF,238,4432741,Dior Johnson,1,G,True,False,False,36,30,8,23,3,8,11,12,3,4,7,2,1,0,2,4
+401921757,2027,2116,UCF,238,5239649,Lewis Walker,5,F,False,False,False,13,2,1,2,0,0,0,0,0,3,3,0,0,0,1,3
+401921757,2027,2116,UCF,238,5175360,Churchill Abass,9,F,False,False,False,17,4,2,4,0,1,0,0,1,1,2,0,0,0,0,3
+401921757,2027,2116,UCF,238,5108850,Elijah Hulsewe,19,C,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401921757,2027,2116,UCF,238,5329574,Jahda Swann,12,G,False,False,False,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+401921757,2027,2116,UCF,238,5242634,Carmelo Pacheco,24,G,False,False,False,24,3,1,4,1,4,0,0,0,1,1,0,0,0,0,2
+401921757,2027,2116,UCF,238,5241746,Mister Dean,3,G,False,False,False,16,7,3,6,0,1,1,1,0,3,3,2,0,1,3,4
+401921757,2027,2116,UCF,238,5457364,Dylan Mann,11,F,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,2116,UCF,238,5239489,Jason Asemota,55,F,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,2116,UCF,238,5144542,Ladarius Givan,4,F,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,2116,UCF,238,5311933,Tanner Jones,30,G,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,2116,UCF,238,5176177,Cayden Vasko,0,G,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,238,Vanderbilt,2116,5311759,Chandler Bing,7,F,True,False,False,30,19,5,9,1,2,8,11,2,3,5,2,0,0,0,5
+401921757,2027,238,Vanderbilt,2116,5095154,Sebastian Williams-Adams,33,F,True,False,False,31,10,4,8,1,4,1,2,1,4,5,0,1,2,3,2
+401921757,2027,238,Vanderbilt,2116,5174982,Berke Buyuktuncel,9,C,True,False,False,31,7,1,4,0,1,5,7,6,7,13,0,1,3,2,2
+401921757,2027,238,Vanderbilt,2116,5313054,Ace Glass,21,G,True,False,False,29,10,4,14,0,6,2,4,0,4,4,4,1,0,1,4
+401921757,2027,238,Vanderbilt,2116,5187600,Tyler Tanner,3,G,True,False,False,38,23,6,13,0,5,11,14,3,8,11,4,2,0,1,3
+401921757,2027,238,Vanderbilt,2116,5292612,Jackson Sheffield,35,F,False,False,False,7,0,0,0,0,0,0,0,1,1,2,0,0,0,1,3
+401921757,2027,238,Vanderbilt,2116,5175021,Bangot Dak,8,F,False,False,False,12,9,2,7,0,2,5,6,2,2,4,0,2,2,0,1
+401921757,2027,238,Vanderbilt,2116,5144166,T.O. Barrett,5,F,False,False,False,14,4,1,2,0,0,2,2,0,1,1,1,0,0,0,0
+401921757,2027,238,Vanderbilt,2116,5254169,Jayden Leverett,34,C,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921757,2027,238,Vanderbilt,2116,5195075,Ant Brown Jr.,0,G,False,False,False,5,0,0,1,0,1,0,0,0,1,1,0,0,0,2,0
+401921757,2027,238,Vanderbilt,2116,5210449,Gabe Nesmith,1,F,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,238,Vanderbilt,2116,5196966,Ethan Mgbako,2,F,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,238,Vanderbilt,2116,5326946,Chase Byington,12,G,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,238,Vanderbilt,2116,5326945,Baylor Allen,24,G,False,True,False,,,,,,,,,,,,,,,,
+401921757,2027,238,Vanderbilt,2116,5326287,Mavrick Hawkins,11,G,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2363,Manhattan,2390,5455025,Novak Manojlovic,14,F,True,False,False,17,5,2,7,0,0,1,2,2,5,7,0,0,0,2,4
+401921723,2027,2363,Manhattan,2390,5314282,Ognjen Stankovic,16,F,True,False,False,23,9,3,9,0,1,3,5,1,1,2,2,0,1,3,2
+401921723,2027,2363,Manhattan,2390,5465511,Ben Pearce,4,G,True,False,False,31,5,2,6,1,4,0,0,0,0,0,1,0,0,2,3
+401921723,2027,2363,Manhattan,2390,5241633,Ben Tweedy,6,G,True,False,False,16,3,1,3,1,2,0,0,0,3,3,0,0,0,1,2
+401921723,2027,2363,Manhattan,2390,5106680,Josiah Sabino,12,G,True,False,False,27,7,3,9,0,0,1,2,1,4,5,2,0,0,1,1
+401921723,2027,2363,Manhattan,2390,5455023,Dusan Eric,7,F,False,False,False,10,2,1,1,0,0,0,0,0,1,1,0,0,0,1,2
+401921723,2027,2363,Manhattan,2390,5455021,Isaac Johnson,2,F,False,False,False,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+401921723,2027,2363,Manhattan,2390,5239675,Kevin Kearney,1,F,False,False,False,13,4,1,2,1,1,1,2,0,1,1,0,1,0,3,1
+401921723,2027,2363,Manhattan,2390,4433038,Liam McChesney,87,F,False,False,False,17,5,1,3,1,3,2,2,0,1,1,1,0,0,0,5
+401921723,2027,2363,Manhattan,2390,5455024,Anthony Pacciarelli,13,G,False,False,False,5,1,0,2,0,2,1,2,0,0,0,0,0,0,0,0
+401921723,2027,2363,Manhattan,2390,5455020,Jahzar Greene,0,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+401921723,2027,2363,Manhattan,2390,5311767,Asier Miguel,11,G,False,False,False,5,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0
+401921723,2027,2363,Manhattan,2390,5311763,Quron Elliott,10,G,False,False,False,28,13,5,12,1,2,2,2,2,0,2,2,0,0,4,0
+401921723,2027,2363,Manhattan,2390,5185184,Jackson Delaney,23,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921723,2027,2363,Manhattan,2390,5455022,DaSean Lewis,3,G,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2363,Manhattan,2390,5311766,Nick Lukmann,22,G,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2363,Manhattan,2390,5311764,Jameson Borodawka,9,G,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2363,Manhattan,2390,5311762,Jaeden Robley,20,G,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2390,Miami,2363,5142723,Caleb Gaskins,11,F,True,False,False,30,13,4,12,0,4,5,5,3,5,8,6,3,0,0,2
+401921723,2027,2390,Miami,2363,5101809,Shelton Henderson,7,F,True,False,False,29,21,8,11,0,0,5,6,2,6,8,2,2,1,0,0
+401921723,2027,2390,Miami,2363,5238203,Somto Cyril,2,C,True,False,False,21,11,5,6,0,0,1,7,5,3,8,0,0,4,3,2
+401921723,2027,2390,Miami,2363,5144105,Acaden Lewis,55,G,True,False,False,33,13,5,12,0,1,3,5,2,5,7,7,1,0,2,2
+401921723,2027,2390,Miami,2363,5142709,Dante Allen,35,G,True,False,False,22,10,3,6,1,2,3,3,1,5,6,3,1,0,1,2
+401921723,2027,2390,Miami,2363,5241658,DeSean Goode,0,F,False,False,False,6,2,1,1,0,0,0,0,0,1,1,2,0,0,0,0
+401921723,2027,2390,Miami,2363,5144138,Christopher Birden Jr.,8,F,False,False,False,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401921723,2027,2390,Miami,2363,5061596,Robert Miller III,6,F,False,False,False,17,6,2,2,0,0,2,2,2,0,2,0,0,1,0,4
+401921723,2027,2390,Miami,2363,5455248,Egor Ryzhov,10,C,False,False,False,7,6,2,3,0,0,2,2,0,2,2,1,0,0,0,1
+401921723,2027,2390,Miami,2363,5174935,Nick Dorn,3,G,False,False,False,14,21,7,11,7,11,0,0,0,1,1,1,0,0,0,2
+401921723,2027,2390,Miami,2363,5105976,Quin Berger,12,G,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+401921723,2027,2390,Miami,2363,4898256,Brent Bland,1,G,False,False,False,17,3,1,5,1,4,0,0,1,0,1,2,1,0,0,2
+401921723,2027,2390,Miami,2363,5105798,Malik Reneau,5,F,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2390,Miami,2363,4869762,Marcus Allen,4,F,False,True,False,,,,,,,,,,,,,,,,
+401921723,2027,2390,Miami,2363,5214641,L.J. Cason,13,G,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,2400,Mississippi Valley State,8,5462522,Gabriel Martinez,21,PF,True,False,False,29,0,0,4,0,3,0,2,1,1,2,0,1,0,1,1
+401925740,2027,2400,Mississippi Valley State,8,5462515,Tymias Williams,7,F,True,False,False,34,14,6,16,0,4,2,4,0,2,2,0,2,1,1,2
+401925740,2027,2400,Mississippi Valley State,8,5462516,Caleb Cameron,8,G,True,False,False,39,16,7,12,0,0,2,2,3,2,5,4,3,1,1,0
+401925740,2027,2400,Mississippi Valley State,8,5462514,Matt Anglo,5,G,True,False,False,25,6,2,8,2,2,0,0,0,2,2,2,0,0,2,2
+401925740,2027,2400,Mississippi Valley State,8,5462513,AJ Abrams,2,G,True,False,False,20,2,1,4,0,1,0,0,0,2,2,2,0,0,2,1
+401925740,2027,2400,Mississippi Valley State,8,5462517,Tianhao Wu,9,C,False,False,False,11,2,1,2,0,0,0,2,1,0,1,0,0,0,1,0
+401925740,2027,2400,Mississippi Valley State,8,5462512,Eli Pippins,1,PG,False,False,False,15,3,1,4,1,3,0,0,0,3,3,3,0,0,2,1
+401925740,2027,2400,Mississippi Valley State,8,5312305,Tory James Jr.,20,G,False,False,False,27,5,1,5,1,5,2,2,0,1,1,0,2,0,2,1
+401925740,2027,2400,Mississippi Valley State,8,5462520,Qingfang Pang,13,PF,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,2400,Mississippi Valley State,8,5462519,Mykayle McCoy,12,F,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,2400,Mississippi Valley State,8,5462518,Harvey Wilson Jr.,11,F,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,2400,Mississippi Valley State,8,5314772,Chance Sutton,5,F,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,2400,Mississippi Valley State,8,5174615,Tarique Foster,24,G,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,8,Arkansas,2400,5185443,Miikka Muurinen,3,F,True,False,False,21,4,2,6,0,3,0,2,2,5,7,1,1,3,5,4
+401925740,2027,8,Arkansas,2400,5176136,Cooper Bowser,21,F,True,False,False,25,8,4,4,0,0,0,0,1,5,6,0,0,2,0,1
+401925740,2027,8,Arkansas,2400,5210941,Davion Thompson,9,G,True,False,False,30,13,5,7,3,5,0,0,1,3,4,11,1,0,1,2
+401925740,2027,8,Arkansas,2400,5165276,Jeremiah Wilkinson,5,G,True,False,False,32,28,9,17,8,16,2,3,1,4,5,4,1,0,1,0
+401925740,2027,8,Arkansas,2400,5060732,Billy Richmond III,24,G,True,False,False,31,18,7,9,2,3,2,2,0,3,3,3,3,0,2,1
+401925740,2027,8,Arkansas,2400,5383766,Ilia Frolov,14,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401925740,2027,8,Arkansas,2400,5222135,Abdou Toure,1,F,False,False,False,19,8,3,8,1,4,1,2,1,4,5,3,2,0,4,1
+401925740,2027,8,Arkansas,2400,5210978,Caleb Ourigou,0,F,False,False,False,7,4,2,3,0,0,0,0,1,3,4,0,0,1,0,1
+401925740,2027,8,Arkansas,2400,5142711,JJ Andrews,7,F,False,False,False,19,7,2,4,1,2,2,2,2,1,3,1,1,1,1,2
+401925740,2027,8,Arkansas,2400,5041952,Maper Maker,8,F,False,False,False,11,2,1,2,0,0,0,0,1,1,2,1,0,1,0,0
+401925740,2027,8,Arkansas,2400,5238196,Ayden Kelley,4,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401925740,2027,8,Arkansas,2400,5144085,Amere Brown,2,G,False,False,False,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+401925740,2027,8,Arkansas,2400,5258495,Paulo Semedo,99,F,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,8,Arkansas,2400,5101797,Isaiah Sealy,30,F,False,True,False,,,,,,,,,,,,,,,,
+401925740,2027,8,Arkansas,2400,5142729,Jordan Smith Jr.,23,G,False,True,False,,,,,,,,,,,,,,,,
 401918454,2027,2047,Averett,2729,5469443,Timothy Robinson,25,F,True,False,False,11,0,0,4,0,0,0,0,0,0,0,0,1,0,1,1
 401918454,2027,2047,Averett,2729,5324371,Tyler Stephens,5,F,True,False,False,24,4,2,8,0,3,0,0,1,4,5,0,2,1,3,3
 401918454,2027,2047,Averett,2729,5257413,Zach Skogen,3,F,True,False,False,24,5,2,5,1,3,0,0,2,6,8,1,1,0,0,2
@@ -230609,3 +230797,1576 @@ game_id,season,team_id,team,opponent_id,player_id,player,jersey,position,starter
 401918454,2027,2729,William & Mary,2047,5240530,Nilavan Daniels,12,G,False,False,False,11,3,1,2,1,2,0,0,0,2,2,1,1,1,0,0
 401918454,2027,2729,William & Mary,2047,5237433,Jayden Forsythe,4,G,False,False,False,12,0,0,1,0,1,0,0,0,2,2,0,1,0,0,0
 401918454,2027,2729,William & Mary,2047,5242593,Colin Lamine Ndaw,6,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5469450,Ladorien Ladson,4,F,True,False,False,32,16,4,7,0,0,8,10,1,7,8,0,0,0,2,3
+401925841,2027,2854,Bloomfield,2379,5322246,Brandon Hendryx,25,F,True,False,False,36,8,2,6,0,1,4,4,2,1,3,0,0,0,0,0
+401925841,2027,2854,Bloomfield,2379,5469449,Christian Gray,3,G,True,False,False,28,15,6,7,1,2,2,3,1,2,3,2,1,0,2,5
+401925841,2027,2854,Bloomfield,2379,5322241,Na'Shawn Jones,11,G,True,False,False,37,17,7,15,3,8,0,1,2,2,4,1,1,0,1,3
+401925841,2027,2854,Bloomfield,2379,5322236,Devin Artis,0,G,True,False,False,32,19,5,11,3,5,6,8,3,3,6,5,2,0,2,3
+401925841,2027,2854,Bloomfield,2379,5469454,Jonal Harrison,23,F,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401925841,2027,2854,Bloomfield,2379,5322247,Olamide Adewale,24,F,False,False,False,19,2,1,9,0,3,0,0,0,1,1,1,0,0,0,1
+401925841,2027,2854,Bloomfield,2379,5322243,TeSean Butler,15,G,False,False,False,10,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0
+401925841,2027,2854,Bloomfield,2379,5322242,Jahi Whitney,5,G,False,False,False,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401925841,2027,2854,Bloomfield,2379,5469453,Jaheim Dixon,20,F,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5479815,Nyaad Walters,22,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5469452,Asad Riggins,12,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5469451,Jayden Bermudez,10,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5469448,David Niedermaier,2,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2854,Bloomfield,2379,5469447,Thomas Niedermaier,1,G,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2379,Maryland Eastern Shore,2854,5324366,Alvin Cole,23,F,True,False,False,29,14,5,11,2,3,2,4,2,2,4,1,2,0,2,3
+401925841,2027,2379,Maryland Eastern Shore,2854,5177281,Lucius Gibson-Savadel,22,F,True,False,False,7,3,1,1,0,0,1,2,1,2,3,0,0,0,0,4
+401925841,2027,2379,Maryland Eastern Shore,2854,5459604,Victor Ezeh,12,G,True,False,False,12,5,2,4,1,3,0,0,0,2,2,0,0,0,2,2
+401925841,2027,2379,Maryland Eastern Shore,2854,5459600,Bobby Gardner,2,G,True,False,False,24,10,4,12,2,4,0,0,2,2,4,4,0,0,1,2
+401925841,2027,2379,Maryland Eastern Shore,2854,5177342,Isaiah Griffin,4,G,True,False,False,36,26,8,11,1,3,9,9,0,3,3,4,1,0,0,1
+401925841,2027,2379,Maryland Eastern Shore,2854,5459605,Souleymane Sylla,35,F,False,False,False,8,4,2,2,0,0,0,0,1,0,1,0,0,0,1,1
+401925841,2027,2379,Maryland Eastern Shore,2854,5459599,Da'Shawn Hall-Johnson,1,F,False,False,False,8,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0
+401925841,2027,2379,Maryland Eastern Shore,2854,5320720,Gerlouis Tokody,11,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+401925841,2027,2379,Maryland Eastern Shore,2854,5314177,Levi Beckwith,24,SF,False,False,False,26,11,4,7,2,5,1,3,0,6,6,5,1,0,1,2
+401925841,2027,2379,Maryland Eastern Shore,2854,5241664,Ebenezer Ogoh,15,C,False,False,False,25,9,4,4,0,0,1,1,1,4,5,0,0,2,1,3
+401925841,2027,2379,Maryland Eastern Shore,2854,5241317,Saadiq Moore,5,G,False,False,False,19,5,2,5,1,4,0,0,3,2,5,4,1,0,1,2
+401925841,2027,2379,Maryland Eastern Shore,2854,5181474,Israel Hall,0,G,False,False,False,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+401925841,2027,2379,Maryland Eastern Shore,2854,5459601,Roman Cummings,3,F,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2379,Maryland Eastern Shore,2854,5317692,Elson Berhanu,13,F,False,True,False,,,,,,,,,,,,,,,,
+401925841,2027,2379,Maryland Eastern Shore,2854,5459602,Emmanuel Johnson III,10,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,2739,Green Bay,52,5176814,Marcus Hall,13,F,True,False,False,39,8,3,7,2,4,0,2,0,6,6,1,0,1,4,2
+401909698,2027,2739,Green Bay,52,5313199,Maruan Cicic,20,C,True,False,False,15,4,2,2,0,0,0,0,0,0,0,1,0,0,0,3
+401909698,2027,2739,Green Bay,52,5459175,Ahmere Carson,2,G,True,False,False,38,15,5,11,2,5,3,5,0,6,6,5,3,0,6,1
+401909698,2027,2739,Green Bay,52,5176812,Mac Wrecke,4,G,True,False,False,16,2,1,6,0,4,0,0,0,1,1,0,0,0,0,3
+401909698,2027,2739,Green Bay,52,5108764,Orlando Lovejoy,0,G,True,False,False,10,8,4,5,0,0,0,0,0,0,0,0,1,0,0,2
+401909698,2027,2739,Green Bay,52,5464868,Tadej Colnaric,36,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401909698,2027,2739,Green Bay,52,5314499,Isaiah Sutherland,24,F,False,False,False,18,0,0,2,0,2,0,0,3,1,4,0,1,0,0,2
+401909698,2027,2739,Green Bay,52,5108011,Aidan Hadaway,6,F,False,False,False,18,7,3,8,1,3,0,2,1,3,4,0,1,0,1,2
+401909698,2027,2739,Green Bay,52,5459178,Clarence Payia,23,G,False,False,False,6,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+401909698,2027,2739,Green Bay,52,5459177,Ne'quan Brown,7,G,False,False,False,12,7,3,6,1,3,0,0,0,3,3,0,0,0,1,5
+401909698,2027,2739,Green Bay,52,5313200,LeBron Thomas,22,G,False,False,False,26,12,5,9,0,1,2,2,0,3,3,2,1,0,1,2
+401909698,2027,2739,Green Bay,52,5459179,Henry Gruetzmacher,31,F,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,2739,Green Bay,52,5459176,Christian Burnett,5,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,2739,Green Bay,52,5459174,Stewart Erhart II,1,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,2739,Green Bay,52,5313194,Keegan Van Kauwenberg,3,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,2739,Green Bay,52,5241636,Brady Fitzgerald,21,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,52,Florida State,2739,5144392,Sebastian Rancik,22,F,True,False,False,27,24,7,9,2,3,8,10,1,4,5,3,4,2,3,1
+401909698,2027,52,Florida State,2739,5101852,Shon Abaev,1,F,True,False,False,31,24,7,12,3,7,7,8,0,4,4,3,2,0,1,1
+401909698,2027,52,Florida State,2739,5144573,Marcis Ponder,11,C,True,False,False,14,0,0,2,0,0,0,0,1,2,3,0,0,0,0,2
+401909698,2027,52,Florida State,2739,5241756,Kam Taylor,3,G,True,False,False,31,10,4,13,0,4,2,2,2,2,4,0,0,0,2,1
+401909698,2027,52,Florida State,2739,5054085,Anthony Robinson II,2,G,True,False,False,30,13,4,9,0,2,5,7,1,6,7,3,1,1,1,3
+401909698,2027,52,Florida State,2739,5316049,Alex Steen,25,F,False,False,False,14,2,1,1,0,0,0,0,3,1,4,2,0,1,1,1
+401909698,2027,52,Florida State,2739,5176402,Cooper Schwieger,31,F,False,False,False,11,0,0,1,0,1,0,0,0,3,3,1,1,0,1,0
+401909698,2027,52,Florida State,2739,5347039,Amare Robinson,00,G,False,False,False,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401909698,2027,52,Florida State,2739,5347037,Elisee Assui,10,G,False,False,False,17,2,0,4,0,3,2,3,1,3,4,0,1,0,0,5
+401909698,2027,52,Florida State,2739,5339169,Martay Barnes,0,G,False,False,False,9,7,2,4,2,4,1,2,0,3,3,1,0,0,2,0
+401909698,2027,52,Florida State,2739,5144492,Brandon Bass Jr.,30,G,False,False,False,15,5,1,1,1,1,2,2,1,0,1,0,0,1,1,3
+401909698,2027,52,Florida State,2739,5210845,Collin Paul,5,F,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,52,Florida State,2739,4873208,AJ Swinton,19,F,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,52,Florida State,2739,5347038,JD Jones,14,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,52,Florida State,2739,5332074,Jasen Lopez,7,G,False,True,False,,,,,,,,,,,,,,,,
+401909698,2027,52,Florida State,2739,5238165,Jalen Crawford,15,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,197,Oklahoma State,135,5060684,Jordan Burks,99,F,True,False,False,24,6,1,6,1,5,3,5,1,2,3,0,1,0,3,2
+401921418,2027,197,Oklahoma State,135,5240524,Julius Halaifonua,25,C,True,False,False,21,7,3,5,0,2,1,1,1,1,2,0,0,0,0,3
+401921418,2027,197,Oklahoma State,135,5457345,Anthony Felesi,2,G,True,False,False,21,4,2,2,0,0,0,0,1,1,2,1,1,0,2,1
+401921418,2027,197,Oklahoma State,135,5314535,Jacob Walker,55,G,True,False,False,22,4,2,10,0,4,0,0,0,3,3,4,1,0,3,4
+401921418,2027,197,Oklahoma State,135,5117648,Kashie Natt,4,G,True,False,False,31,22,6,12,2,6,8,9,6,3,9,3,3,1,2,3
+401921418,2027,197,Oklahoma State,135,5457346,Latrell Allmond,8,F,False,False,False,11,2,1,3,0,1,0,0,1,1,2,0,0,1,0,1
+401921418,2027,197,Oklahoma State,135,5311900,Andrija Grbovic,14,F,False,False,False,11,10,4,7,2,5,0,1,2,2,4,0,0,0,1,0
+401921418,2027,197,Oklahoma State,135,5210965,Benjamin Ahmed,23,F,False,False,False,13,1,0,0,0,0,1,2,2,0,2,1,0,0,0,1
+401921418,2027,197,Oklahoma State,135,5312014,Luka Bogavac,44,G,False,False,False,12,4,1,4,0,0,2,2,1,2,3,1,0,0,0,1
+401921418,2027,197,Oklahoma State,135,5210807,Parker Robinson,5,G,False,False,False,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+401921418,2027,197,Oklahoma State,135,5105844,Kanye Clary,1,G,False,False,False,29,10,3,8,1,4,3,6,0,1,1,2,0,0,1,3
+401921418,2027,197,Oklahoma State,135,5196960,Mekhi Ragland,13,F,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,197,Oklahoma State,135,4897970,Parsa Fallah,22,F,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,197,Oklahoma State,135,5215268,Ryan Crotty,24,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,197,Oklahoma State,135,5142730,Jalen Montonati,7,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5239570,Grayson Grove,2,F,True,False,False,24,7,3,6,1,3,0,0,3,1,4,2,0,0,0,4
+401921418,2027,135,Minnesota,197,5174568,Bobby Durkin,3,F,True,False,False,27,14,4,9,1,6,5,5,0,0,0,2,0,0,2,3
+401921418,2027,135,Minnesota,197,4894462,Jaylen Crocker-Johnson,5,F,True,False,False,31,13,3,7,3,6,4,4,0,7,7,2,2,0,3,5
+401921418,2027,135,Minnesota,197,5144165,Isaac Asuma,1,G,True,False,False,32,17,7,12,2,5,1,2,1,7,8,4,2,0,1,1
+401921418,2027,135,Minnesota,197,5093253,Kyan Evans,0,G,True,False,False,36,15,3,10,1,4,8,9,1,1,2,10,4,0,3,1
+401921418,2027,135,Minnesota,197,5311988,Malick Kordel,4,C,False,False,False,16,10,4,5,0,0,2,2,1,2,3,0,0,1,0,3
+401921418,2027,135,Minnesota,197,5311929,Nolan Groves,10,G,False,False,False,12,2,1,2,0,0,0,0,0,2,2,0,0,0,0,4
+401921418,2027,135,Minnesota,197,5254164,Kai Shinholster,9,G,False,False,False,16,7,3,3,1,1,0,0,2,0,2,0,1,0,0,1
+401921418,2027,135,Minnesota,197,5239554,Malachi Palmer,7,G,False,False,False,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401921418,2027,135,Minnesota,197,5310820,Nolen Anderson,31,F,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5456491,Chadrack Mpoyi,55,C,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5456490,Blake Nixon Jr.,21,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5311996,Max Lorenson,8,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5310821,Cedric Tomes,6,G,False,True,False,,,,,,,,,,,,,,,,
+401921418,2027,135,Minnesota,197,5174808,Winters Grady,15,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,218,Temple,2393,4897258,Sir Issac Herron,11,F,True,False,False,16,0,0,0,0,0,0,0,1,2,3,0,0,3,1,2
+401916122,2027,218,Temple,2393,5176755,Jordan Marsh,4,G,True,False,False,21,23,9,14,2,3,3,4,0,2,2,2,0,0,2,4
+401916122,2027,218,Temple,2393,4884255,Gavin Griffiths,0,G,True,False,False,33,9,4,10,1,6,0,0,2,3,5,2,1,1,3,1
+401916122,2027,218,Temple,2393,4869784,Cam Scott,3,G,True,False,False,36,28,10,14,6,9,2,2,0,2,2,2,1,0,1,2
+401916122,2027,218,Temple,2393,4684720,Derrian Ford,22,G,True,False,False,37,17,4,10,1,3,8,8,1,4,5,1,0,0,1,1
+401916122,2027,218,Temple,2393,5240407,Baboucarr Njie,24,F,False,False,False,16,4,2,2,0,0,0,3,1,2,3,1,0,1,0,3
+401916122,2027,218,Temple,2393,5313071,Christian Beam,32,C,False,False,False,5,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1
+401916122,2027,218,Temple,2393,5458747,Dallis Dillard,55,G,False,False,False,19,4,2,5,0,1,0,0,1,2,3,3,1,0,1,5
+401916122,2027,218,Temple,2393,5175842,Dez White,2,G,False,False,False,14,0,0,4,0,2,0,0,0,1,1,2,2,0,0,2
+401916122,2027,218,Temple,2393,5106739,Deuce Drake,1,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401916122,2027,218,Temple,2393,5313291,Edwin Suarez Jr.,23,F,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,218,Temple,2393,5105605,Mohamed Keita,8,C,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,218,Temple,2393,5327882,Derrick Morton-Rivera,44,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,218,Temple,2393,5254181,Cam Wallace,7,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,218,Temple,2393,5101771,Olin Chamberlain Jr.,21,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,2393,Middle Tennessee,218,5175352,Ofri Naveh,9,F,True,False,False,32,16,6,10,3,3,1,3,3,4,7,2,1,0,1,5
+401916122,2027,2393,Middle Tennessee,218,5176379,Kaleb Siler,0,C,True,False,False,33,15,6,12,0,0,3,4,5,5,10,3,0,6,4,4
+401916122,2027,2393,Middle Tennessee,218,5460082,Quintero Barnett,1,G,True,False,False,31,4,1,6,0,3,2,3,0,3,3,0,1,0,1,2
+401916122,2027,2393,Middle Tennessee,218,5176188,Marcus Whitlock Jr.,22,G,True,False,False,20,3,1,2,0,1,1,4,0,1,1,2,2,0,0,0
+401916122,2027,2393,Middle Tennessee,218,5149117,Jahvin Carter,2,G,True,False,False,36,18,4,10,2,4,8,11,0,0,0,5,1,0,2,2
+401916122,2027,2393,Middle Tennessee,218,4848642,Jarred Hall,5,F,False,False,False,7,2,1,2,0,0,0,0,0,0,0,0,0,1,1,3
+401916122,2027,2393,Middle Tennessee,218,5313681,Jax Howard,8,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401916122,2027,2393,Middle Tennessee,218,5239798,Kevin de Kovachich,13,G,False,False,False,16,2,1,1,0,0,0,0,0,0,0,1,0,0,3,2
+401916122,2027,2393,Middle Tennessee,218,5231350,Landyn Colyer,7,G,False,False,False,24,16,5,9,2,4,4,4,1,6,7,1,0,0,0,2
+401916122,2027,2393,Middle Tennessee,218,5329578,Aiden Bolden,4,F,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,2393,Middle Tennessee,218,5313679,Luka Jovanovic,3,C,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,2393,Middle Tennessee,218,5460084,Braylin Davis,10,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,2393,Middle Tennessee,218,5460083,Garrison White,6,G,False,True,False,,,,,,,,,,,,,,,,
+401916122,2027,2393,Middle Tennessee,218,5093264,Eli Rice,11,G,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,5,UAB,45,5311975,Aleks Alston,24,F,True,False,False,30,6,3,5,0,0,0,0,1,3,4,0,2,0,1,3
+401919019,2027,5,UAB,45,5314849,Elijah Duval,7,G,True,False,False,18,6,3,4,0,1,0,0,0,1,1,3,0,0,3,1
+401919019,2027,5,UAB,45,5243102,Jeremy Elyzee,0,G,True,False,False,32,9,2,5,0,0,5,6,1,4,5,1,2,3,0,3
+401919019,2027,5,UAB,45,5101806,Salim London,5,G,True,False,False,35,17,6,12,3,6,2,2,1,5,6,0,1,0,0,1
+401919019,2027,5,UAB,45,4873087,Deuce Jones,12,G,True,False,False,33,24,9,18,2,4,4,4,0,4,4,4,3,0,3,3
+401919019,2027,5,UAB,45,5458763,Kaleb Davis,21,C,False,False,False,4,2,1,1,0,0,0,2,2,0,2,0,0,0,0,1
+401919019,2027,5,UAB,45,5458761,Matt Mbole,3,C,False,False,False,13,0,0,0,0,0,0,0,0,2,2,0,0,2,0,3
+401919019,2027,5,UAB,45,5144525,Korie Corbett,10,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401919019,2027,5,UAB,45,5105545,T.J. Caldwell,55,G,False,False,False,32,17,5,11,1,2,6,7,1,2,3,1,1,0,0,3
+401919019,2027,5,UAB,45,5177213,Antallah Sandlin-El,13,F,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,5,UAB,45,5458762,Tim Holliday,8,G,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,5,UAB,45,4917385,Justyn Fernandez,4,G,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,45,George Washington,5,5458208,Lovro Urbiha,13,F,True,False,False,31,8,4,12,0,5,0,0,5,4,9,3,1,0,0,1
+401919019,2027,45,George Washington,5,4895794,Dylan James,11,F,True,False,False,11,4,1,4,0,0,2,2,1,2,3,0,0,0,1,4
+401919019,2027,45,George Washington,5,5237300,Omari Witherspoon,0,G,True,False,False,27,8,3,9,0,1,2,2,4,5,9,0,0,0,2,0
+401919019,2027,45,George Washington,5,5177098,Jean Aranguren,7,G,True,False,False,32,20,6,14,0,6,8,11,2,4,6,5,0,0,1,1
+401919019,2027,45,George Washington,5,5106059,Terrance Arceneaux,23,G,True,False,False,30,17,6,12,3,6,2,2,3,3,6,0,0,2,1,1
+401919019,2027,45,George Washington,5,5312257,Ryder Frost,3,F,False,False,False,13,6,2,6,2,6,0,0,0,1,1,0,1,0,0,1
+401919019,2027,45,George Washington,5,5240264,Andrija Vukovic,19,F,False,False,False,12,4,2,3,0,0,0,0,1,2,3,0,0,0,4,2
+401919019,2027,45,George Washington,5,5458206,Promis N'Landu,8,G,False,False,False,8,0,0,3,0,1,0,0,0,0,0,2,0,0,0,0
+401919019,2027,45,George Washington,5,5254175,Jalen Rougier-Roane,1,G,False,False,False,2,0,0,2,0,1,0,0,1,0,1,0,0,0,0,0
+401919019,2027,45,George Washington,5,5214643,Felix Kossaras,4,G,False,False,False,11,0,0,3,0,2,0,0,1,0,1,0,0,0,0,2
+401919019,2027,45,George Washington,5,5176067,Andrew Phillips,21,G,False,False,False,23,9,4,4,1,1,0,1,3,1,4,1,0,0,1,4
+401919019,2027,45,George Washington,5,5458209,Deng Manyang,39,F,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,45,George Washington,5,5458207,Jayvon Rampersant,10,F,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,45,George Washington,5,5239761,Malachi Arrington,5,F,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,45,George Washington,5,5105543,Aidan Shaw,2,F,False,True,False,,,,,,,,,,,,,,,,
+401919019,2027,45,George Washington,5,5174600,Amir Arrington,32,G,False,True,False,,,,,,,,,,,,,,,,
+401920380,2027,77,Northwestern,259,5186601,Okku Federiko,8,F,True,False,False,24,4,2,5,0,0,0,1,1,4,5,0,0,2,1,2
+401920380,2027,77,Northwestern,259,5106735,Jack Karasinski,32,F,True,False,False,26,7,2,4,2,4,1,2,0,3,3,0,0,0,0,2
+401920380,2027,77,Northwestern,259,5239575,Angelo Ciaravino,44,G,True,False,False,31,9,4,9,0,2,1,1,0,1,1,2,1,0,2,2
+401920380,2027,77,Northwestern,259,5221322,Jake West,3,G,True,False,False,37,19,7,14,3,7,2,3,1,4,5,8,1,0,6,1
+401920380,2027,77,Northwestern,259,5105787,LA Pratt,4,G,True,False,False,30,13,4,10,3,7,2,4,0,1,1,2,0,0,1,3
+401920380,2027,77,Northwestern,259,4684812,Colin Smith,7,F,False,False,False,19,0,0,4,0,3,0,0,2,3,5,0,0,0,0,2
+401920380,2027,77,Northwestern,259,5210966,Symon Ghai,18,C,False,False,False,14,8,3,3,0,0,2,3,0,1,1,0,0,1,2,3
+401920380,2027,77,Northwestern,259,5311908,Aleksej Kostic,6,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920380,2027,77,Northwestern,259,5254158,Phoenix Gill,13,G,False,False,False,15,8,3,4,1,2,1,1,1,3,4,1,0,0,0,0
+401920380,2027,77,Northwestern,259,5241734,Dylan Williams,2,G,False,False,False,2,2,0,0,0,0,2,2,0,0,0,0,1,0,0,0
+401920380,2027,77,Northwestern,259,5456493,Elijah Eschmeyer,42,F,False,True,False,,,,,,,,,,,,,,,,
+401920380,2027,77,Northwestern,259,5176362,Luke McEldon,21,F,False,True,False,,,,,,,,,,,,,,,,
+401920380,2027,77,Northwestern,259,5174631,Ryan Soulis,12,F,False,True,False,,,,,,,,,,,,,,,,
+401920380,2027,77,Northwestern,259,5142720,Jayden Hodge,11,G,False,True,False,,,,,,,,,,,,,,,,
+401920380,2027,259,Virginia Tech,77,5176243,Miles Heide,6,F,True,False,False,19,7,3,4,0,0,1,3,4,2,6,0,1,1,2,3
+401920380,2027,259,Virginia Tech,77,4685673,Amani Hansberry,13,F,True,False,False,27,12,4,11,2,4,2,2,2,2,4,8,1,0,1,2
+401920380,2027,259,Virginia Tech,77,5174611,Jaylen Curry,0,G,True,False,False,26,15,5,11,3,5,2,4,0,4,4,5,1,0,0,2
+401920380,2027,259,Virginia Tech,77,4873105,Ben Hammond,3,G,True,False,False,25,19,7,14,5,8,0,0,0,2,2,3,0,0,0,0
+401920380,2027,259,Virginia Tech,77,4869767,Isaiah Elohim,2,G,True,False,False,24,5,2,5,1,2,0,0,0,1,1,1,0,0,1,1
+401920380,2027,259,Virginia Tech,77,5311826,Sin'Cere Jones,5,F,False,False,False,15,5,2,3,0,0,1,2,1,2,3,0,0,1,2,3
+401920380,2027,259,Virginia Tech,77,5144388,Kuol Atak,7,F,False,False,False,6,5,2,3,1,1,0,0,1,2,3,1,0,0,1,0
+401920380,2027,259,Virginia Tech,77,5311995,Musa Sagnia,31,C,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920380,2027,259,Virginia Tech,77,5311830,Solomon Davis,22,C,False,False,False,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1
+401920380,2027,259,Virginia Tech,77,5458718,James Caldarella,11,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401920380,2027,259,Virginia Tech,77,5458717,Eltayeb Eltayeb,8,G,False,False,False,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+401920380,2027,259,Virginia Tech,77,5314558,Ethan Copeland,1,G,False,False,False,3,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+401920380,2027,259,Virginia Tech,77,5174940,Ned Hull,4,G,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401920380,2027,259,Virginia Tech,77,5165275,Tyler Johnson,10,G,False,False,False,22,7,1,2,0,1,5,7,2,5,7,0,1,0,2,2
+401920380,2027,259,Virginia Tech,77,5107144,Butta Johnson,33,G,False,False,False,23,12,4,8,4,7,0,0,1,4,5,2,0,0,0,1
+401919826,2027,399,UAlbany,2710,5457805,U-Mier Graham,23,F,True,False,False,29,12,5,10,1,2,1,4,4,4,8,1,3,2,2,4
+401919826,2027,399,UAlbany,2710,5457801,Ollie Engen,2,G,True,False,False,37,6,1,4,0,1,4,5,0,5,5,3,1,0,3,2
+401919826,2027,399,UAlbany,2710,5457800,Tyler Jones,1,G,True,False,False,37,13,6,15,0,1,1,2,2,2,4,2,1,0,2,2
+401919826,2027,399,UAlbany,2710,5313145,Abdoulaye Fall,7,G,True,False,False,32,15,6,13,1,7,2,3,3,6,9,1,2,0,4,2
+401919826,2027,399,UAlbany,2710,5243004,Pedro Santos,11,G,True,False,False,17,7,2,7,1,5,2,2,1,1,2,0,1,1,0,1
+401919826,2027,399,UAlbany,2710,5241003,Kean Webb,13,C,False,False,False,11,0,0,0,0,0,0,0,0,2,2,0,0,1,0,4
+401919826,2027,399,UAlbany,2710,5457799,Papa Kounta,0,G,False,False,False,6,2,1,4,0,3,0,0,0,0,0,0,0,0,0,2
+401919826,2027,399,UAlbany,2710,5313143,Wilkin Paulino,3,G,False,False,False,6,2,1,3,0,2,0,0,0,0,0,1,0,1,0,0
+401919826,2027,399,UAlbany,2710,5174669,Miles Rose,4,G,False,False,False,25,8,4,7,0,1,0,3,2,4,6,1,1,1,2,3
+401919826,2027,399,UAlbany,2710,5457804,Petar Miovic,21,F,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,399,UAlbany,2710,5457802,Erwann Bussing,9,F,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,399,UAlbany,2710,5243028,Benjamin Michaels,8,F,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,399,UAlbany,2710,5457806,Callum Smith,24,C,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,399,UAlbany,2710,5457803,Moustapha Ndao,19,G,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,399,UAlbany,2710,5175797,Zacharie Matulu,14,G,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,2710,Western Illinois,399,5462472,Daivion Traylor,15,F,True,False,False,24,23,8,14,0,0,7,9,5,5,10,0,0,1,2,3
+401919826,2027,2710,Western Illinois,399,5314439,Jack Riley,1,F,True,False,False,29,7,1,4,1,2,4,6,2,7,9,2,1,1,1,1
+401919826,2027,2710,Western Illinois,399,5462470,Shay Stephens,11,G,True,False,False,23,3,1,7,1,7,0,1,1,4,5,2,1,0,0,1
+401919826,2027,2710,Western Illinois,399,5462466,Hunter Vaughn,2,G,True,False,False,21,0,0,2,0,1,0,0,0,0,0,1,0,0,1,2
+401919826,2027,2710,Western Illinois,399,5314443,Makai Kvamme,13,G,True,False,False,35,8,3,9,0,0,2,3,2,4,6,3,2,0,5,2
+401919826,2027,2710,Western Illinois,399,5462471,Isaiah Davis,12,F,False,False,False,4,0,0,2,0,1,0,0,1,0,1,0,0,1,1,1
+401919826,2027,2710,Western Illinois,399,5260344,Matthieu Biembongo,21,F,False,False,False,13,6,2,2,0,0,2,2,0,2,2,0,0,0,2,4
+401919826,2027,2710,Western Illinois,399,5174298,Danny Stephens,23,F,False,False,False,14,2,1,6,0,2,0,0,3,1,4,0,0,1,0,0
+401919826,2027,2710,Western Illinois,399,5462469,Jordan Cain,10,G,False,False,False,19,8,3,7,0,1,2,2,0,2,2,0,0,0,0,2
+401919826,2027,2710,Western Illinois,399,5462468,Tayelor Moore,5,G,False,False,False,10,3,1,3,1,2,0,0,0,0,0,1,0,0,0,3
+401919826,2027,2710,Western Illinois,399,5462465,Davee Flowers,0,G,False,False,False,8,0,0,3,0,2,0,0,1,1,2,1,1,0,3,0
+401919826,2027,2710,Western Illinois,399,5462473,Stefan Higgins,32,F,False,True,False,,,,,,,,,,,,,,,,
+401919826,2027,2710,Western Illinois,399,5462467,Abdoulaye Konate,3,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5460751,Alessio Calamita,45,F,True,False,False,16,5,1,1,1,1,2,3,1,1,2,0,1,1,2,1
+401916123,2027,282,Indiana State,2617,5118224,Jackson Cooper,35,F,True,False,False,22,21,8,9,0,1,5,8,3,4,7,0,1,0,3,5
+401916123,2027,282,Indiana State,2617,5313213,Maguire Mitchell,13,G,True,False,False,35,12,2,7,2,5,6,6,0,3,3,0,2,0,2,3
+401916123,2027,282,Indiana State,2617,5241748,Karmani Gregory,7,G,True,False,False,32,18,4,13,2,6,8,15,0,1,1,11,1,0,3,4
+401916123,2027,282,Indiana State,2617,5144391,Chance Puryear,5,G,True,False,False,35,6,2,5,2,4,0,0,1,3,4,0,1,0,1,4
+401916123,2027,282,Indiana State,2617,5460750,Kade Speckman,32,F,False,False,False,12,7,2,2,1,1,2,3,0,3,3,0,0,0,1,4
+401916123,2027,282,Indiana State,2617,5460749,Ian Thomas,23,G,False,False,False,5,1,0,1,0,0,1,2,0,1,1,1,1,0,0,0
+401916123,2027,282,Indiana State,2617,5313294,Duce Paschal,9,G,False,False,False,11,2,1,1,0,0,0,0,0,1,1,0,1,0,2,4
+401916123,2027,282,Indiana State,2617,5311580,Meechie White,2,G,False,False,False,24,4,1,4,0,2,2,4,0,1,1,3,0,0,1,2
+401916123,2027,282,Indiana State,2617,5247674,EJ McQuillan,1,G,False,False,False,8,0,0,3,0,2,0,0,0,0,0,0,0,0,1,2
+401916123,2027,282,Indiana State,2617,5460747,Kingston Land,11,F,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5312998,Aleksa Vlajic,15,F,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5460748,Greyson Pritzl,12,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5460746,DeShawn Denson II,0,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5313862,Martin Kaupanger,21,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,282,Indiana State,2617,5144574,EJ Hazelett III,3,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,2617,Stephen F. Austin,282,5314593,Gediminas Alisas,17,F,True,False,False,25,16,5,6,0,0,6,8,1,3,4,0,0,0,3,3
+401916123,2027,2617,Stephen F. Austin,282,5462742,Erik Makke,12,G,True,False,False,30,18,5,9,1,2,7,9,1,1,2,7,1,0,3,3
+401916123,2027,2617,Stephen F. Austin,282,5314587,Narit Chotikavanic,6,G,True,False,False,34,14,4,7,4,6,2,2,1,6,7,1,0,0,1,3
+401916123,2027,2617,Stephen F. Austin,282,5247636,Christian Green,3,G,True,False,False,18,4,1,1,0,0,2,2,3,5,8,0,0,0,4,3
+401916123,2027,2617,Stephen F. Austin,282,5105539,MJ Russell,21,G,True,False,False,31,10,4,9,1,4,1,3,1,2,3,2,1,0,1,3
+401916123,2027,2617,Stephen F. Austin,282,5314703,Kobi Pearson,0,F,False,False,False,13,4,1,3,0,0,2,2,2,5,7,0,0,0,0,5
+401916123,2027,2617,Stephen F. Austin,282,5311865,Edwin Daniel,32,F,False,False,False,13,8,2,3,0,0,4,4,1,5,6,0,1,0,0,4
+401916123,2027,2617,Stephen F. Austin,282,5196935,Amari Reed,33,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+401916123,2027,2617,Stephen F. Austin,282,5462741,Courterius Scott,5,G,False,False,False,10,4,1,4,0,0,2,4,0,1,1,1,0,0,3,2
+401916123,2027,2617,Stephen F. Austin,282,5314586,Marcus Scurry,4,G,False,False,False,20,8,1,5,1,1,5,6,0,1,1,1,1,0,1,2
+401916123,2027,2617,Stephen F. Austin,282,5179086,Ashton Simmons,1,G,False,False,False,5,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+401916123,2027,2617,Stephen F. Austin,282,5462743,Kensington Candler,20,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,2617,Stephen F. Austin,282,5325988,Manu Manciel,99,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,2617,Stephen F. Austin,282,5314588,Bryceson Melvin,2,G,False,True,False,,,,,,,,,,,,,,,,
+401916123,2027,2617,Stephen F. Austin,282,5313452,Easton Hupp,24,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5314726,Davis Kern,22,F,True,False,False,29,10,4,11,1,3,1,2,1,7,8,0,1,0,2,1
+401922022,2027,2571,South Dakota State,304,5241232,Jon Mekonnen,5,F,True,False,False,22,14,7,12,0,4,0,1,0,5,5,1,0,1,0,4
+401922022,2027,2571,South Dakota State,304,5241457,Alec Squires,35,C,True,False,False,27,5,2,4,0,0,1,2,1,4,5,0,0,0,2,3
+401922022,2027,2571,South Dakota State,304,5243096,EJ Ryans,7,G,True,False,False,37,3,1,4,0,0,1,2,1,1,2,2,1,0,1,3
+401922022,2027,2571,South Dakota State,304,5177048,Joe Sayler,3,G,True,False,False,36,25,9,19,3,7,4,4,0,2,2,3,0,0,1,4
+401922022,2027,2571,South Dakota State,304,5461765,Blake Ellwein,23,F,False,False,False,11,4,1,1,0,0,2,2,2,0,2,1,1,1,2,1
+401922022,2027,2571,South Dakota State,304,5461764,Cam Swearengen,11,G,False,False,False,13,7,2,3,2,3,1,2,2,0,2,0,0,0,1,2
+401922022,2027,2571,South Dakota State,304,5461762,Semaj Stampley,1,G,False,False,False,25,3,1,5,1,4,0,0,1,3,4,3,0,0,1,5
+401922022,2027,2571,South Dakota State,304,5461766,Jesse Van Kalsbeek,42,F,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5461763,Youssouf Yatabare,4,F,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5242970,Myles Thompson,21,F,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5314725,Jaden Rogers,6,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5241456,Jadyn Cascio Jensen,33,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5239550,Trey Buchanan,0,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,2571,South Dakota State,304,5107255,Kalen Garry,10,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,304,Idaho State,2571,5455836,Malachi Johnson,14,F,True,False,False,35,39,13,17,6,8,7,9,3,10,13,1,0,0,0,1
+401922022,2027,304,Idaho State,2571,5455833,Kenyon DeMuynck,4,F,True,False,False,31,14,4,7,1,3,5,9,1,1,2,0,0,4,1,3
+401922022,2027,304,Idaho State,2571,5455839,Eli Garner,25,G,True,False,False,29,2,0,6,0,2,2,2,3,6,9,3,0,0,0,3
+401922022,2027,304,Idaho State,2571,5455835,Nathan Amoran,10,G,True,False,False,29,8,3,7,0,2,2,2,2,2,4,2,2,0,1,3
+401922022,2027,304,Idaho State,2571,5455832,MaCarhy Morris,2,G,True,False,False,35,16,5,11,1,3,5,7,0,2,2,6,1,0,1,0
+401922022,2027,304,Idaho State,2571,5455838,Ike Palmer,23,F,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+401922022,2027,304,Idaho State,2571,5455837,Bryce Lowenbach,15,F,False,False,False,7,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2
+401922022,2027,304,Idaho State,2571,5107151,Quin Patterson,21,F,False,False,False,4,3,1,4,1,4,0,0,0,0,0,0,0,0,0,0
+401922022,2027,304,Idaho State,2571,5455840,McKae Amundsen,30,G,False,False,False,5,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401922022,2027,304,Idaho State,2571,5455834,Joven Dulay,5,G,False,False,False,13,4,1,3,1,3,1,3,0,0,0,0,0,0,0,2
+401922022,2027,304,Idaho State,2571,5314769,Eyal Harel,13,G,False,False,False,7,0,0,1,0,0,0,0,1,2,3,3,2,0,1,1
+401922022,2027,304,Idaho State,2571,5313167,Landen Birley,11,G,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401922022,2027,304,Idaho State,2571,5255600,Malik Johnson,34,F,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,304,Idaho State,2571,5455831,Jeremiah Dorsey,1,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,304,Idaho State,2571,5314739,Ty Virgil,3,G,False,True,False,,,,,,,,,,,,,,,,
+401922022,2027,304,Idaho State,2571,5262112,Aden Goffe,55,G,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5314377,Matas Deniusas,44,F,True,False,False,18,6,2,6,2,2,0,0,2,1,3,0,0,0,2,1
+401920066,2027,227,Rhode Island,2335,5239711,Jonah Hinton,5,G,True,False,False,24,13,4,7,3,6,2,2,0,1,1,2,0,0,2,5
+401920066,2027,227,Rhode Island,2335,5176464,Jason Fontenet II,1,G,True,False,False,32,11,3,9,1,5,4,4,0,3,3,1,0,0,2,2
+401920066,2027,227,Rhode Island,2335,5106727,Dylan Williamson,4,G,True,False,False,31,10,4,11,2,8,0,0,0,1,1,2,0,0,1,0
+401920066,2027,227,Rhode Island,2335,4848629,Jahmere Tripp,0,G,True,False,False,33,11,2,7,0,1,7,8,1,2,3,4,3,1,3,3
+401920066,2027,227,Rhode Island,2335,5458225,Nedas Raupelis,9,F,False,False,False,29,9,4,6,0,0,1,3,3,11,14,1,0,1,0,0
+401920066,2027,227,Rhode Island,2335,5311869,Javon Perry,11,F,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920066,2027,227,Rhode Island,2335,4898259,Mouhamed Sow,35,F,False,False,False,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401920066,2027,227,Rhode Island,2335,5311868,Jalen Harper,7,G,False,False,False,14,3,1,2,1,2,0,0,0,0,0,1,0,0,3,0
+401920066,2027,227,Rhode Island,2335,5308006,Jaen Chatman,2,G,False,False,False,9,5,2,3,1,2,0,0,1,0,1,1,1,0,0,2
+401920066,2027,227,Rhode Island,2335,5458227,Dashiell Mabilon,31,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5458226,Tim Martin II,14,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5458224,Steven Sherman,6,G,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5254325,Barrett Loer,10,G,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5239658,Jaymien Aponte,13,G,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,227,Rhode Island,2335,5184110,Miftah Ibiyemi,21,G,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,2335,Liberty,227,5460096,Osmar Garcia-Araujo,28,F,True,False,False,16,10,5,5,0,0,0,0,1,1,2,2,1,0,3,3
+401920066,2027,2335,Liberty,227,5460093,Eli Herbert,2,G,True,False,False,33,5,2,5,1,4,0,0,0,7,7,0,0,0,0,4
+401920066,2027,2335,Liberty,227,5308470,Eli Sancomb,11,G,True,False,False,34,11,4,11,0,3,3,4,2,4,6,3,2,0,3,3
+401920066,2027,2335,Liberty,227,5254332,Zander Carter,1,G,True,False,False,36,15,6,11,1,2,2,3,2,4,6,2,1,0,1,0
+401920066,2027,2335,Liberty,227,5240745,Cooper Campbell,3,G,True,False,False,34,12,2,9,1,2,7,7,0,4,4,7,2,0,1,2
+401920066,2027,2335,Liberty,227,5460097,Reece Davidson,30,F,False,False,False,7,0,0,2,0,1,0,0,0,0,0,0,1,0,0,1
+401920066,2027,2335,Liberty,227,5254331,TJ Drain,23,F,False,False,False,24,10,5,7,0,0,0,0,1,0,1,0,1,2,0,2
+401920066,2027,2335,Liberty,227,5238192,Ryan Jones Jr.,21,F,False,False,False,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401920066,2027,2335,Liberty,227,5460098,Matthew Shelton,32,G,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+401920066,2027,2335,Liberty,227,5240746,Cobi Campbell,10,G,False,False,False,13,8,2,3,2,3,2,3,0,0,0,0,0,0,0,1
+401920066,2027,2335,Liberty,227,5460095,Sean Register Jr.,8,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,2335,Liberty,227,5460094,Dillon Claussen,4,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,2335,Liberty,227,5313665,Brady Kester,24,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,2335,Liberty,227,5313663,Torr Sorensen,20,F,False,True,False,,,,,,,,,,,,,,,,
+401920066,2027,2335,Liberty,227,5254335,Drew Grimes,15,F,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5242905,Grant Randall,2,F,True,False,False,19,10,2,4,0,1,6,8,2,7,9,0,0,2,1,1
+401921419,2027,2168,Dayton,254,5239526,Amal L'Etang,29,F,True,False,False,22,2,1,3,0,2,0,0,0,2,2,2,0,1,4,2
+401921419,2027,2168,Dayton,254,5313869,Tristian Ford,5,G,True,False,False,26,14,5,7,1,2,3,4,0,4,4,1,1,0,3,1
+401921419,2027,2168,Dayton,254,5313148,Landen Joseph,6,G,True,False,False,25,9,3,6,3,4,0,0,0,3,3,2,0,0,3,2
+401921419,2027,2168,Dayton,254,5210401,Aiden Derkack,4,G,True,False,False,30,14,5,8,2,5,2,3,2,7,9,2,2,1,4,3
+401921419,2027,2168,Dayton,254,5239134,Cody Peck,10,F,False,False,False,6,2,1,1,0,0,0,0,1,1,2,0,0,0,0,1
+401921419,2027,2168,Dayton,254,5174574,Jaiun Simon,3,F,False,False,False,18,2,0,3,0,2,2,2,1,3,4,1,4,0,0,0
+401921419,2027,2168,Dayton,254,4709151,Jalen Haynes,9,F,False,False,False,19,6,3,6,0,1,0,0,1,2,3,1,0,0,2,3
+401921419,2027,2168,Dayton,254,4895750,Zaide Lowery,7,G,False,False,False,26,4,2,5,0,0,0,0,1,1,2,0,1,0,0,1
+401921419,2027,2168,Dayton,254,4873100,Travis Perry,11,G,False,False,False,9,0,0,5,0,4,0,0,0,0,0,0,0,0,1,0
+401921419,2027,2168,Dayton,254,5196941,Damon Friery,22,F,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5101681,Malcolm Thomas,1,F,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5325991,Julian Washington,14,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5174578,Makai Grant,33,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5174577,Will Maxwell,25,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5174575,Evan Dickey,0,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,2168,Dayton,254,5101777,Jaron McKie,8,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5457377,Alec Anigbata,21,F,True,False,False,27,1,0,4,0,3,1,2,0,3,3,0,1,0,1,2
+401921419,2027,254,Utah,2168,5177717,Malek Gomma,1,C,True,False,False,16,3,0,2,0,0,3,4,2,0,2,2,1,0,0,2
+401921419,2027,254,Utah,2168,5241483,TJ Burch,6,G,True,False,False,25,2,1,5,0,2,0,0,1,4,5,2,4,0,1,2
+401921419,2027,254,Utah,2168,5176632,Jackson Holcombe,2,G,True,False,False,19,7,3,10,1,3,0,0,2,2,4,0,3,1,1,2
+401921419,2027,254,Utah,2168,5107887,Trey Campbell,9,G,True,False,False,33,16,6,15,2,6,2,2,0,1,1,1,0,0,4,2
+401921419,2027,254,Utah,2168,5457374,Jaxon Johnson,3,F,False,False,False,21,0,0,6,0,4,0,0,0,3,3,0,0,1,1,4
+401921419,2027,254,Utah,2168,4897000,Babacar Faye,5,F,False,False,False,17,5,2,4,0,0,1,2,0,2,2,1,1,1,1,0
+401921419,2027,254,Utah,2168,5457376,Fynn Schott,13,C,False,False,False,7,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0
+401921419,2027,254,Utah,2168,5308415,Styles Clemmons,0,G,False,False,False,11,1,0,1,0,0,1,2,0,2,2,0,1,0,1,1
+401921419,2027,254,Utah,2168,4685646,Taison Chatman,11,G,False,False,False,24,11,4,9,3,7,0,0,0,1,1,1,1,0,0,1
+401921419,2027,254,Utah,2168,5457379,Zati Loubaki,80,F,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5241294,Grayson Gaddis,15,F,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5457378,Lukas McCanna,55,C,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5457375,David Katoa,7,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5331713,Lucas Langarita,10,G,False,True,False,,,,,,,,,,,,,,,,
+401921419,2027,254,Utah,2168,5311937,Obomate Abbey,8,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5315592,Cameron Johnson,3,F,True,False,False,34,11,5,12,1,4,0,0,1,5,6,0,0,2,1,5
+401919827,2027,2385,Mercyhurst,2099,4897606,Deraje Agbaosi,23,F,True,False,False,30,11,3,7,0,0,5,6,2,3,5,2,1,3,3,0
+401919827,2027,2385,Mercyhurst,2099,5461360,Hunter Te Ratana,5,G,True,False,False,28,4,2,7,0,3,0,0,0,2,2,2,1,0,0,2
+401919827,2027,2385,Mercyhurst,2099,5243381,Jake Lemelman,11,G,True,False,False,31,13,5,16,3,8,0,0,1,4,5,3,1,0,5,3
+401919827,2027,2385,Mercyhurst,2099,5105660,Geoff Sprouse,12,G,True,False,False,34,3,1,5,1,5,0,0,0,1,1,4,2,0,0,5
+401919827,2027,2385,Mercyhurst,2099,5461358,Shane Kirker,0,F,False,False,False,21,10,4,4,0,0,2,6,2,5,7,1,0,1,0,3
+401919827,2027,2385,Mercyhurst,2099,5315593,Chris Leman,13,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401919827,2027,2385,Mercyhurst,2099,5461359,Markus Maxwell-Grimes,1,G,False,False,False,16,3,1,4,1,3,0,0,1,2,3,2,1,0,1,1
+401919827,2027,2385,Mercyhurst,2099,5315594,Or Faran,32,G,False,False,False,5,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0
+401919827,2027,2385,Mercyhurst,2099,5176649,Tennessee Rainwater,10,F,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5461362,Shuto Sakihama,17,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5315591,Brady Conner,2,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5177140,Daemar Kelly,7,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5106044,Marcus Jackson,44,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2385,Mercyhurst,2099,5461361,Johnathon Pierce,8,NA,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5243252,Clinton Efinda,5,F,True,False,False,33,22,7,12,4,5,4,4,1,4,5,0,2,0,1,3
+401919827,2027,2099,Canisius,2385,5177253,Nate Fouts,15,F,True,False,False,34,15,5,10,1,1,4,5,1,6,7,2,2,0,1,3
+401919827,2027,2099,Canisius,2385,5176268,Preist Ryan,4,F,True,False,False,36,7,1,2,0,0,5,6,1,7,8,0,1,1,0,3
+401919827,2027,2099,Canisius,2385,5254207,Michael Wilson Jr.,33,G,True,False,False,35,9,2,12,1,3,4,4,1,6,7,1,1,0,3,0
+401919827,2027,2099,Canisius,2385,5107219,Vinny Sigona,1,G,True,False,False,30,5,2,9,0,5,1,1,0,1,1,2,0,0,1,3
+401919827,2027,2099,Canisius,2385,5455001,Jerry Guerrero,14,G,False,False,False,7,3,1,2,1,2,0,0,0,0,0,0,0,0,1,0
+401919827,2027,2099,Canisius,2385,5454999,Alex Mack,3,G,False,False,False,13,2,1,2,0,1,0,0,0,2,2,2,0,0,0,0
+401919827,2027,2099,Canisius,2385,5316248,Will Fowler,10,G,False,False,False,12,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+401919827,2027,2099,Canisius,2385,5455002,Abu Riak,22,F,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5455000,Will Taylor,13,F,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5240688,Nate Deer,7,F,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5468197,Channing Francis,32,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5455003,Dorsett Mulcahy,95,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5314732,Demarris Winters,2,G,False,True,False,,,,,,,,,,,,,,,,
+401919827,2027,2099,Canisius,2385,5265865,Trevor Augustine,12,G,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,2630,UT Martin,79,5462458,Ousseynou Sambe,10,F,True,False,False,26,9,3,6,0,0,3,7,1,0,1,1,0,2,1,4
+401916124,2027,2630,UT Martin,79,5462459,Nikola Janicic,11,G,True,False,False,13,0,0,4,0,2,0,3,1,3,4,1,0,0,1,1
+401916124,2027,2630,UT Martin,79,5462456,Sasha Savkov,6,G,True,False,False,29,18,5,10,3,8,5,5,1,8,9,1,1,1,0,1
+401916124,2027,2630,UT Martin,79,5314376,Filip Petkovski,22,G,True,False,False,29,6,2,3,2,3,0,1,1,3,4,2,1,0,2,2
+401916124,2027,2630,UT Martin,79,5311960,Davi Remagen,1,G,True,False,False,32,11,4,16,1,4,2,4,4,3,7,2,0,2,0,1
+401916124,2027,2630,UT Martin,79,5462462,Arminas Vilkas,27,F,False,False,False,12,2,1,2,0,0,0,0,0,2,2,0,0,0,3,4
+401916124,2027,2630,UT Martin,79,5462460,Gabrielius Bubnys,14,F,False,False,False,11,3,1,2,1,2,0,0,0,1,1,0,0,0,0,1
+401916124,2027,2630,UT Martin,79,5462455,Armandas Bancevicius,4,F,False,False,False,17,5,2,2,0,0,1,1,1,0,1,1,1,0,3,1
+401916124,2027,2630,UT Martin,79,5462463,Kaan Onat,29,G,False,False,False,22,18,6,9,2,2,4,9,1,5,6,2,0,0,2,0
+401916124,2027,2630,UT Martin,79,5462457,Nikas Stuknys,9,G,False,False,False,9,4,1,1,0,0,2,2,0,0,0,0,1,0,1,2
+401916124,2027,2630,UT Martin,79,5462461,Giorgi Sulaberidze,15,F,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,2630,UT Martin,79,5314375,Vladimir Khryapa,31,F,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,2630,UT Martin,79,5462464,Mai Hong,33,G,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,2630,UT Martin,79,5462454,Reid Conley,0,G,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,2630,UT Martin,79,5314370,Enrique Moya,8,G,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,79,Southern Illinois,2630,5239709,Max Pikaar,35,F,True,False,False,30,15,5,7,3,4,2,2,1,10,11,0,0,2,1,3
+401916124,2027,79,Southern Illinois,2630,5061607,Jaheem Webber,33,C,True,False,False,17,4,1,4,0,1,2,4,3,4,7,1,0,0,0,2
+401916124,2027,79,Southern Illinois,2630,5462425,Jeremiah Jackson,0,G,True,False,False,36,7,2,10,1,7,2,3,1,5,6,3,0,0,2,0
+401916124,2027,79,Southern Illinois,2630,5313875,Jalen Haynes,1,G,True,False,False,35,26,7,17,5,10,7,10,0,1,1,4,3,0,4,3
+401916124,2027,79,Southern Illinois,2630,5107899,Damien Mayo Jr.,10,G,True,False,False,23,7,2,9,1,4,2,2,1,2,3,1,1,1,1,5
+401916124,2027,79,Southern Illinois,2630,5462426,Pietro Ranieri,5,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401916124,2027,79,Southern Illinois,2630,5462428,Luke Susko,24,G,False,False,False,25,10,4,8,2,4,0,0,0,3,3,1,0,1,0,3
+401916124,2027,79,Southern Illinois,2630,5462427,Jaxson Fugate,23,G,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+401916124,2027,79,Southern Illinois,2630,5313877,Luke Walsh,14,G,False,False,False,10,3,1,3,1,3,0,0,1,0,1,0,0,0,0,2
+401916124,2027,79,Southern Illinois,2630,5313874,Caden Hawkins,21,G,False,False,False,7,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+401916124,2027,79,Southern Illinois,2630,4896925,Brock McClure,88,G,False,False,False,10,1,0,1,0,0,1,2,1,1,2,0,1,0,0,4
+401916124,2027,79,Southern Illinois,2630,5462429,Ty Laur,50,F,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,79,Southern Illinois,2630,5313876,Daniel Pauliukonis,4,F,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,79,Southern Illinois,2630,5107796,Donovan Hill,30,F,False,True,False,,,,,,,,,,,,,,,,
+401916124,2027,79,Southern Illinois,2630,4609653,Prince Aligbe,8,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,402,Worcester State,2803,5323851,Joe Okla,12,F,True,False,False,33,9,4,8,0,2,1,3,3,3,6,2,1,0,1,2
+401929460,2027,402,Worcester State,2803,5323854,Cavin Pollard,22,C,True,False,False,29,5,2,7,1,5,0,0,0,4,4,1,0,1,0,4
+401929460,2027,402,Worcester State,2803,5469480,Khari Bryan,20,G,True,False,False,23,9,2,7,1,1,4,4,0,3,3,2,3,0,2,4
+401929460,2027,402,Worcester State,2803,5323849,Rayan Sablon,5,G,True,False,False,37,15,6,11,3,4,0,0,0,3,3,4,1,0,1,3
+401929460,2027,402,Worcester State,2803,5323845,Jaydon Buckle,0,G,True,False,False,21,8,3,6,0,0,2,5,1,1,2,1,0,0,2,3
+401929460,2027,402,Worcester State,2803,5324787,Tyrone Victor,35,C,False,False,False,10,2,1,1,0,0,0,0,0,2,2,0,0,0,1,2
+401929460,2027,402,Worcester State,2803,5323853,Amari Howell,,G,False,False,False,14,6,2,4,2,4,0,0,0,0,0,0,0,0,0,0
+401929460,2027,402,Worcester State,2803,5469481,Tyson Wheeler,24,G,False,False,False,19,6,2,7,2,3,0,0,1,1,2,1,2,0,4,2
+401929460,2027,402,Worcester State,2803,5469478,Lucas Miglionico,3,G,False,False,False,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+401929460,2027,402,Worcester State,2803,5469477,Juju Dent Jr.,2,G,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401929460,2027,402,Worcester State,2803,5323848,Dajon Burton,4,G,False,False,False,6,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+401929460,2027,402,Worcester State,2803,5469482,Jaa Ashby,40,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,402,Worcester State,2803,5469479,Trae Jones,11,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,402,Worcester State,2803,5323855,Zeke Noelsaint,23,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,402,Worcester State,2803,5182560,Chris Pierre,30,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,402,Worcester State,2803,5180684,Daniel Wondie,1,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5457695,Roi Behar,9,F,True,False,False,38,7,2,8,1,5,2,2,3,1,4,2,1,0,0,0
+401929460,2027,2803,Bryant,402,5314320,Andre Pasha,15,F,True,False,False,36,8,4,9,0,2,0,3,3,9,12,2,2,1,3,2
+401929460,2027,2803,Bryant,402,5248298,Eric Chatfield Jr.,2,F,True,False,False,33,27,8,18,4,10,7,9,0,4,4,5,2,0,1,2
+401929460,2027,2803,Bryant,402,5196957,Onyx Nnani,5,F,True,False,False,25,9,3,5,0,1,3,3,2,1,3,2,0,0,4,3
+401929460,2027,2803,Bryant,402,5174670,Duane Thompson,0,F,True,False,False,35,19,5,9,2,6,7,9,3,7,10,2,3,2,0,1
+401929460,2027,2803,Bryant,402,5457694,Elijah Hayeems,8,F,False,False,False,8,2,1,1,0,0,0,0,1,2,3,0,0,0,0,1
+401929460,2027,2803,Bryant,402,5457693,Elijah Crispin,3,F,False,False,False,7,0,0,2,0,1,0,0,0,0,0,1,0,0,1,2
+401929460,2027,2803,Bryant,402,5210980,Connor Lyons,11,F,False,False,False,18,3,1,4,1,3,0,0,1,2,3,0,0,0,1,0
+401929460,2027,2803,Bryant,402,5457698,Grady Payton,23,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5457697,Tim Nwankwo,19,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5457696,Thor Grissom,13,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,4702741,Keegan Harvey,14,F,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5313084,Michael DeOrsey,30,PG,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5313083,Reed Woerner,25,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5313076,Ty Tabales,1,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5239721,Jason Sepe,22,G,False,True,False,,,,,,,,,,,,,,,,
+401929460,2027,2803,Bryant,402,5239716,Frankie Vassalluzzo,21,G,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2706,WVU Tech,2006,5469471,Jase Smith,5,F,True,False,False,22,10,4,11,0,3,2,2,3,1,4,0,0,0,2,0
+401928834,2027,2706,WVU Tech,2006,5322210,Roman Kellum,24,F,True,False,False,12,1,0,1,0,1,1,2,0,0,0,2,0,0,1,4
+401928834,2027,2706,WVU Tech,2006,5469469,Scotty Browning,2,G,True,False,False,29,14,5,10,1,3,3,3,0,0,0,5,0,0,9,2
+401928834,2027,2706,WVU Tech,2006,5322215,Trayten Woods,11,G,True,False,False,18,3,1,4,1,3,0,0,0,1,1,0,1,0,1,2
+401928834,2027,2706,WVU Tech,2006,5322208,Ian Goings,1,G,True,False,False,30,19,7,15,2,5,3,3,5,1,6,2,1,1,0,2
+401928834,2027,2706,WVU Tech,2006,5469472,Petar Kos,14,F,False,False,False,11,5,2,2,1,1,0,0,0,1,1,0,0,0,0,1
+401928834,2027,2706,WVU Tech,2006,5469470,Jayce Gum,4,F,False,False,False,17,2,1,5,0,0,0,0,1,2,3,0,0,0,2,0
+401928834,2027,2706,WVU Tech,2006,5469468,James Wood,0,G,False,False,False,5,3,1,2,1,2,0,0,0,1,1,0,0,0,0,2
+401928834,2027,2706,WVU Tech,2006,5322512,Cole Lambert,3,G,False,False,False,13,5,1,2,0,0,3,3,0,0,0,1,0,0,2,3
+401928834,2027,2706,WVU Tech,2006,5322508,Brendan Hoffman,23,G,False,False,False,28,6,2,10,1,4,1,2,0,3,3,0,1,0,1,2
+401928834,2027,2706,WVU Tech,2006,5322213,Graham Orndoff,30,G,False,False,False,9,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0
+401928834,2027,2706,WVU Tech,2006,5322209,Marty Johnson,21,G,False,False,False,3,1,0,0,0,0,1,2,0,1,1,0,0,0,0,0
+401928834,2027,2706,WVU Tech,2006,5322205,Jalon Bailey,12,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401928834,2027,2706,WVU Tech,2006,5469475,Brent Conley Jr.,32,F,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2706,WVU Tech,2006,5469473,Harrison Riggs,15,F,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2706,WVU Tech,2006,5469476,John Rose,42,G,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2706,WVU Tech,2006,5469474,Ashton Arthur,31,G,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2006,Akron,2706,5105882,Chabi Barre,5,F,True,False,False,12,6,2,3,0,0,2,2,3,1,4,0,0,1,3,5
+401928834,2027,2006,Akron,2706,5105847,Evan Mahaffey,12,F,True,False,False,20,5,2,5,1,3,0,1,2,3,5,5,4,1,1,1
+401928834,2027,2006,Akron,2706,5101675,Colin White,22,F,True,False,False,17,7,3,8,1,4,0,0,2,3,5,2,0,0,1,1
+401928834,2027,2006,Akron,2706,5176351,Ty Pence,8,G,True,False,False,19,20,8,10,2,4,2,2,2,3,5,2,0,1,1,0
+401928834,2027,2006,Akron,2706,4896368,Tahj Staveskie,2,G,True,False,False,16,25,7,9,4,6,7,7,2,5,7,5,0,0,1,0
+401928834,2027,2006,Akron,2706,5455095,Devan Christion,19,F,False,False,False,6,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+401928834,2027,2006,Akron,2706,5313378,Buddy Hammer Jr.,4,F,False,False,False,16,8,3,4,0,1,2,2,1,2,3,1,1,0,1,0
+401928834,2027,2006,Akron,2706,5176139,Marvin Musiime-Kamali,23,F,False,False,False,14,6,3,3,0,0,0,0,3,1,4,0,1,1,1,4
+401928834,2027,2006,Akron,2706,5176138,Zach Halligan,21,F,False,False,False,14,8,3,5,2,4,0,0,2,1,3,1,3,0,0,1
+401928834,2027,2006,Akron,2706,5107999,Max Burton,10,F,False,False,False,8,1,0,1,0,1,1,2,2,0,2,1,0,0,0,1
+401928834,2027,2006,Akron,2706,5455094,RJ Jones,15,G,False,False,False,8,7,3,4,0,0,1,2,1,2,3,0,1,0,0,2
+401928834,2027,2006,Akron,2706,5314279,Tai Perkins,6,G,False,False,False,14,5,2,6,0,3,1,2,0,0,0,1,0,0,0,1
+401928834,2027,2006,Akron,2706,5311920,Exavier Wilson,1,G,False,False,False,17,7,3,6,0,2,1,2,0,3,3,4,1,1,0,1
+401928834,2027,2006,Akron,2706,5119069,Kamrin Oriol,11,G,False,False,False,19,11,4,13,3,8,0,0,1,2,3,5,1,0,2,3
+401928834,2027,2006,Akron,2706,5314280,Josh Henderson,7,G,False,True,False,,,,,,,,,,,,,,,,
+401928834,2027,2006,Akron,2706,5176192,Cody Head,9,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,48,Delaware,2463,4895787,Kachi Nzeh,7,F,True,False,False,27,10,3,8,0,0,4,4,4,5,9,1,1,0,3,5
+401920298,2027,48,Delaware,2463,5238155,Nick Petronio,3,G,True,False,False,41,14,5,11,4,9,0,0,0,2,2,2,4,0,3,1
+401920298,2027,48,Delaware,2463,5177732,Chuck Bailey III,0,G,True,False,False,40,26,8,21,6,12,4,4,1,5,6,2,1,0,4,4
+401920298,2027,48,Delaware,2463,5105846,Jameel Brown,55,G,True,False,False,9,2,1,3,0,2,0,0,0,1,1,1,0,0,1,1
+401920298,2027,48,Delaware,2463,4848622,DeShawn Harris-Smith,5,G,True,False,False,43,29,6,16,1,2,16,19,2,4,6,7,2,1,1,3
+401920298,2027,48,Delaware,2463,5460628,Favour Egbuna,24,F,False,False,False,12,9,1,1,0,0,7,10,5,2,7,1,0,0,0,1
+401920298,2027,48,Delaware,2463,5314182,Eugene Alvin,13,F,False,False,False,14,3,1,2,1,1,0,0,1,3,4,1,0,0,0,5
+401920298,2027,48,Delaware,2463,5312332,Jayden Taylor,11,F,False,False,False,5,0,0,0,0,0,0,0,0,2,2,0,0,0,0,3
+401920298,2027,48,Delaware,2463,5061599,Steven Solano,15,C,False,False,False,8,4,2,2,0,0,0,0,1,0,1,1,0,1,3,4
+401920298,2027,48,Delaware,2463,5460627,Jafet Valencia,10,G,False,False,False,9,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4
+401920298,2027,48,Delaware,2463,5312333,Alex Kazanecki,20,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401920298,2027,48,Delaware,2463,5105895,Devin Dinkins,2,G,False,False,False,14,0,0,1,0,1,0,1,0,1,1,0,0,0,2,1
+401920298,2027,48,Delaware,2463,5312331,Mason Ellison,1,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,48,Delaware,2463,5239620,Alex McFadden,12,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,48,Delaware,2463,5181545,Brandon Baffone,4,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5240619,Jael Martin,8,F,True,False,False,32,19,6,6,0,0,7,10,4,4,8,2,1,2,1,4
+401920298,2027,2463,Cal State Northridge,48,5107285,BJ Omot,20,F,True,False,False,28,2,1,6,0,3,0,2,3,3,6,0,0,0,1,5
+401920298,2027,2463,Cal State Northridge,48,5313086,Keziah Ekissi,24,G,True,False,False,34,11,2,7,1,3,6,6,0,0,0,0,0,0,2,4
+401920298,2027,2463,Cal State Northridge,48,5106291,Josiah Davis,4,G,True,False,False,38,21,8,18,0,0,5,10,3,4,7,8,1,0,6,4
+401920298,2027,2463,Cal State Northridge,48,5101624,Brooklyn Hicks,44,G,True,False,False,39,20,8,15,1,3,3,7,1,4,5,2,1,1,2,4
+401920298,2027,2463,Cal State Northridge,48,5108101,Lamine Niang,22,C,False,False,False,13,8,3,5,0,0,2,2,1,0,1,0,0,1,0,2
+401920298,2027,2463,Cal State Northridge,48,5458646,Daniel Culberson,7,G,False,False,False,14,2,1,2,0,0,0,0,0,3,3,4,2,0,2,3
+401920298,2027,2463,Cal State Northridge,48,5458645,Naceiar Kirksey,0,G,False,False,False,11,5,2,3,1,2,0,0,0,3,3,0,0,0,0,2
+401920298,2027,2463,Cal State Northridge,48,5314464,Caleb Smith,1,G,False,False,False,16,4,0,4,0,0,4,6,4,3,7,0,1,0,0,1
+401920298,2027,2463,Cal State Northridge,48,5164369,Emmanuel Stephen,34,C,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5458647,Jordan Hare,11,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5312432,Omer Dahan,14,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5241881,Greg Gazarian,10,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5241877,Jalen Barbee,3,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5240973,Mikah Ballew,2,G,False,True,False,,,,,,,,,,,,,,,,
+401920298,2027,2463,Cal State Northridge,48,5107783,Quinton Webb,5,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,249,North Texas,2026,5458682,Ousmane Ndour,35,F,True,False,False,23,7,2,3,0,0,3,4,2,5,7,0,1,0,1,3
+401925828,2027,249,North Texas,2026,5241610,Reece Robinson,15,F,True,False,False,33,21,9,16,2,4,1,2,1,4,5,0,0,0,2,2
+401925828,2027,249,North Texas,2026,5241608,Je'Shawn Stevenson,4,G,True,False,False,30,16,6,16,1,5,3,4,1,2,3,3,0,0,2,2
+401925828,2027,249,North Texas,2026,5239836,Amar Amkou,3,G,True,False,False,21,5,2,5,0,1,1,1,0,0,0,0,0,0,0,0
+401925828,2027,249,North Texas,2026,5183293,Cash Chavis,1,G,True,False,False,33,7,2,11,0,4,3,4,2,4,6,4,1,0,2,5
+401925828,2027,249,North Texas,2026,5466859,Filip Kalajzic,7,F,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401925828,2027,249,North Texas,2026,5142716,TJ Crumble,24,F,False,False,False,9,5,2,4,0,0,1,2,2,1,3,0,0,0,0,1
+401925828,2027,249,North Texas,2026,5458681,Braylon Barnes,5,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401925828,2027,249,North Texas,2026,5327865,Aeneas Alexander,11,G,False,False,False,13,3,1,6,1,2,0,0,0,2,2,0,1,0,0,0
+401925828,2027,249,North Texas,2026,5293245,Marcus Zelee,0,G,False,False,False,8,3,1,2,1,2,0,0,1,1,2,0,0,0,0,2
+401925828,2027,249,North Texas,2026,5241611,Cole Franklin,10,G,False,False,False,24,8,4,6,0,0,0,1,4,3,7,1,1,0,3,3
+401925828,2027,249,North Texas,2026,5471911,Ethan Bilyeu,20,F,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,249,North Texas,2026,5238182,Mitchell Holmes,13,F,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,249,North Texas,2026,5313376,EJ Horton,2,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5459551,Da'Mori Lytch,6,F,True,False,False,28,22,7,8,3,3,5,7,1,1,2,2,1,1,2,3
+401925828,2027,2026,App State,249,5177526,Chad Moodie,23,F,True,False,False,33,6,3,7,0,0,0,2,3,2,5,0,1,3,0,2
+401925828,2027,2026,App State,249,5243155,Jaylen Colon,9,G,True,False,False,35,19,5,10,4,8,5,6,2,3,5,5,1,0,0,0
+401925828,2027,2026,App State,249,5186673,Ben Kopetzki,5,G,True,False,False,38,17,6,16,3,10,2,6,1,7,8,3,2,0,2,0
+401925828,2027,2026,App State,249,5176798,Eren Banks,4,G,True,False,False,32,8,3,8,2,4,0,0,1,3,4,4,0,0,3,1
+401925828,2027,2026,App State,249,5312353,Ted Neal,7,F,False,False,False,13,2,1,3,0,0,0,0,1,3,4,0,2,2,3,3
+401925828,2027,2026,App State,249,5239586,Andrin Njock,21,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401925828,2027,2026,App State,249,5312036,Rrezon Elezaj,12,C,False,False,False,4,2,0,1,0,0,2,2,1,1,2,0,0,0,0,1
+401925828,2027,2026,App State,249,5459550,Mason Costello,3,G,False,False,False,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401925828,2027,2026,App State,249,5459549,Jonathan Moss,2,G,False,False,False,7,5,2,4,1,2,0,0,0,0,0,0,0,0,0,1
+401925828,2027,2026,App State,249,5242407,Hermann Koffi,25,G,False,False,False,7,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401925828,2027,2026,App State,249,5312356,Grant Clayton,33,F,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5459552,Bryan Chretien,17,C,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5459553,Jackson Love,22,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5312351,KJ Vasser,0,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5311917,Corbin Allen,13,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5239584,Cameron O'Kelley,14,G,False,True,False,,,,,,,,,,,,,,,,
+401925828,2027,2026,App State,249,5176759,Luke Ledford,32,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,98,Western Kentucky,257,5312342,Emondrek Erkins-Ford,13,F,True,False,False,26,9,4,7,1,2,0,0,1,1,2,1,2,0,1,1
+401927396,2027,98,Western Kentucky,257,5101846,EJ Walker,6,F,True,False,False,28,9,4,6,0,1,1,3,3,1,4,2,1,1,1,4
+401927396,2027,98,Western Kentucky,257,5313164,Armelo Boone,12,G,True,False,False,32,12,5,12,2,3,0,0,2,9,11,2,1,3,2,1
+401927396,2027,98,Western Kentucky,257,5241470,Sharron Young,3,G,True,False,False,34,17,6,14,5,11,0,0,2,5,7,6,3,0,2,3
+401927396,2027,98,Western Kentucky,257,5176780,Teagan Moore,30,G,True,False,False,33,22,7,11,1,5,7,8,1,2,3,3,2,0,3,2
+401927396,2027,98,Western Kentucky,257,5460049,Moussa Konare,32,F,False,False,False,9,4,2,3,0,0,0,2,0,1,1,1,0,1,1,2
+401927396,2027,98,Western Kentucky,257,5460048,Gabe Weis,11,F,False,False,False,8,0,0,0,0,0,0,0,0,1,1,0,0,1,0,2
+401927396,2027,98,Western Kentucky,257,5314570,Noah Norgaard,5,G,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401927396,2027,98,Western Kentucky,257,5313165,Lawson Rice,24,G,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401927396,2027,98,Western Kentucky,257,5313163,LJ Hackman,2,G,False,False,False,13,9,3,6,1,2,2,2,0,1,1,2,1,0,2,1
+401927396,2027,98,Western Kentucky,257,5239835,Trevion LaBeaux,23,G,False,False,False,13,0,0,1,0,0,0,0,0,2,2,1,0,0,0,0
+401927396,2027,98,Western Kentucky,257,5460050,Joseph Adebayo,35,F,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,98,Western Kentucky,257,5460047,Gavin Murphy,1,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,98,Western Kentucky,257,5242615,Kade Unseld,4,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5060688,Jamie Kaiser Jr.,7,F,True,False,False,23,13,5,9,1,4,2,2,0,4,4,1,0,0,2,3
+401927396,2027,257,Richmond,98,5314477,Amon Dorries,21,C,True,False,False,23,7,3,5,1,2,0,0,0,3,3,4,0,0,4,0
+401927396,2027,257,Richmond,98,5254316,Aiden Argabright,3,G,True,False,False,18,2,1,5,0,1,0,0,1,0,1,1,1,0,2,4
+401927396,2027,257,Richmond,98,5176395,Derin Saran,13,G,True,False,False,33,6,3,7,0,1,0,0,1,1,2,2,2,0,1,2
+401927396,2027,257,Richmond,98,5173445,Dominick Stewart,1,G,True,False,False,27,14,2,9,2,4,8,8,1,2,3,3,0,0,2,1
+401927396,2027,257,Richmond,98,5458281,Chad Cook,0,F,False,False,False,16,6,1,4,0,2,4,4,0,2,2,3,1,0,3,0
+401927396,2027,257,Richmond,98,5106702,Andrew Ball,4,F,False,False,False,24,14,7,8,0,0,0,0,1,5,6,1,0,0,0,1
+401927396,2027,257,Richmond,98,5458282,Sam Simmons Jr.,2,G,False,False,False,23,6,2,5,2,4,0,0,0,2,2,2,0,0,0,2
+401927396,2027,257,Richmond,98,5174628,Collin Tanner,5,G,False,False,False,13,0,0,2,0,0,0,0,1,0,1,0,0,0,0,1
+401927396,2027,257,Richmond,98,5458285,Dane Caldwell,22,F,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5101835,Jack McCaffery,6,F,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5311870,Dylan Homenick,16,C,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5458283,Jaden Shoultz,10,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5254321,Will Harper III,11,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5254319,Donovan Richardson,8,G,False,True,False,,,,,,,,,,,,,,,,
+401927396,2027,257,Richmond,98,5239672,Kirby Mooney,15,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5238222,Jacolb Fredson-Cole,10,F,True,False,False,29,13,6,14,1,3,0,3,1,3,4,3,2,0,0,4
+401926782,2027,2247,Georgia State,55,5313072,Chris Jones,0,G,True,False,False,19,7,2,4,1,2,2,2,1,1,2,2,0,0,1,0
+401926782,2027,2247,Georgia State,55,5241454,Jaden Jackson,14,G,True,False,False,29,13,5,9,3,7,0,0,1,3,4,2,0,0,1,4
+401926782,2027,2247,Georgia State,55,5176795,Jacob Meyer,4,G,True,False,False,33,17,6,10,1,2,4,7,0,1,1,3,1,0,2,1
+401926782,2027,2247,Georgia State,55,5176149,David Thomas,12,G,True,False,False,31,9,4,9,1,2,0,0,0,2,2,0,1,0,0,1
+401926782,2027,2247,Georgia State,55,5106670,Mason Nicholson,50,C,False,False,False,16,1,0,0,0,0,1,2,1,3,4,0,0,0,0,4
+401926782,2027,2247,Georgia State,55,5174934,Eric Parnell,7,G,False,False,False,19,8,3,7,2,6,0,0,1,1,2,0,1,0,1,1
+401926782,2027,2247,Georgia State,55,5144382,Zion Wilburn,8,G,False,False,False,24,9,3,6,1,3,2,2,1,2,3,1,2,0,1,3
+401926782,2027,2247,Georgia State,55,5460905,Orion Wilson,15,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5176285,Jonas Sirtautas,11,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5175066,Terrance Dixon Jr.,23,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5144528,Keeper Jackson,24,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5460906,Shiyloh Fisher,32,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5460904,Owen Augunas,2,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,2247,Georgia State,55,5107357,AJ Smith,1,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,55,Jacksonville State,2247,5313917,Ethan Croley,10,F,True,False,False,27,9,4,8,0,1,1,2,2,3,5,1,2,2,2,2
+401926782,2027,55,Jacksonville State,2247,4869766,Naas Cunningham,3,F,True,False,False,19,7,2,7,0,3,3,4,0,6,6,0,0,1,0,0
+401926782,2027,55,Jacksonville State,2247,5240271,Leon Horner,6,G,True,False,False,20,14,5,7,2,2,2,2,0,1,1,1,0,0,3,3
+401926782,2027,55,Jacksonville State,2247,5176082,Jordan Stiemke,2,G,True,False,False,32,6,2,5,1,3,1,2,1,3,4,4,1,0,2,2
+401926782,2027,55,Jacksonville State,2247,4683768,Chris Lockett Jr.,1,G,True,False,False,35,25,9,11,1,3,6,6,1,4,5,5,0,0,1,3
+401926782,2027,55,Jacksonville State,2247,5241533,Alijah Curry,4,F,False,False,False,12,2,1,2,0,0,0,0,1,1,2,0,1,0,1,1
+401926782,2027,55,Jacksonville State,2247,5177705,Ma'Shy Hill,0,F,False,False,False,8,0,0,1,0,0,0,2,0,1,1,0,0,1,1,0
+401926782,2027,55,Jacksonville State,2247,5144131,Kash Polk,11,F,False,False,False,19,3,1,1,0,0,1,2,0,2,2,0,0,2,1,2
+401926782,2027,55,Jacksonville State,2247,5460610,Marvin Christie III,9,G,False,False,False,5,0,0,0,0,0,0,0,1,1,2,0,0,0,0,2
+401926782,2027,55,Jacksonville State,2247,5174936,Grant Gondrezick II,5,G,False,False,False,23,16,4,5,2,2,6,6,0,0,0,1,0,0,0,0
+401926782,2027,55,Jacksonville State,2247,5460612,Williams Itumo,20,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,55,Jacksonville State,2247,5105487,Brandon Walker,34,F,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,55,Jacksonville State,2247,5460611,Jace Harden,12,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,55,Jacksonville State,2247,5460609,Nic Hernandez,7,G,False,True,False,,,,,,,,,,,,,,,,
+401926782,2027,55,Jacksonville State,2247,5312341,Jordan Vick,8,G,False,True,False,,,,,,,,,,,,,,,,
+401926134,2027,2473,Oakland,2509,5314287,Camden Thompson,6,F,True,False,False,23,2,1,3,0,0,0,0,3,3,6,0,0,0,0,5
+401926134,2027,2473,Oakland,2509,5176752,Chris Fields Jr.,2,F,True,False,False,36,18,6,11,0,0,6,9,4,6,10,2,5,0,7,3
+401926134,2027,2473,Oakland,2509,5313710,William Kassi,4,G,True,False,False,14,2,0,1,0,1,2,6,1,0,1,0,0,1,0,1
+401926134,2027,2473,Oakland,2509,5241679,Nassim Mashhour,0,G,True,False,False,32,6,2,9,1,5,1,2,1,2,3,2,0,0,2,1
+401926134,2027,2473,Oakland,2509,5176384,RJ Taylor,10,G,True,False,False,11,0,0,2,0,1,0,0,0,0,0,0,1,0,1,0
+401926134,2027,2473,Oakland,2509,5459311,Nate Ahner,22,F,False,False,False,5,0,0,3,0,3,0,0,0,0,0,0,0,0,0,1
+401926134,2027,2473,Oakland,2509,5459310,Isaiah Theodile,21,F,False,False,False,10,2,0,2,0,0,2,4,0,1,1,0,0,1,0,0
+401926134,2027,2473,Oakland,2509,5459309,Deuce Hamilton,11,G,False,False,False,12,3,1,3,1,3,0,2,0,1,1,0,1,0,0,2
+401926134,2027,2473,Oakland,2509,5459308,Ivan Stojanovski,7,G,False,False,False,4,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+401926134,2027,2473,Oakland,2509,5459307,Ryder Bradley,3,G,False,False,False,28,7,3,10,1,3,0,0,0,0,0,1,0,0,2,0
+401926134,2027,2473,Oakland,2509,5313708,Hamoudy Mashhour,1,G,False,False,False,15,4,0,3,0,2,4,4,1,0,1,2,0,1,0,0
+401926134,2027,2473,Oakland,2509,5241684,Warren Marshall IV,13,G,False,False,False,10,5,2,4,1,1,0,0,2,3,5,0,0,0,0,0
+401926134,2027,2473,Oakland,2509,5196867,Josh Hill,14,F,False,True,False,,,,,,,,,,,,,,,,
+401926134,2027,2473,Oakland,2509,5176417,Belal El Shakery,24,F,False,True,False,,,,,,,,,,,,,,,,
+401926134,2027,2473,Oakland,2509,5314284,Brady Swartz,5,G,False,True,False,,,,,,,,,,,,,,,,
+401926134,2027,2473,Oakland,2509,5241681,Chang Hoth,4,G,False,True,False,,,,,,,,,,,,,,,,
+401926134,2027,2509,Purdue,2473,5107170,Caden Pierce,8,F,True,False,False,14,13,6,8,1,3,0,0,0,2,2,2,1,0,1,0
+401926134,2027,2509,Purdue,2473,5144147,Daniel Jacobsen,12,C,True,False,False,23,16,7,9,0,0,2,2,3,6,9,2,2,4,2,2
+401926134,2027,2509,Purdue,2473,5175591,C.J. Cox,0,G,True,False,False,20,3,1,3,1,3,0,0,1,4,5,3,0,0,1,0
+401926134,2027,2509,Purdue,2473,5144111,Antione West Jr,1,G,True,False,False,22,5,2,4,1,2,0,1,1,1,2,3,0,1,2,0
+401926134,2027,2509,Purdue,2473,5102618,Jack Benter,14,G,True,False,False,22,9,3,8,3,7,0,0,0,4,4,7,0,0,0,2
+401926134,2027,2509,Purdue,2473,5458339,Enzo Shahrvin,18,F,False,False,False,12,0,0,0,0,0,0,0,1,2,3,1,0,1,1,5
+401926134,2027,2509,Purdue,2473,5210967,Rivers Knight,21,F,False,False,False,2,2,1,2,0,1,0,0,1,0,1,1,0,0,0,0
+401926134,2027,2509,Purdue,2473,5105856,Sam King,7,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401926134,2027,2509,Purdue,2473,5061582,Raleigh Burgess,34,F,False,False,False,12,3,1,4,1,3,0,2,2,3,5,0,1,0,1,4
+401926134,2027,2509,Purdue,2473,5210402,Sinan Huan,33,C,False,False,False,4,0,0,2,0,0,0,0,0,2,2,0,0,3,0,1
+401926134,2027,2509,Purdue,2473,5312035,Omer Mayer,17,G,False,False,False,19,3,1,3,1,3,0,0,0,3,3,5,0,0,0,1
+401926134,2027,2509,Purdue,2473,5307568,Jacob Webber,11,G,False,False,False,6,3,1,4,1,4,0,0,0,0,0,0,0,0,0,0
+401926134,2027,2509,Purdue,2473,5292603,Luke Ertel,2,G,False,False,False,22,24,8,11,8,10,0,0,1,2,3,5,1,0,1,1
+401926134,2027,2509,Purdue,2473,5239504,Jack Lusk,9,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+401926134,2027,2509,Purdue,2473,5174804,Jace Rayl,32,G,False,False,False,1,3,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+401926134,2027,2509,Purdue,2473,5101658,Gicarri Harris,24,G,False,False,False,19,11,4,8,3,5,0,0,2,1,3,1,1,0,0,0
+401925927,2027,2569,South Carolina State,2643,5460731,Andre NGomabie,92,F,True,False,False,18,5,1,2,0,0,3,4,3,3,6,0,1,0,0,5
+401925927,2027,2569,South Carolina State,2643,5460728,Jayden Pretty,6,F,True,False,False,22,5,2,4,0,2,1,2,2,1,3,0,1,0,1,4
+401925927,2027,2569,South Carolina State,2643,5243378,DeShaun Jackson Jr.,1,PG,True,False,False,32,12,6,8,0,0,0,0,0,0,0,4,1,0,2,3
+401925927,2027,2569,South Carolina State,2643,5317332,Noah Treadwell,0,G,True,False,False,34,19,6,19,4,15,3,6,0,5,5,1,1,0,0,0
+401925927,2027,2569,South Carolina State,2643,5188800,Brian Harris,4,G,True,False,False,7,0,0,3,0,2,0,0,0,0,0,0,0,0,1,1
+401925927,2027,2569,South Carolina State,2643,5460730,Bryce Adams,23,F,False,False,False,7,0,0,1,0,0,0,0,1,0,1,0,0,0,2,3
+401925927,2027,2569,South Carolina State,2643,5317337,Chris Parker,55,F,False,False,False,23,8,4,8,0,0,0,0,2,2,4,1,0,0,0,0
+401925927,2027,2569,South Carolina State,2643,5317333,Derwin Hodge Jr.,7,F,False,False,False,6,2,1,3,0,0,0,0,1,1,2,1,0,0,1,1
+401925927,2027,2569,South Carolina State,2643,5460726,Christian Barnes,2,PG,False,False,False,12,3,1,3,1,3,0,0,0,0,0,1,0,0,1,0
+401925927,2027,2569,South Carolina State,2643,5460729,Ja'Caiden Cone,14,G,False,False,False,13,5,2,6,1,2,0,1,2,2,4,0,1,0,2,1
+401925927,2027,2569,South Carolina State,2643,5460727,Clayton Everett Jr.,3,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+401925927,2027,2569,South Carolina State,2643,5177733,Braylon Jackson,5,G,False,False,False,23,4,2,10,0,5,0,0,2,2,4,1,0,0,1,1
+401925927,2027,2569,South Carolina State,2643,5317336,Teon Tindal,13,F,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2569,South Carolina State,2643,5144547,Treven Raymon,10,F,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2569,South Carolina State,2643,5179095,Mitchell Taylor,12,G,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5462486,Aaron Ekwere,8,F,True,False,False,40,13,5,9,0,1,3,6,2,4,6,4,3,3,2,3
+401925927,2027,2643,The Citadel,2569,5176299,Tyler Mrus,10,F,True,False,False,36,23,8,11,7,10,0,0,0,7,7,1,1,0,0,3
+401925927,2027,2643,The Citadel,2569,5105613,Joe Hurlburt,4,F,True,False,False,31,9,4,7,0,2,1,3,2,5,7,2,0,0,2,3
+401925927,2027,2643,The Citadel,2569,5462487,Marcus Banks,12,G,True,False,False,29,18,5,9,1,2,7,8,0,2,2,1,1,0,8,2
+401925927,2027,2643,The Citadel,2569,5176133,Eddrin Bronson,2,G,True,False,False,32,8,3,8,0,1,2,2,1,3,4,3,1,1,2,2
+401925927,2027,2643,The Citadel,2569,5314557,Logan Menefee,30,F,False,False,False,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+401925927,2027,2643,The Citadel,2569,5313193,Ramel Bethea,7,F,False,False,False,7,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1
+401925927,2027,2643,The Citadel,2569,4838705,Chase Cormier,1,G,False,False,False,24,8,3,5,2,4,0,0,0,2,2,3,1,0,1,0
+401925927,2027,2643,The Citadel,2569,5462488,Jack Seiders,24,F,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5314556,Cassius Bonjasky,25,F,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5243247,Aidan Alexander,13,F,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5462489,Yaw Ansong,35,C,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5462485,Ja'Yon Alexander,5,G,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5314550,Marcos Gonzales,3,G,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5314549,Jameson Heck,0,G,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5176173,Keynan Davis,22,G,False,True,False,,,,,,,,,,,,,,,,
+401925927,2027,2643,The Citadel,2569,5106054,Colin McKenzie,11,G,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,315,Niagara,2169,5455047,Fidel Rotta,5,F,True,False,False,21,10,4,6,0,0,2,2,2,4,6,1,1,1,2,5
+401924844,2027,315,Niagara,2169,5455051,Samuele Miccoli,13,G,True,False,False,43,19,6,14,1,5,6,9,0,0,0,6,0,0,5,2
+401924844,2027,315,Niagara,2169,5455046,Ruey Ruey,0,G,True,False,False,30,8,3,7,2,5,0,2,2,9,11,1,0,0,1,1
+401924844,2027,315,Niagara,2169,5315578,Bastien Rieber,8,G,True,False,False,21,1,0,3,0,1,1,2,0,1,1,5,1,0,2,4
+401924844,2027,315,Niagara,2169,5106806,Logan Woods,4,G,True,False,False,49,28,9,12,6,8,4,5,0,5,5,7,5,0,1,3
+401924844,2027,315,Niagara,2169,5455052,Daniel Emokhare,24,F,False,False,False,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,1
+401924844,2027,315,Niagara,2169,5455050,Brian Angeletti,12,F,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401924844,2027,315,Niagara,2169,5313195,Vukasin Todorovic,1,F,False,False,False,23,6,2,4,0,0,2,2,4,1,5,1,1,0,1,3
+401924844,2027,315,Niagara,2169,5314625,Tae Blackshear,77,G,False,False,False,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+401924844,2027,315,Niagara,2169,5175675,Trenton Walters,2,G,False,False,False,13,3,1,4,1,3,0,0,0,2,2,0,0,0,1,2
+401924844,2027,315,Niagara,2169,5108150,Cole Farrell,10,G,False,False,False,42,24,10,13,2,4,2,3,2,2,4,2,3,0,3,3
+401924844,2027,315,Niagara,2169,5455048,Noah Slingerland,6,F,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,315,Niagara,2169,5455049,Jackson Redmond,7,G,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,315,Niagara,2169,5314359,Gael Dalmau,9,G,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,5461304,Joshua Obiora,24,F,True,False,False,41,28,10,17,1,2,7,12,4,7,11,2,1,0,1,3
+401924844,2027,2169,Delaware State,315,5461300,Gideon Ekukwai,5,F,True,False,False,23,2,1,3,0,0,0,0,2,2,4,1,2,0,2,3
+401924844,2027,2169,Delaware State,315,5461302,Isaiah Sullivan,11,SG,True,False,False,50,20,6,10,5,8,3,4,1,4,5,3,1,0,2,3
+401924844,2027,2169,Delaware State,315,5176224,Nasir Muhammad,3,PG,True,False,False,49,30,10,19,4,8,6,7,0,1,1,6,1,0,3,1
+401924844,2027,2169,Delaware State,315,5323248,Anthony Parker,2,G,True,False,False,28,12,4,14,2,7,2,2,0,5,5,2,2,0,4,5
+401924844,2027,2169,Delaware State,315,5461305,Farouk Muntari,34,F,False,False,False,13,2,1,1,0,0,0,0,2,1,3,0,1,0,1,0
+401924844,2027,2169,Delaware State,315,5317275,Muazibini Adamu,35,F,False,False,False,13,1,0,0,0,0,1,3,3,0,3,1,0,0,2,1
+401924844,2027,2169,Delaware State,315,5317273,Jalen St Clair,8,G,False,False,False,20,6,2,7,0,2,2,2,1,3,4,2,0,0,1,2
+401924844,2027,2169,Delaware State,315,5176278,Dean Shepherd,22,G,False,False,False,13,0,0,0,0,0,0,0,0,0,0,2,1,0,2,3
+401924844,2027,2169,Delaware State,315,5317687,Tre Hawkins,23,F,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,5317276,Ademar Santos,37,F,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,5107296,Perry Smith Jr.,,F,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,5461301,Nehemiah Reedus,10,SG,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,5461299,Nicholas Baysah Jr.,1,G,False,True,False,,,,,,,,,,,,,,,,
+401924844,2027,2169,Delaware State,315,4592477,Rahmir Moore,0,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5313726,Stefanos Spartalis,10,F,True,False,False,31,4,2,7,0,0,0,0,2,9,11,4,3,0,1,3
+401924736,2027,2405,Monmouth,163,5311922,Stephen Osei,44,F,True,False,False,10,4,2,2,0,0,0,0,0,2,2,0,0,0,1,2
+401924736,2027,2405,Monmouth,163,5311862,Ashton Walker,1,G,True,False,False,35,27,10,17,1,3,6,10,4,7,11,1,2,0,4,3
+401924736,2027,2405,Monmouth,163,5242916,Jakai Sanders,2,G,True,False,False,13,0,0,4,0,2,0,0,0,0,0,0,0,1,0,0
+401924736,2027,2405,Monmouth,163,5107358,Madison Durr,11,G,True,False,False,28,14,4,8,1,4,5,6,0,1,1,0,0,0,1,1
+401924736,2027,2405,Monmouth,163,5459967,Stefan Marjanovic,31,F,False,False,False,12,4,1,5,0,2,2,2,0,2,2,0,0,0,0,2
+401924736,2027,2405,Monmouth,163,5327279,Dylan Perry,5,F,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401924736,2027,2405,Monmouth,163,5101818,O'Marion Harvey,8,F,False,False,False,5,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2
+401924736,2027,2405,Monmouth,163,5459965,Torrey Brooks Jr.,3,G,False,False,False,21,7,3,6,1,2,0,0,0,1,1,2,0,0,2,0
+401924736,2027,2405,Monmouth,163,5247156,Lo Walker,0,G,False,False,False,9,0,0,2,0,1,0,0,1,1,2,0,0,0,0,1
+401924736,2027,2405,Monmouth,163,5106703,Jack Collins,13,G,False,False,False,32,4,1,4,0,3,2,2,0,3,3,3,2,1,1,3
+401924736,2027,2405,Monmouth,163,5174963,Quinn Peters,42,F,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5459966,Jebron Harris,4,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5312165,Zubayr Griffin,20,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5242599,Lucas Orchard,9,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5240966,Jinup Dobuol,24,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,2405,Monmouth,163,5174961,Jack Leahy,,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5177173,Jacob Huggins,12,F,True,False,False,26,7,3,10,1,3,0,1,2,6,8,0,0,2,0,0
+401924736,2027,163,Princeton,2405,5174791,Malik Abdullahi,7,F,True,False,False,20,8,3,7,0,0,2,3,0,4,4,0,2,0,2,3
+401924736,2027,163,Princeton,2405,5459451,Christopher Kirkpatrick,30,G,True,False,False,31,22,8,15,1,3,5,7,1,3,4,0,3,0,1,1
+401924736,2027,163,Princeton,2405,5241743,Jack Stanton,21,G,True,False,False,28,13,4,5,3,4,2,2,0,1,1,3,0,0,0,3
+401924736,2027,163,Princeton,2405,5177174,Jackson Hicke,33,G,True,False,False,34,19,7,12,3,4,2,4,4,3,7,0,1,0,2,3
+401924736,2027,163,Princeton,2405,5241741,CJ Happy,4,F,False,False,False,8,1,0,2,0,1,1,2,0,0,0,1,0,0,0,1
+401924736,2027,163,Princeton,2405,5459449,Ethan Sabec,5,G,False,False,False,11,2,1,4,0,3,0,0,1,2,3,0,0,0,2,1
+401924736,2027,163,Princeton,2405,5459448,Louis O'Keefe,0,G,False,False,False,9,0,0,1,0,1,0,0,0,1,1,0,0,0,2,3
+401924736,2027,163,Princeton,2405,5241740,Peyton Seals,2,G,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401924736,2027,163,Princeton,2405,5221328,Landon Clark,8,G,False,False,False,27,3,1,3,1,3,0,0,0,2,2,2,1,0,0,3
+401924736,2027,163,Princeton,2405,5325995,Will Kutzler,11,F,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5314681,Cash McSweeney,15,F,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5236224,Jacob Hammond,24,F,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5459450,William Higgs,9,C,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5464668,Noah Cohen,10,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5314682,Sebastian Whitfield,23,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5314680,Jake Sussberg,1,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5314679,Ryan Mandes,6,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5247624,Cooper Mueller,66,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5241742,Zio Kim,22,G,False,True,False,,,,,,,,,,,,,,,,
+401924736,2027,163,Princeton,2405,5177175,Dalen Davis,3,G,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,275,Wisconsin,93,5312163,Victory Onuetu,6,F,True,False,False,12,5,2,5,0,0,1,2,2,4,6,1,1,1,5,1
+401921692,2027,275,Wisconsin,93,4895783,Nolan Winter,31,F,True,False,False,22,8,4,6,0,2,0,0,3,3,6,0,0,1,2,0
+401921692,2027,275,Wisconsin,93,5345014,Owen Foxwell,15,G,True,False,False,26,6,2,7,1,3,1,2,2,4,6,3,2,0,2,1
+401921692,2027,275,Wisconsin,93,5105820,Braeden Carrington,1,G,True,False,False,21,3,1,6,1,6,0,0,0,3,3,1,2,0,3,1
+401921692,2027,275,Wisconsin,93,5093252,Eian Elmer,55,G,True,False,False,16,2,1,5,0,1,0,0,0,2,2,1,0,1,1,2
+401921692,2027,275,Wisconsin,93,5240971,Austin Rapp,22,F,False,False,False,17,2,1,4,0,3,0,1,0,2,2,0,1,1,1,1
+401921692,2027,275,Wisconsin,93,5215270,Will Garlock,23,F,False,False,False,22,7,2,4,0,0,3,5,1,3,4,1,0,0,2,4
+401921692,2027,275,Wisconsin,93,5311267,Jackson Ball,9,G,False,False,False,22,12,5,11,2,5,0,0,0,0,0,1,1,0,0,3
+401921692,2027,275,Wisconsin,93,5252600,Hayden Jones,13,G,False,False,False,7,2,1,1,0,0,0,1,0,1,1,0,0,0,0,2
+401921692,2027,275,Wisconsin,93,5174807,Jack Janicki,5,G,False,False,False,10,6,2,5,1,3,1,1,1,0,1,0,0,0,0,0
+401921692,2027,275,Wisconsin,93,5174599,Trey Autry,0,G,False,False,False,11,0,0,4,0,2,0,0,1,1,2,0,0,0,0,0
+401921692,2027,275,Wisconsin,93,5144103,Zach Kinziger,4,G,False,False,False,14,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1
+401921692,2027,275,Wisconsin,93,5347036,Isaac Riddle,11,F,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,275,Wisconsin,93,5458627,LaTrevion Fenderson,3,G,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,275,Wisconsin,93,5458626,Josh Manchester,2,G,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,93,Murray State,275,5176311,Brigham Rogers,11,F,True,False,False,28,3,1,1,0,0,1,2,5,4,9,4,2,1,0,2
+401921692,2027,93,Murray State,275,5460757,Talis Soulhac,8,G,True,False,False,29,5,2,6,0,3,1,2,0,4,4,1,1,2,5,2
+401921692,2027,93,Murray State,275,5313873,Roman Domon,77,G,True,False,False,34,26,7,21,1,6,11,12,0,5,5,4,0,0,1,1
+401921692,2027,93,Murray State,275,5313872,Brayden Shorter,34,G,True,False,False,29,18,6,11,6,10,0,0,1,1,2,0,0,1,2,1
+401921692,2027,93,Murray State,275,5313870,Lachlan Crate,14,G,True,False,False,22,2,1,3,0,1,0,0,1,5,6,2,1,0,0,4
+401921692,2027,93,Murray State,275,5460759,Jonas Boulefaa,16,F,False,False,False,11,5,2,4,1,3,0,0,0,2,2,0,0,0,0,1
+401921692,2027,93,Murray State,275,5460758,Pavle Nikolic,9,F,False,False,False,19,0,0,2,0,0,0,0,1,2,3,0,1,1,0,2
+401921692,2027,93,Murray State,275,5460756,Mark Padjen,4,G,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921692,2027,93,Murray State,275,5313868,Mathis Courbon,2,G,False,False,False,3,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+401921692,2027,93,Murray State,275,5105578,Ben Shtolzberg,7,G,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401921692,2027,93,Murray State,275,5101808,Kaden Magwood,0,G,False,False,False,8,5,2,5,1,2,0,1,2,0,2,0,0,0,2,1
+401921692,2027,93,Murray State,275,4685650,Christian Jones,6,G,False,False,False,11,6,2,6,2,3,0,0,0,0,0,1,2,0,1,0
+401921692,2027,93,Murray State,275,5180868,Shon Tupuola,23,F,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,93,Murray State,275,5313871,Dillon Butler,25,G,False,True,False,,,,,,,,,,,,,,,,
+401921692,2027,93,Murray State,275,5237343,Navon Shabazz,13,NA,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5312903,Jacob Wassler,44,F,True,False,False,32,6,3,6,0,3,0,0,0,2,2,1,0,0,0,3
+401921107,2027,91,Bellarmine,2198,5312902,Sam Donald,23,F,True,False,False,40,24,7,14,3,7,7,7,1,7,8,2,3,0,1,1
+401921107,2027,91,Bellarmine,2198,5327895,Demarcus Surratt,5,G,True,False,False,24,8,3,6,0,1,2,2,3,4,7,3,0,0,0,1
+401921107,2027,91,Bellarmine,2198,5239763,Tyler Doyle,2,G,True,False,False,33,16,6,11,1,1,3,4,0,3,3,3,0,0,3,3
+401921107,2027,91,Bellarmine,2198,5175850,Kenyon Goodin,8,G,True,False,False,35,13,2,8,1,5,8,10,2,1,3,2,1,0,2,1
+401921107,2027,91,Bellarmine,2198,5327894,Evan Harrell,7,F,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921107,2027,91,Bellarmine,2198,5458807,Julius Gizzi,11,G,False,False,False,13,5,1,2,1,2,2,2,0,2,2,1,0,0,1,4
+401921107,2027,91,Bellarmine,2198,5312898,Tommy Clark,0,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921107,2027,91,Bellarmine,2198,5239766,Grant Neal,4,G,False,False,False,13,5,2,3,0,1,1,1,2,1,3,1,0,0,1,0
+401921107,2027,91,Bellarmine,2198,5175851,Grant Whitaker,10,G,False,False,False,9,2,1,1,0,0,0,0,0,2,2,0,0,0,0,0
+401921107,2027,91,Bellarmine,2198,5327892,Brady Klopfenstein,33,F,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5313891,Tucker Tornatta,9,F,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5312899,Ant McAfee,1,F,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5458808,Max Meagher,24,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5327893,Roland Swan,12,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,91,Bellarmine,2198,5327890,Mason Darrell,25,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5243273,Shadrak Lasu,22,F,True,False,False,32,10,4,8,0,3,2,3,1,5,6,0,1,0,1,4
+401921107,2027,2198,Eastern Kentucky,91,5239788,Yvens Paul,21,F,True,False,False,20,2,1,1,0,0,0,0,1,5,6,0,0,0,0,2
+401921107,2027,2198,Eastern Kentucky,91,5461521,Drae Vasser,2,G,True,False,False,28,22,8,14,6,11,0,0,3,1,4,2,2,0,1,4
+401921107,2027,2198,Eastern Kentucky,91,5461520,Justin McCarter,1,G,True,False,False,18,5,2,5,1,3,0,0,0,0,0,0,1,0,0,2
+401921107,2027,2198,Eastern Kentucky,91,5239657,Damone King,3,G,True,False,False,29,16,7,13,2,5,0,0,3,2,5,5,2,0,3,1
+401921107,2027,2198,Eastern Kentucky,91,5461522,Josh Lowe,4,F,False,False,False,25,3,1,5,0,4,1,4,2,1,3,0,0,2,0,1
+401921107,2027,2198,Eastern Kentucky,91,4895779,Austin Ball,14,F,False,False,False,15,7,2,9,1,5,2,2,0,4,4,0,0,1,0,3
+401921107,2027,2198,Eastern Kentucky,91,5313328,Omer Hamama,10,G,False,False,False,21,5,2,5,1,2,0,0,0,1,1,6,0,1,0,1
+401921107,2027,2198,Eastern Kentucky,91,5106707,Jackson Holt,11,G,False,False,False,12,6,1,2,1,1,3,3,0,0,0,1,0,0,2,0
+401921107,2027,2198,Eastern Kentucky,91,5461519,Duje Dujmovic,0,F,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5311966,Mouhamed Camara,12,F,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5461525,Cade Murphy,15,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5461524,Bobby Hardison,13,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5461523,Amari Owens,5,G,False,True,False,,,,,,,,,,,,,,,,
+401921107,2027,2198,Eastern Kentucky,91,5313637,Mason Miles,99,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461649,Jibbe Sicking,6,F,True,False,False,28,5,2,7,1,3,0,0,4,2,6,3,1,1,1,3
+401921007,2027,140,Kansas City,314,5175372,Sebastian Hartmann,2,F,True,False,False,30,3,1,9,0,5,1,2,2,5,7,4,1,0,1,1
+401921007,2027,140,Kansas City,314,4711295,Assane Diop,9,F,True,False,False,32,15,6,9,1,2,2,2,3,7,10,1,0,0,2,2
+401921007,2027,140,Kansas City,314,5461654,Lincoln Goodwin,20,G,True,False,False,31,19,8,15,3,6,0,0,2,3,5,1,0,0,3,2
+401921007,2027,140,Kansas City,314,5176209,Jaylen Smith,4,G,True,False,False,32,5,2,9,1,3,0,0,2,1,3,3,1,0,2,1
+401921007,2027,140,Kansas City,314,5461651,Atuka Bakhtadze,10,F,False,False,False,18,2,1,4,0,1,0,1,1,4,5,2,0,0,0,0
+401921007,2027,140,Kansas City,314,5461648,Cameron Love,5,G,False,False,False,10,3,1,1,1,1,0,0,0,0,0,1,1,0,0,2
+401921007,2027,140,Kansas City,314,5313087,Matija Samar,26,G,False,False,False,6,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+401921007,2027,140,Kansas City,314,5106684,Carl Daughtery Jr.,8,G,False,False,False,13,9,3,4,2,3,1,2,0,0,0,0,0,0,0,3
+401921007,2027,140,Kansas City,314,5461655,Raivo Butirins,21,F,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461653,Dovydas Jencius,15,F,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461652,Mykel Bruce-McCrommon,12,F,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461650,Josh Kori,7,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461647,DJ Jackson Jr.,1,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,140,Kansas City,314,5461646,Elliot Moskowitz,0,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5314484,Aiden Disu,8,F,True,False,False,29,9,3,8,0,3,3,4,0,5,5,1,0,0,3,1
+401921007,2027,314,Iona,140,5174851,Keyshawn Mitchell,22,F,True,False,False,23,13,4,10,3,5,2,4,5,3,8,2,2,1,1,1
+401921007,2027,314,Iona,140,5107259,Luke Jungers,7,F,True,False,False,22,5,1,4,1,4,2,2,0,3,3,0,0,0,0,3
+401921007,2027,314,Iona,140,5107197,Sadiku Ibine Ayo,11,F,True,False,False,14,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1
+401921007,2027,314,Iona,140,5239624,Kevon Vanderhorst,5,G,True,False,False,30,13,4,8,3,6,2,2,0,5,5,5,2,1,2,2
+401921007,2027,314,Iona,140,5311752,Alliou Fall,44,F,False,False,False,17,5,2,3,0,0,1,2,1,3,4,3,0,0,0,3
+401921007,2027,314,Iona,140,5311751,Ore Odutayo,00,F,False,False,False,33,12,4,8,2,4,2,2,2,3,5,3,0,0,1,1
+401921007,2027,314,Iona,140,5455012,Nathan Kirk,21,G,False,False,False,10,2,1,2,0,0,0,0,0,0,0,1,1,0,0,2
+401921007,2027,314,Iona,140,5455011,Oliver Sassella,13,G,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401921007,2027,314,Iona,140,5313170,Martin Kheil,95,G,False,False,False,18,3,1,5,1,5,0,0,1,0,1,0,0,0,0,0
+401921007,2027,314,Iona,140,5455013,Max Moshinski,24,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5455010,Abram Williams,10,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5455009,Micah Tannenbaum,4,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5455008,Daniel Doyle,2,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5455007,Panagiotis Lefas,1,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5311749,Oscar Hourruitiner Jr.,12,G,False,True,False,,,,,,,,,,,,,,,,
+401921007,2027,314,Iona,140,5109787,Kosy Akametu,3,G,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,2711,Western Michigan,116,5176346,Augustinas Kiudulas,11,F,True,False,False,23,16,3,9,1,4,9,12,3,1,4,2,1,0,1,5
+401920922,2027,2711,Western Michigan,116,5313558,Rob Lee Jr.,24,G,True,False,False,14,3,1,5,1,4,0,0,2,6,8,1,0,0,0,1
+401920922,2027,2711,Western Michigan,116,5243136,Jaylen Washington,0,G,True,False,False,31,6,2,6,1,4,1,2,0,2,2,2,1,0,4,2
+401920922,2027,2711,Western Michigan,116,5187519,Adam Harakow,10,G,True,False,False,28,4,2,7,0,2,0,1,3,5,8,3,1,0,2,3
+401920922,2027,2711,Western Michigan,116,5105463,Tanner Hayhurst,3,G,True,False,False,30,9,3,5,1,2,2,3,3,3,6,1,1,1,0,1
+401920922,2027,2711,Western Michigan,116,5243044,Joshua Eli,2,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+401920922,2027,2711,Western Michigan,116,5459594,Janis Jünemann,20,C,False,False,False,16,4,1,4,0,2,2,2,0,1,1,3,0,0,2,4
+401920922,2027,2711,Western Michigan,116,5459593,Ben Johnson,4,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920922,2027,2711,Western Michigan,116,5331043,Jordan Sigmon,7,G,False,False,False,11,7,3,4,0,1,1,2,0,1,1,1,0,0,0,0
+401920922,2027,2711,Western Michigan,116,5314734,Julien Gomez,13,G,False,False,False,28,20,7,12,3,8,3,5,1,3,4,0,2,0,1,1
+401920922,2027,2711,Western Michigan,116,5313530,Mason Bendinger,1,G,False,False,False,17,4,1,2,0,1,2,3,1,1,2,0,0,1,1,1
+401920922,2027,2711,Western Michigan,116,5459596,DeAaron Watkins,23,F,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,2711,Western Michigan,116,5105472,Isaac Finlinson,8,F,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,2711,Western Michigan,116,5459595,Ramere Draper,22,G,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5314337,Yakhya Diop,23,F,True,False,False,25,3,1,2,0,0,1,2,1,2,3,0,1,1,1,5
+401920922,2027,116,Mount St. Mary's,2711,5105646,Wilguens Jr. Exacte,7,F,True,False,False,33,8,2,7,1,4,3,4,2,2,4,2,0,0,0,2
+401920922,2027,116,Mount St. Mary's,2711,5242638,Abdou Khadre Kebe,9,G,True,False,False,34,21,7,11,3,6,4,4,1,9,10,0,1,0,2,1
+401920922,2027,116,Mount St. Mary's,2711,5107325,Anthony Arrington Jr.,30,G,True,False,False,25,9,4,11,1,5,0,0,1,1,2,1,2,0,2,4
+401920922,2027,116,Mount St. Mary's,2711,5101649,Redd Thompson Jr.,2,G,True,False,False,30,24,8,14,5,7,3,4,0,2,2,2,0,0,2,4
+401920922,2027,116,Mount St. Mary's,2711,5455043,Noah Limol,12,F,False,False,False,6,0,0,1,0,0,0,0,1,1,2,0,0,0,2,3
+401920922,2027,116,Mount St. Mary's,2711,5455045,Miquel Llompart,22,G,False,False,False,8,0,0,3,0,2,0,0,0,1,1,0,0,0,1,1
+401920922,2027,116,Mount St. Mary's,2711,5455040,Julien Smith,3,G,False,False,False,11,0,0,1,0,0,0,1,1,0,1,2,0,0,0,2
+401920922,2027,116,Mount St. Mary's,2711,5240584,Cade Orness,10,G,False,False,False,11,2,0,0,0,0,2,3,1,1,2,0,0,0,0,0
+401920922,2027,116,Mount St. Mary's,2711,5238163,Anastasios Rozakeas,1,G,False,False,False,17,0,0,1,0,1,0,0,0,2,2,0,1,0,0,3
+401920922,2027,116,Mount St. Mary's,2711,5455044,Crue Gard,16,F,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5455042,Ryan Brzezanski,11,F,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5255165,Liam Joyce,21,F,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5324103,Noah Rogers,5,G,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5242636,Jaxon Hartman,6,G,False,True,False,,,,,,,,,,,,,,,,
+401920922,2027,116,Mount St. Mary's,2711,5176220,Mason So,4,G,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,2545,SE Louisiana,338,5314567,Garrett Shoemaker,32,F,True,False,False,14,0,0,1,0,0,0,0,1,3,4,0,1,0,1,1
+401920818,2027,2545,SE Louisiana,338,5175027,Yanis Ndjonga,23,F,True,False,False,15,2,1,7,0,1,0,0,1,0,1,0,1,0,0,1
+401920818,2027,2545,SE Louisiana,338,5314456,Jackson Furman,1,G,True,False,False,12,5,0,2,0,2,5,5,0,0,0,0,1,0,2,5
+401920818,2027,2545,SE Louisiana,338,4845370,Tyler Rolison,3,G,True,False,False,32,18,5,12,0,3,8,12,0,3,3,1,1,0,3,4
+401920818,2027,2545,SE Louisiana,338,4433257,Quincy Allen,8,G,True,False,False,13,1,0,3,0,0,1,2,0,1,1,0,1,0,2,0
+401920818,2027,2545,SE Louisiana,338,5313154,JJ Massaquoi,5,F,False,False,False,18,5,1,5,0,0,3,6,2,0,2,0,1,0,2,1
+401920818,2027,2545,SE Louisiana,338,5313075,Ashley Sims II,2,F,False,False,False,19,2,1,3,0,1,0,0,0,1,1,2,1,0,0,0
+401920818,2027,2545,SE Louisiana,338,5313081,Daniel Akoue,10,C,False,False,False,12,0,0,1,0,1,0,0,0,1,1,0,1,4,0,1
+401920818,2027,2545,SE Louisiana,338,5462726,Haki Muhammad II,11,G,False,False,False,15,5,1,5,1,3,2,2,1,0,1,0,0,0,0,0
+401920818,2027,2545,SE Louisiana,338,5462724,Terran Perry,6,G,False,False,False,6,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0
+401920818,2027,2545,SE Louisiana,338,5313080,Gio Sanford,9,G,False,False,False,14,7,3,4,0,0,1,1,1,1,2,0,0,0,1,4
+401920818,2027,2545,SE Louisiana,338,5239833,Tybo Bailey,4,G,False,False,False,30,14,5,9,2,4,2,5,0,2,2,0,1,0,2,2
+401920818,2027,2545,SE Louisiana,338,5462725,Pablo Jimenez,7,G,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,2545,SE Louisiana,338,5314565,Cody Al-Naziat,15,G,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,2545,SE Louisiana,338,5313077,Jaheim Nyam,12,G,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,2545,SE Louisiana,338,5176191,Logan Suber,0,G,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,338,Kennesaw State,2545,5460605,Kyler Theophile,13,F,True,False,False,26,21,6,10,2,4,7,8,1,4,5,0,2,0,0,2
+401920818,2027,338,Kennesaw State,2545,5313669,Avery Thomas II,5,F,True,False,False,16,20,6,8,6,8,2,2,2,4,6,0,1,0,4,4
+401920818,2027,338,Kennesaw State,2545,5312348,Amir Taylor,23,F,True,False,False,13,5,1,2,0,1,3,4,3,2,5,2,0,0,1,3
+401920818,2027,338,Kennesaw State,2545,5312340,Jacoby Hill,0,G,True,False,False,22,13,6,7,1,2,0,0,0,3,3,2,0,0,2,4
+401920818,2027,338,Kennesaw State,2545,5460603,Levi Ball,7,NA,True,False,False,27,9,3,6,1,4,2,2,2,0,2,0,1,2,1,0
+401920818,2027,338,Kennesaw State,2545,5460606,Tobiaz Tolbert,32,F,False,False,False,5,2,1,1,0,0,0,0,1,1,2,1,0,1,2,0
+401920818,2027,338,Kennesaw State,2545,5242128,Dozie Onyirimba,30,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920818,2027,338,Kennesaw State,2545,5222134,Keriawn Berry,10,F,False,False,False,5,2,1,1,0,0,0,0,0,1,1,2,0,0,1,1
+401920818,2027,338,Kennesaw State,2545,5460604,Zyree Brown,11,G,False,False,False,11,0,0,5,0,4,0,0,0,1,1,0,1,0,0,1
+401920818,2027,338,Kennesaw State,2545,5460602,Antwane Daniels,3,G,False,False,False,18,7,2,7,1,4,2,2,1,0,1,0,5,0,0,3
+401920818,2027,338,Kennesaw State,2545,5312349,Brendan Tousignaut,24,G,False,False,False,2,3,1,3,1,2,0,0,0,1,1,0,0,0,0,0
+401920818,2027,338,Kennesaw State,2545,5312345,Kaden Rickard,4,G,False,False,False,17,3,1,5,0,2,1,2,1,2,3,5,0,0,1,1
+401920818,2027,338,Kennesaw State,2545,5176773,CJ Beaumont,1,G,False,False,False,23,2,1,1,0,0,0,0,3,6,9,0,1,0,0,2
+401920818,2027,338,Kennesaw State,2545,4848623,Kris Parker,55,G,False,False,False,14,9,3,6,0,0,3,4,0,2,2,4,2,0,2,2
+401920818,2027,338,Kennesaw State,2545,5312350,Trey Simpson,2,F,False,True,False,,,,,,,,,,,,,,,,
+401920818,2027,338,Kennesaw State,2545,5180677,Anthony Enoh,12,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5175955,Luca Ace-Nasteski,35,F,True,False,False,21,6,3,4,0,0,0,2,1,5,6,0,1,1,1,2
+401920357,2027,108,Harvard,107,5175954,Thomas Batties II,15,F,True,False,False,32,16,6,14,2,7,2,2,1,2,3,3,0,1,3,1
+401920357,2027,108,Harvard,107,5241728,Tey Barbour,8,G,True,False,False,30,13,5,8,3,5,0,0,2,3,5,4,1,0,1,1
+401920357,2027,108,Harvard,107,5241725,Ben Eisendrath,5,G,True,False,False,31,10,4,9,1,4,1,1,2,2,4,5,1,0,1,0
+401920357,2027,108,Harvard,107,5061572,Robert Hinton,4,G,True,False,False,28,9,3,13,1,5,2,2,2,2,4,2,1,1,3,2
+401920357,2027,108,Harvard,107,5313718,Ryan Sullivan,34,F,False,False,False,5,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+401920357,2027,108,Harvard,107,5309815,Julian Adigun,21,C,False,False,False,3,0,0,0,0,0,0,0,0,1,1,0,0,2,2,1
+401920357,2027,108,Harvard,107,5459512,Brandon Burrell,1,G,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920357,2027,108,Harvard,107,5313716,Frankie Mannino,10,G,False,False,False,19,2,1,3,0,2,0,0,0,2,2,1,2,1,1,3
+401920357,2027,108,Harvard,107,5308419,Jason Singleton,23,G,False,False,False,19,16,7,9,0,1,2,3,0,3,3,3,3,0,1,3
+401920357,2027,108,Harvard,107,5241729,Dutch Dowdell,12,G,False,False,False,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+401920357,2027,108,Harvard,107,5241727,Austin Hunt,7,G,False,False,False,3,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1
+401920357,2027,108,Harvard,107,5175956,Payton Pitts,24,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920357,2027,108,Harvard,107,5175953,Xavier Nesbitt,3,G,False,False,False,4,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1
+401920357,2027,108,Harvard,107,5459514,Kabir Narasimhan,31,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5313719,Avner Dror,41,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5248296,Alex Touomou,11,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5241726,Kenan Parrish,0,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5459513,Preston Merrick,13,G,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,108,Harvard,107,5313717,Joseph Quartey,18,G,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,107,Holy Cross,108,5242945,Aidan Richard,23,F,True,False,False,35,12,4,9,1,4,3,3,0,3,3,3,0,0,2,0
+401920357,2027,107,Holy Cross,108,5242944,Chuck Hare,22,F,True,False,False,23,5,1,2,0,0,3,4,1,2,3,0,0,0,2,2
+401920357,2027,107,Holy Cross,108,5461195,Jaelon Germany,21,G,True,False,False,23,4,2,4,0,0,0,0,0,3,3,4,0,0,3,1
+401920357,2027,107,Holy Cross,108,5461193,Tristen Wilson,10,G,True,False,False,36,8,3,8,1,1,1,4,0,4,4,5,1,0,1,1
+401920357,2027,107,Holy Cross,108,5461192,Kole Hanson,3,G,True,False,False,5,0,0,2,0,2,0,0,0,1,1,0,0,0,1,1
+401920357,2027,107,Holy Cross,108,5461196,Liam Rigney,35,F,False,False,False,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+401920357,2027,107,Holy Cross,108,5314486,Ethan Clark,5,F,False,False,False,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+401920357,2027,107,Holy Cross,108,5314483,Jude Haigh,2,F,False,False,False,18,6,2,4,2,3,0,0,0,2,2,1,0,0,1,1
+401920357,2027,107,Holy Cross,108,5313180,Elijah Flowers,1,F,False,False,False,13,6,3,5,0,1,0,1,1,3,4,1,3,2,1,2
+401920357,2027,107,Holy Cross,108,5176063,Declan Ryan,34,F,False,False,False,11,6,3,5,0,0,0,0,0,1,1,0,0,0,1,1
+401920357,2027,107,Holy Cross,108,5461191,Arius Alijosius,0,G,False,False,False,19,12,3,8,3,8,3,3,0,0,0,0,1,0,0,1
+401920357,2027,107,Holy Cross,108,5314487,Austin Mejia,33,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401920357,2027,107,Holy Cross,108,5252055,John St. Germain III,4,G,False,False,False,15,4,1,3,0,0,2,2,0,1,1,1,2,0,2,1
+401920357,2027,107,Holy Cross,108,5241735,Bradyn Foster,12,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,107,Holy Cross,108,5176062,Joe Nugent,30,F,False,True,False,,,,,,,,,,,,,,,,
+401920357,2027,107,Holy Cross,108,5461194,Kosi Mgbejiofor,15,C,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5105866,Sean Logan,15,F,True,False,False,31,12,4,8,0,0,4,5,3,4,7,1,0,2,2,2
+401920195,2027,2603,Saint Joseph's,2182,5458288,BJ Ranson,7,G,True,False,False,36,15,7,15,1,7,0,1,1,5,6,1,1,0,1,1
+401920195,2027,2603,Saint Joseph's,2182,5239676,Khaafiq Myers,3,G,True,False,False,35,14,5,15,1,4,3,3,2,3,5,4,2,0,3,3
+401920195,2027,2603,Saint Joseph's,2182,5236333,Austin Williford,13,G,True,False,False,25,3,1,5,0,3,1,2,3,3,6,2,3,0,0,1
+401920195,2027,2603,Saint Joseph's,2182,5142608,Jaiden Glover-Toscano,11,G,True,False,False,27,7,2,12,1,8,2,2,0,2,2,0,3,0,1,2
+401920195,2027,2603,Saint Joseph's,2182,5458289,Keoni Sacco,10,F,False,False,False,9,0,0,1,0,0,0,0,2,0,2,2,0,0,1,1
+401920195,2027,2603,Saint Joseph's,2182,5239678,Mekai Johnson,1,G,False,False,False,15,4,1,2,0,1,2,3,1,2,3,1,0,0,0,1
+401920195,2027,2603,Saint Joseph's,2182,5175690,Logan Carey,0,G,False,False,False,14,9,4,5,0,0,1,1,0,0,0,0,0,0,0,2
+401920195,2027,2603,Saint Joseph's,2182,5152730,Owen Verna,6,G,False,False,False,8,0,0,3,0,1,0,0,2,1,3,0,0,0,1,1
+401920195,2027,2603,Saint Joseph's,2182,5458290,Davis Kemper,21,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5317410,Donovan Flamer,22,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5252064,Luis Nonfon,8,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5175012,Gavin Marrs,23,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5174635,Will Lange,24,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2603,Saint Joseph's,2182,5239677,Billy Rayer,20,G,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2182,Drexel,2603,5458734,David Simonovic,4,F,True,False,False,21,14,6,10,2,5,0,0,0,2,2,1,1,0,1,4
+401920195,2027,2182,Drexel,2603,5313581,Panagiotis Pagonis,99,F,True,False,False,34,11,4,6,3,4,0,0,3,8,11,2,1,0,2,0
+401920195,2027,2182,Drexel,2603,5458733,LaDricus Pittman,3,G,True,False,False,31,19,7,13,3,7,2,3,0,1,1,5,0,0,5,1
+401920195,2027,2182,Drexel,2603,5458731,Latief Lorenzano-White,1,G,True,False,False,22,6,1,4,0,2,4,4,1,2,3,2,0,0,2,0
+401920195,2027,2182,Drexel,2603,5101666,Dillon Tingler,23,G,True,False,False,22,10,3,4,3,4,1,2,0,4,4,1,2,2,2,2
+401920195,2027,2182,Drexel,2603,5239626,Ralph Akuta,33,F,False,False,False,5,0,0,0,0,0,0,0,2,2,4,1,0,1,0,1
+401920195,2027,2182,Drexel,2603,5239625,Clem Edomwonyin,6,F,False,False,False,14,8,4,6,0,0,0,1,1,3,4,1,1,1,0,3
+401920195,2027,2182,Drexel,2603,5458736,Adrian Petkovic,15,G,False,False,False,15,3,1,5,1,4,0,0,0,2,2,2,1,0,1,0
+401920195,2027,2182,Drexel,2603,5458732,BJ Brown Jr.,2,G,False,False,False,12,2,0,2,0,2,2,2,0,1,1,1,0,0,0,1
+401920195,2027,2182,Drexel,2603,5105544,Amaree Abram,30,G,False,False,False,24,2,1,6,0,1,0,0,2,2,4,4,0,1,1,1
+401920195,2027,2182,Drexel,2603,5312145,Martin de LaPorterie,11,F,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2182,Drexel,2603,5458735,Rickey Paulding III,13,G,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2182,Drexel,2603,5239623,Josh Reed,5,G,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2182,Drexel,2603,5105783,Max Davis,25,G,False,True,False,,,,,,,,,,,,,,,,
+401920195,2027,2182,Drexel,2603,5060723,Moses Hipps,0,G,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,2681,Wagner,120,5242925,Tajae Jones,7,F,True,False,False,25,7,3,8,0,0,1,1,3,2,5,2,0,1,0,4
+401916299,2027,2681,Wagner,120,5108720,Kareem Watson,13,F,True,False,False,27,14,4,8,3,5,3,4,0,3,3,0,0,0,2,2
+401916299,2027,2681,Wagner,120,5102797,Youssouf Singare,24,C,True,False,False,24,2,1,1,0,0,0,0,0,2,2,0,1,0,2,4
+401916299,2027,2681,Wagner,120,5243021,Taj Bryant,1,G,True,False,False,29,6,2,7,1,2,1,2,0,3,3,1,2,0,2,1
+401916299,2027,2681,Wagner,120,5174619,Cam Estevez,3,G,True,False,False,26,10,4,13,2,8,0,0,0,0,0,0,1,0,3,1
+401916299,2027,2681,Wagner,120,5461415,Freddy Hassan,9,F,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401916299,2027,2681,Wagner,120,5241720,AJ Rodriguez,8,F,False,False,False,17,0,0,4,0,2,0,1,2,1,3,0,1,0,1,1
+401916299,2027,2681,Wagner,120,5174289,William Patterson Jr.,2,C,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+401916299,2027,2681,Wagner,120,5461416,Gavin Edwards,10,G,False,False,False,13,2,1,2,0,0,0,0,0,2,2,1,0,0,2,2
+401916299,2027,2681,Wagner,120,5461414,Jaren Curtis,0,G,False,False,False,13,0,0,4,0,2,0,0,2,0,2,0,0,0,1,1
+401916299,2027,2681,Wagner,120,5239544,Ryan Pettis,6,G,False,False,False,20,4,1,3,0,1,2,3,1,1,2,0,0,0,0,1
+401916299,2027,2681,Wagner,120,5461417,Daye Kaba,11,F,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,2681,Wagner,120,5240286,Baron Smith Jr.,5,C,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,2681,Wagner,120,5314797,Laymen McGrady,4,G,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,120,Maryland,2681,5315585,Tomislav Buljan,23,F,True,False,False,23,7,2,4,0,1,3,4,2,2,4,0,2,0,3,3
+401916299,2027,120,Maryland,2681,5105823,Pharrel Payne,21,F,True,False,False,26,25,9,11,0,0,7,11,5,8,13,1,0,4,2,2
+401916299,2027,120,Maryland,2681,5176039,Mike McNair Jr.,20,G,True,False,False,19,1,0,4,0,4,1,2,1,2,3,1,2,0,1,1
+401916299,2027,120,Maryland,2681,5144378,Andre Mills,7,G,True,False,False,26,13,5,11,3,7,0,0,1,3,4,0,2,1,1,3
+401916299,2027,120,Maryland,2681,4683777,DJ Wagner,2,G,True,False,False,26,2,1,5,0,3,0,0,0,2,2,4,1,0,1,0
+401916299,2027,120,Maryland,2681,5308448,Adama Tambedou,14,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401916299,2027,120,Maryland,2681,5210434,Baba Oladotun,10,F,False,False,False,14,7,2,2,2,2,1,2,0,1,1,1,0,0,1,0
+401916299,2027,120,Maryland,2681,5144526,Austin Brown,1,F,False,False,False,11,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+401916299,2027,120,Maryland,2681,5106286,Robert Jennings II,25,F,False,False,False,11,2,1,2,0,0,0,0,0,1,1,0,0,1,0,2
+401916299,2027,120,Maryland,2681,5311974,Guillermo Del Pino,18,G,False,False,False,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+401916299,2027,120,Maryland,2681,5142725,Kaden House,8,G,False,False,False,19,5,1,4,0,2,3,4,0,2,2,2,1,0,2,0
+401916299,2027,120,Maryland,2681,5101648,Bishop Boswell,12,G,False,False,False,19,0,0,1,0,1,0,0,0,2,2,1,0,0,3,2
+401916299,2027,120,Maryland,2681,5037877,George Turkson Jr.,11,G,False,False,False,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401916299,2027,120,Maryland,2681,5456488,Alex K'Medehouto,24,C,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,120,Maryland,2681,5240005,Maban Jabriel,9,G,False,True,False,,,,,,,,,,,,,,,,
+401916299,2027,120,Maryland,2681,5181259,Lukas Sotell,30,G,False,True,False,,,,,,,,,,,,,,,,
+401909709,2027,2117,Central Michigan,221,5241663,Keenan Garner,13,F,True,False,False,27,10,4,8,1,3,1,4,4,5,9,0,1,0,2,4
+401909709,2027,2117,Central Michigan,221,5191367,Conrad Luczynski,55,C,True,False,False,23,14,6,8,0,0,2,2,0,8,8,3,1,1,1,1
+401909709,2027,2117,Central Michigan,221,5313258,Jaxson Whitaker,3,G,True,False,False,24,6,2,4,2,4,0,0,0,3,3,0,0,0,1,1
+401909709,2027,2117,Central Michigan,221,5313257,Jalen Kampen,2,G,True,False,False,22,6,2,8,2,4,0,0,0,2,2,0,1,0,0,3
+401909709,2027,2117,Central Michigan,221,5239560,Phat Phat Brooks,10,G,True,False,False,28,19,7,16,1,5,4,4,1,2,3,7,2,0,2,4
+401909709,2027,2117,Central Michigan,221,5455106,Jake Bascom,24,F,False,False,False,8,2,1,1,0,0,0,0,0,0,0,1,0,0,2,3
+401909709,2027,2117,Central Michigan,221,5455104,Brock Mendoza,21,C,False,False,False,14,0,0,2,0,0,0,0,1,2,3,1,0,0,2,2
+401909709,2027,2117,Central Michigan,221,5313259,Kareem Aburashed,4,C,False,False,False,5,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1
+401909709,2027,2117,Central Michigan,221,5455105,Jacob Wrencher,23,G,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401909709,2027,2117,Central Michigan,221,5455103,Jayden Hackett,20,G,False,False,False,12,13,5,6,3,4,0,0,0,1,1,0,1,0,0,2
+401909709,2027,2117,Central Michigan,221,5455102,Tyre Acuff,11,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401909709,2027,2117,Central Michigan,221,5313255,Uchenna Amene,0,G,False,False,False,12,9,3,6,0,2,3,3,2,1,3,2,0,0,2,3
+401909709,2027,2117,Central Michigan,221,5177741,Jayson Petty,5,G,False,False,False,19,3,1,4,0,3,1,2,0,2,2,2,0,0,2,3
+401909709,2027,2117,Central Michigan,221,5455107,Travis Ambrose,40,F,False,True,False,,,,,,,,,,,,,,,,
+401909709,2027,2117,Central Michigan,221,5313256,Nsikan Usen,1,F,False,True,False,,,,,,,,,,,,,,,,
+401909709,2027,221,Pittsburgh,2117,5174559,Akir Souare,4,F,True,False,False,21,4,2,6,0,0,0,3,2,8,10,1,0,1,1,3
+401909709,2027,221,Pittsburgh,2117,5142356,Baye Ndongo,11,F,True,False,False,32,30,11,16,1,1,7,9,4,5,9,0,3,1,0,1
+401909709,2027,221,Pittsburgh,2117,5174557,Naithan George,2,G,True,False,False,32,20,6,12,3,7,5,7,0,4,4,7,4,1,4,2
+401909709,2027,221,Pittsburgh,2117,5106775,A'lahn Sumler,3,G,True,False,False,33,4,1,6,1,3,1,2,0,2,2,5,1,1,0,1
+401909709,2027,221,Pittsburgh,2117,5101669,Jonathan Powell,0,G,True,False,False,31,24,8,11,5,7,3,4,0,3,3,1,0,1,0,1
+401909709,2027,221,Pittsburgh,2117,5322518,Kraig Gilbert,33,F,False,False,False,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+401909709,2027,221,Pittsburgh,2117,5313085,Timofei Rudovskii,99,F,False,False,False,2,3,0,0,0,0,3,3,1,0,1,0,0,0,0,0
+401909709,2027,221,Pittsburgh,2117,5262996,Dominique Diomande,25,F,False,False,False,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401909709,2027,221,Pittsburgh,2117,5144530,Chase Foster,7,F,False,False,False,17,5,1,5,0,2,3,3,1,3,4,0,1,0,1,4
+401909709,2027,221,Pittsburgh,2117,4917161,Armani Mighty,26,C,False,False,False,6,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+401909709,2027,221,Pittsburgh,2117,5196882,Macari Moore,21,G,False,False,False,2,2,1,1,0,0,0,0,0,0,0,0,3,0,0,0
+401909709,2027,221,Pittsburgh,2117,5144501,Jermal Jones,13,G,False,False,False,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0
+401909709,2027,221,Pittsburgh,2117,5101656,Jalil Bethea,1,G,False,False,False,17,12,3,5,2,3,4,4,0,0,0,0,1,0,0,2
+401909709,2027,221,Pittsburgh,2117,5174567,Jajuan Nelson,44,F,False,True,False,,,,,,,,,,,,,,,,
+401909709,2027,221,Pittsburgh,2117,5174566,Benjamin Mayhew,35,F,False,True,False,,,,,,,,,,,,,,,,
+401909709,2027,221,Pittsburgh,2117,5240419,Colin Hawkins,23,G,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5324067,Ethan Mays,13,F,True,False,False,33,9,1,5,0,0,7,8,1,1,2,0,2,0,3,3
+401917903,2027,2488,Paine,2698,5324062,Na'jai Moody,2,F,True,False,False,13,2,0,2,0,1,2,2,1,4,5,0,0,0,1,5
+401917903,2027,2488,Paine,2698,5324061,Martaz Owens,1,G,True,False,False,29,7,2,7,1,4,2,3,0,2,2,0,0,1,1,3
+401917903,2027,2488,Paine,2698,5181922,Jeray Randall Jr.,12,G,True,False,False,25,1,0,8,0,6,1,2,0,3,3,1,3,0,3,1
+401917903,2027,2488,Paine,2698,5181476,Arturo Overton,3,G,True,False,False,22,15,5,12,0,3,5,7,0,1,1,0,1,0,2,2
+401917903,2027,2488,Paine,2698,5466389,Enkindu Anthony,33,F,False,False,False,16,2,1,2,0,0,0,1,2,2,4,1,1,0,2,4
+401917903,2027,2488,Paine,2698,5466388,Landon Hawkins,21,F,False,False,False,11,2,1,3,0,0,0,0,0,1,1,1,1,0,2,2
+401917903,2027,2488,Paine,2698,5324072,Dontae Walters Jr.,24,C,False,False,False,16,4,1,3,0,1,2,2,1,1,2,1,1,0,0,2
+401917903,2027,2488,Paine,2698,5479846,Sean Alicea,10,G,False,False,False,12,7,2,7,0,1,3,4,1,1,2,0,2,0,1,0
+401917903,2027,2488,Paine,2698,5466387,William Simmons,20,G,False,False,False,10,2,0,4,0,1,2,2,1,0,1,0,0,0,3,0
+401917903,2027,2488,Paine,2698,5326811,Landen Quimbley,22,G,False,False,False,13,5,2,5,0,2,1,1,0,2,2,0,1,0,1,0
+401917903,2027,2488,Paine,2698,5466390,Aissacc Germany,50,F,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5466386,Kristian Hodges,15,F,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5114039,Jordan Edmond,5,F,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5324071,Jesiah Justice,4,G,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5324069,Antoine Youmans,11,G,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5324065,Jaylen Dopson,10,G,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2488,Paine,2698,5324060,Curtis Phillips,0,G,False,True,False,,,,,,,,,,,,,,,,
+401917903,2027,2698,West Georgia,2488,5240033,Kenneth Chime,22,PF,True,False,False,14,8,3,6,0,0,2,3,1,3,4,1,0,2,1,0
+401917903,2027,2698,West Georgia,2488,5460814,Aleix Sempere,32,F,True,False,False,13,13,5,8,0,0,3,5,0,4,4,0,2,0,0,1
+401917903,2027,2698,West Georgia,2488,5239886,Micah Smith,11,F,True,False,False,11,8,3,3,1,1,1,1,0,3,3,4,1,1,1,2
+401917903,2027,2698,West Georgia,2488,5243093,Justin Redmond,13,G,True,False,False,17,12,3,5,2,4,4,4,1,3,4,5,3,0,1,3
+401917903,2027,2698,West Georgia,2488,5241000,Chas Lewless,2,G,True,False,False,18,10,4,5,2,3,0,0,0,0,0,1,0,1,2,3
+401917903,2027,2698,West Georgia,2488,5460815,Jaylin Sweat,35,F,False,False,False,6,2,1,3,0,0,0,0,0,1,1,0,0,0,2,1
+401917903,2027,2698,West Georgia,2488,5240031,Sam Maynard,14,F,False,False,False,6,5,2,4,0,0,1,2,2,2,4,1,0,0,1,0
+401917903,2027,2698,West Georgia,2488,5240026,Xavier Shegog,3,F,False,False,False,11,5,2,4,0,0,1,4,2,0,2,2,1,0,1,2
+401917903,2027,2698,West Georgia,2488,5176447,David Simon,4,F,False,False,False,10,7,3,4,0,1,1,4,4,0,4,0,0,2,3,0
+401917903,2027,2698,West Georgia,2488,5114447,Marshal Destremau,21,F,False,False,False,20,15,5,12,1,3,4,4,9,9,18,4,0,0,1,3
+401917903,2027,2698,West Georgia,2488,5460812,TJ Farrington,0,PG,False,False,False,13,7,2,7,2,6,1,2,2,0,2,0,1,0,2,2
+401917903,2027,2698,West Georgia,2488,5460813,Juaquin Dixon,1,G,False,False,False,20,5,2,6,1,2,0,0,1,3,4,1,0,1,1,1
+401917903,2027,2698,West Georgia,2488,5240035,Cameron Merritt,30,G,False,False,False,7,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0
+401917903,2027,2698,West Georgia,2488,5240032,Max Young,20,G,False,False,False,9,3,1,3,1,3,0,0,0,0,0,0,0,0,0,2
+401917903,2027,2698,West Georgia,2488,5239633,Amir Williams,12,G,False,False,False,12,2,1,4,0,3,0,0,0,3,3,2,1,0,2,1
+401917903,2027,2698,West Georgia,2488,5105972,Lou Hutchinson III,24,G,False,False,False,13,3,0,4,0,3,3,3,0,2,2,1,2,0,0,1
+401925865,2027,202,Tulsa,344,5239618,Macon Emory,15,F,True,False,False,20,2,0,3,0,3,2,2,0,2,2,0,0,0,0,3
+401925865,2027,202,Tulsa,344,5176765,Chris Loofe,13,F,True,False,False,16,2,1,1,0,0,0,0,1,3,4,2,0,2,3,4
+401925865,2027,202,Tulsa,344,5254171,Jaylen Lawal,2,G,True,False,False,27,4,1,9,0,5,2,2,1,1,2,0,1,0,3,3
+401925865,2027,202,Tulsa,344,5190926,Kobi Williams,0,G,True,False,False,27,13,4,11,2,8,3,4,2,3,5,1,3,0,3,4
+401925865,2027,202,Tulsa,344,5176734,Myles Rigsby,4,G,True,False,False,32,9,4,9,0,2,1,2,2,5,7,4,1,1,0,0
+401925865,2027,202,Tulsa,344,5458760,Derelle Desire,9,F,False,False,False,8,2,1,2,0,0,0,0,1,0,1,0,0,1,0,0
+401925865,2027,202,Tulsa,344,5311956,Aleksa Dimitrijevic,27,F,False,False,False,9,2,1,2,0,1,0,0,1,0,1,0,0,0,0,1
+401925865,2027,202,Tulsa,344,5105795,Kaleb Banks,6,F,False,False,False,21,6,3,6,0,1,0,2,4,2,6,0,0,0,2,5
+401925865,2027,202,Tulsa,344,5327866,Denton Forsythe,3,G,False,False,False,7,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1
+401925865,2027,202,Tulsa,344,5174319,Mike Williams III,5,G,False,False,False,11,0,0,4,0,3,0,0,0,1,1,1,1,0,2,0
+401925865,2027,202,Tulsa,344,4711262,Jeremiah Johnson,10,G,False,False,False,22,21,7,9,2,2,5,7,0,3,3,1,0,0,1,1
+401925865,2027,202,Tulsa,344,5313654,Brent Moss,1,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,202,Tulsa,344,5313567,Leon Sifferlin,8,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,202,Tulsa,344,5240910,Carter Benton,33,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,202,Tulsa,344,5240386,Cal Conroy,7,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,5316047,Thomas Bassong,21,F,True,False,False,22,8,2,5,0,1,4,8,0,1,1,0,2,2,1,1
+401925865,2027,344,Mississippi State,202,5105538,Kimani Hamilton,5,F,True,False,False,31,11,2,5,1,1,6,8,4,6,10,1,1,0,0,4
+401925865,2027,344,Mississippi State,202,5105588,ND Okafor,22,C,True,False,False,19,6,3,6,0,0,0,0,2,1,3,0,0,2,0,1
+401925865,2027,344,Mississippi State,202,5176186,RJ Johnson,11,G,True,False,False,32,14,6,8,0,1,2,2,0,5,5,0,1,0,3,1
+401925865,2027,344,Mississippi State,202,4895740,Josh Hubbard,12,G,True,False,False,36,19,7,15,1,7,4,6,1,2,3,4,6,0,3,2
+401925865,2027,344,Mississippi State,202,5311935,Kendyl Sanders,13,F,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+401925865,2027,344,Mississippi State,202,5210911,Tristan Reed,33,C,False,False,False,13,2,1,1,0,0,0,0,1,1,2,0,0,0,2,4
+401925865,2027,344,Mississippi State,202,5308439,Jalyn Collingwood,0,G,False,False,False,7,2,1,2,0,0,0,2,1,1,2,0,1,0,1,2
+401925865,2027,344,Mississippi State,202,5239637,Tajuan Simpkins,2,G,False,False,False,18,4,1,6,0,4,2,2,0,1,1,1,0,0,0,0
+401925865,2027,344,Mississippi State,202,5142708,King Grace,1,G,False,False,False,16,6,2,7,0,2,2,2,0,3,3,0,0,0,0,1
+401925865,2027,344,Mississippi State,202,5455244,Trevor Reed,9,F,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,5101830,Tee Bartlett,3,C,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,4685688,Gai Chol,34,C,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,5258493,Willie Burnett III,99,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,5101848,Ashton Magee,24,G,False,True,False,,,,,,,,,,,,,,,,
+401925865,2027,344,Mississippi State,202,5101824,Cameren Paul,8,G,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,250,UT Arlington,2466,5196939,Niko Bundalo,11,F,True,False,False,29,17,5,8,0,1,7,10,1,6,7,0,0,2,2,1
+401925080,2027,250,UT Arlington,2466,5061587,Miles Goodman,5,F,True,False,False,5,0,0,0,0,0,0,0,0,1,1,0,0,1,1,3
+401925080,2027,250,UT Arlington,2466,5460835,Tristan Hankins,4,G,True,False,False,35,18,6,10,2,5,4,4,1,4,5,5,1,0,6,3
+401925080,2027,250,UT Arlington,2466,5175711,Mier Panoam,3,G,True,False,False,36,9,3,12,1,3,2,2,0,3,3,3,1,0,3,2
+401925080,2027,250,UT Arlington,2466,4823977,Noah Shelby,2,G,True,False,False,28,9,3,7,3,5,0,0,0,6,6,0,0,0,2,1
+401925080,2027,250,UT Arlington,2466,5460838,Teodor Simic,15,F,False,False,False,14,2,1,6,0,0,0,0,3,1,4,2,0,1,0,2
+401925080,2027,250,UT Arlington,2466,5243189,Tycen McDaniels,8,F,False,False,False,26,12,4,5,0,0,4,4,2,6,8,0,0,4,4,1
+401925080,2027,250,UT Arlington,2466,5144529,Trevaun Clark,0,F,False,False,False,15,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+401925080,2027,250,UT Arlington,2466,5460836,Jerimiyah Smith,7,G,False,False,False,7,2,1,1,0,0,0,0,0,1,1,0,0,0,0,2
+401925080,2027,250,UT Arlington,2466,5460834,Kajus Mikalauskas,1,G,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+401925080,2027,250,UT Arlington,2466,5241453,Stoney Hadnot,21,F,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,250,UT Arlington,2466,5239674,Bryson McGlothin,35,F,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,250,UT Arlington,2466,5460839,Josh Montgomery,16,G,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,250,UT Arlington,2466,5460837,Jayden Parker,10,G,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,2466,Northwestern State,250,5462709,Isaiah Vick,1,F,True,False,False,32,6,2,6,1,3,1,2,1,5,6,0,0,0,0,4
+401925080,2027,2466,Northwestern State,250,5314538,Kordrick Turner,23,F,True,False,False,24,10,5,8,0,0,0,2,2,2,4,3,0,0,2,1
+401925080,2027,2466,Northwestern State,250,5462712,Antoine Almuttar,5,G,True,False,False,34,2,1,7,0,3,0,0,2,1,3,2,8,0,1,3
+401925080,2027,2466,Northwestern State,250,5462711,Kai Simpson,4,G,True,False,False,35,18,5,19,1,5,7,12,1,3,4,1,0,0,0,2
+401925080,2027,2466,Northwestern State,250,5176781,Izzy Miles,0,G,True,False,False,15,8,2,5,1,1,3,4,0,0,0,1,0,0,2,0
+401925080,2027,2466,Northwestern State,250,5462710,Cam Kelly,2,F,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401925080,2027,2466,Northwestern State,250,5176392,Nathan Ojukwu,13,F,False,False,False,12,5,2,4,1,2,0,0,1,0,1,2,2,0,0,4
+401925080,2027,2466,Northwestern State,250,5176190,Arne Osojnik,3,F,False,False,False,13,0,0,5,0,3,0,0,2,2,4,0,2,0,0,1
+401925080,2027,2466,Northwestern State,250,5107301,Dionjahe Thomas,8,F,False,False,False,16,10,3,7,0,0,4,8,5,1,6,0,1,0,0,0
+401925080,2027,2466,Northwestern State,250,5462716,Armon Almuttar,22,G,False,False,False,14,3,1,2,1,1,0,0,0,1,1,0,0,0,0,4
+401925080,2027,2466,Northwestern State,250,5462713,Doyle Brown,11,G,False,False,False,5,0,0,3,0,2,0,0,1,0,1,0,1,0,1,0
+401925080,2027,2466,Northwestern State,250,5462715,Jayden Nesbitt,15,F,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,2466,Northwestern State,250,5462714,Boogii Remo,12,G,False,True,False,,,,,,,,,,,,,,,,
+401925080,2027,2466,Northwestern State,250,5314536,CJ Larry,10,G,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2294,Iowa,2752,4873203,Cooper Koch,8,F,True,False,False,37,8,3,7,2,5,0,0,0,7,7,3,1,0,1,2
+401909545,2027,2294,Iowa,2752,5176481,Andrew McKeever,45,C,True,False,False,4,2,1,3,0,0,0,0,1,0,1,1,0,0,0,0
+401909545,2027,2294,Iowa,2752,5311842,Tate Sage,24,G,True,False,False,30,9,4,7,1,2,0,0,1,4,5,2,1,0,1,3
+401909545,2027,2294,Iowa,2752,5241366,Isaia Howard,23,G,True,False,False,35,24,9,12,5,6,1,2,1,7,8,5,3,0,0,1
+401909545,2027,2294,Iowa,2752,5176280,Kael Combs,11,G,True,False,False,31,9,4,7,0,0,1,1,1,1,2,7,0,1,1,1
+401909545,2027,2294,Iowa,2752,5176283,Cam Manyawu,3,F,False,False,False,4,0,0,1,0,0,0,2,0,0,0,2,1,0,0,0
+401909545,2027,2294,Iowa,2752,5311843,Trevin Jirak,27,C,False,False,False,31,21,8,10,4,5,1,1,0,1,1,4,2,3,3,3
+401909545,2027,2294,Iowa,2752,5326291,Jaidyn Coon,6,G,False,False,False,6,4,2,2,0,0,0,0,1,0,1,0,0,0,0,4
+401909545,2027,2294,Iowa,2752,5313853,Ty'Reek Coleman,1,G,False,False,False,13,3,1,3,1,1,0,0,1,4,5,5,0,0,2,1
+401909545,2027,2294,Iowa,2752,5311840,Peyton McCollum,5,G,False,False,False,9,3,1,3,1,3,0,0,0,0,0,0,0,0,0,0
+401909545,2027,2294,Iowa,2752,5311841,Trey Thompson,20,F,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2294,Iowa,2752,5241367,Joey Matteoni,44,F,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2294,Iowa,2752,5308447,Ethan Harris,0,G,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2294,Iowa,2752,5239551,Jacob Koch,10,G,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5241369,Gabriel Pozzato,0,F,True,False,False,20,0,0,5,0,2,0,1,4,0,4,1,0,0,1,1
+401909545,2027,2752,Xavier,2294,5105569,Filip Borovicanin,4,F,True,False,False,21,1,0,4,0,1,1,2,2,1,3,5,0,0,0,2
+401909545,2027,2752,Xavier,2294,5101673,Jovan Milicevic,24,F,True,False,False,31,11,4,12,3,10,0,0,2,2,4,0,2,0,1,0
+401909545,2027,2752,Xavier,2294,4895795,Mike Nwoko,1,F,True,False,False,24,21,7,10,4,5,3,5,3,4,7,0,0,0,2,3
+401909545,2027,2752,Xavier,2294,4845368,Tru Washington,3,G,True,False,False,29,9,3,12,2,4,1,1,2,1,3,5,2,0,2,1
+401909545,2027,2752,Xavier,2294,5326563,Asher Elson,7,F,False,False,False,3,2,0,0,0,0,2,2,1,0,1,0,0,0,0,0
+401909545,2027,2752,Xavier,2294,5241417,Rolyns Aligbe,8,F,False,False,False,16,7,2,4,1,3,2,2,1,5,6,1,1,0,1,0
+401909545,2027,2752,Xavier,2294,5175001,Nikos Chitikoudis,16,F,False,False,False,6,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+401909545,2027,2752,Xavier,2294,5311530,Ruben Dominguez,9,G,False,False,False,13,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0
+401909545,2027,2752,Xavier,2294,5144468,Kalek House,2,G,False,False,False,20,3,1,4,1,3,0,0,0,3,3,4,2,0,1,1
+401909545,2027,2752,Xavier,2294,4683680,Chance Westry,11,G,False,False,False,17,11,5,8,1,2,0,0,1,0,1,1,0,0,1,0
+401909545,2027,2752,Xavier,2294,5455812,Harrison Aligbe,6,F,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5240541,Henry Thole,20,F,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5315032,Kason Westphal,15,C,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5337597,Gedeon Basson,17,G,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5107781,Braden Appelhans,12,G,False,True,False,,,,,,,,,,,,,,,,
+401909545,2027,2752,Xavier,2294,5105608,Michael Wolf,25,G,False,True,False,,,,,,,,,,,,,,,,
+401935675,2027,110418,West Coast Baptist,2492,5320753,Isaias Salgado,7,PG,True,False,False,38,12,5,12,0,4,2,2,1,1,2,3,0,0,0,2
+401935675,2027,110418,West Coast Baptist,2492,5464987,Cayden Penha,20,G,True,False,False,23,12,5,10,2,5,0,0,1,1,2,0,0,0,1,0
+401935675,2027,110418,West Coast Baptist,2492,5464986,AmenEL Tadasse,13,G,True,False,False,31,6,1,12,0,8,4,4,0,1,1,0,1,0,1,3
+401935675,2027,110418,West Coast Baptist,2492,5464984,Aaron Blake,5,G,True,False,False,23,7,1,5,1,3,4,6,1,3,4,0,0,0,3,3
+401935675,2027,110418,West Coast Baptist,2492,5464982,Jacob Winkelman,3,G,True,False,False,18,8,4,11,0,5,0,0,0,0,0,1,1,0,1,2
+401935675,2027,110418,West Coast Baptist,2492,5464988,Isaiah Trujillo,21,F,False,False,False,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401935675,2027,110418,West Coast Baptist,2492,5464989,Grady Youngren,22,G,False,False,False,8,0,0,1,0,1,0,0,0,1,1,2,0,0,0,1
+401935675,2027,110418,West Coast Baptist,2492,5464983,Devontrel Jackson,4,G,False,False,False,19,3,1,3,0,0,1,2,0,0,0,1,2,0,0,3
+401935675,2027,110418,West Coast Baptist,2492,5464980,Isaiah Dolloso,0,G,False,False,False,17,6,3,11,0,2,0,0,0,1,1,0,1,0,3,0
+401935675,2027,110418,West Coast Baptist,2492,5320758,Anthony Jackson,10,G,False,False,False,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401935675,2027,110418,West Coast Baptist,2492,5464985,Bryce Benavidez,8,G,False,True,False,,,,,,,,,,,,,,,,
+401935675,2027,110418,West Coast Baptist,2492,5464981,Semaj Morrison,1,G,False,True,False,,,,,,,,,,,,,,,,
+401935675,2027,2492,Pepperdine,110418,5238187,Petar Majstorovic,3,F,True,False,False,6,4,2,2,0,0,0,2,0,1,1,3,0,0,0,0
+401935675,2027,2492,Pepperdine,110418,5143921,Anthony Robinson,21,F,True,False,False,6,9,4,4,0,0,1,2,0,1,1,0,0,1,0,0
+401935675,2027,2492,Pepperdine,110418,5184903,Evan Haywood,5,G,True,False,False,7,9,3,3,3,3,0,0,0,1,1,2,0,1,0,0
+401935675,2027,2492,Pepperdine,110418,5176400,Jahari Williamson,99,G,True,False,False,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401935675,2027,2492,Pepperdine,110418,4433275,Will McClendon,2,G,True,False,False,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401935675,2027,2492,Pepperdine,110418,5458422,Oliver Kanden,14,F,False,False,False,22,6,2,5,2,4,0,0,1,7,8,0,0,0,0,4
+401935675,2027,2492,Pepperdine,110418,5458420,Faruk Biberovic,8,F,False,False,False,12,11,4,5,1,2,2,2,0,2,2,0,2,0,0,0
+401935675,2027,2492,Pepperdine,110418,5142712,Alex Constanza,23,F,False,False,False,19,20,8,9,4,5,0,1,0,4,4,4,0,0,3,2
+401935675,2027,2492,Pepperdine,110418,5106628,Ethan Meuser,22,F,False,False,False,29,10,3,4,1,1,3,4,2,4,6,7,1,2,1,2
+401935675,2027,2492,Pepperdine,110418,5458421,Colin Chou,11,G,False,False,False,11,10,4,6,2,4,0,0,0,1,1,1,0,0,0,1
+401935675,2027,2492,Pepperdine,110418,5458418,Oren Sahar,0,G,False,False,False,28,12,5,5,2,2,0,0,1,6,7,8,0,1,2,3
+401935675,2027,2492,Pepperdine,110418,5314740,Anto Balian,25,G,False,False,False,27,22,7,8,4,5,4,4,1,6,7,13,2,0,1,3
+401935675,2027,2492,Pepperdine,110418,5105456,David Mager,1,G,False,False,False,30,27,9,12,3,6,6,6,1,6,7,0,2,0,0,0
+401935675,2027,2492,Pepperdine,110418,5107178,Youri Fritz,9,F,False,True,False,,,,,,,,,,,,,,,,
+401935675,2027,2492,Pepperdine,110418,5458419,Dontae Russo-Nance,4,G,False,True,False,,,,,,,,,,,,,,,,
+401929459,2027,6,South Alabama,2567,5313205,Peyton Law,9,F,True,False,False,17,4,2,5,0,2,0,0,0,1,1,1,1,0,1,2
+401929459,2027,6,South Alabama,2567,5313202,Stephen Williams,4,F,True,False,False,28,7,3,9,0,0,1,2,2,5,7,2,1,0,1,2
+401929459,2027,6,South Alabama,2567,5461609,Diego Roman,13,G,True,False,False,18,3,1,4,0,0,1,2,0,2,2,1,0,0,2,3
+401929459,2027,6,South Alabama,2567,5461606,Jalen Langsy,1,G,True,False,False,33,22,9,17,4,8,0,0,0,2,2,2,0,0,2,0
+401929459,2027,6,South Alabama,2567,5313201,Samuel Shoptaw,0,G,True,False,False,24,2,1,6,0,1,0,0,1,0,1,4,1,0,2,1
+401929459,2027,6,South Alabama,2567,5461612,Alexey Sereda,35,F,False,False,False,6,3,1,2,0,1,1,3,0,1,1,0,0,0,0,1
+401929459,2027,6,South Alabama,2567,5461610,Keyne Costa,20,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401929459,2027,6,South Alabama,2567,5461607,Lenni Kunzewitsch,6,F,False,False,False,21,0,0,2,0,2,0,0,0,2,2,1,0,0,0,0
+401929459,2027,6,South Alabama,2567,5316281,Roderick Williams Jr.,10,F,False,False,False,28,6,3,6,0,1,0,0,3,5,8,0,1,0,2,0
+401929459,2027,6,South Alabama,2567,5313204,Desmond Williams,3,G,False,False,False,14,7,3,3,1,1,0,1,0,2,2,3,0,0,2,1
+401929459,2027,6,South Alabama,2567,5250439,Aedan Lewis,12,G,False,False,False,9,1,0,1,0,0,1,2,0,0,0,1,0,0,1,0
+401929459,2027,6,South Alabama,2567,5461608,Owen Kenney,7,F,False,True,False,,,,,,,,,,,,,,,,
+401929459,2027,6,South Alabama,2567,5325144,Davaughn Hueitt,24,F,False,True,False,,,,,,,,,,,,,,,,
+401929459,2027,6,South Alabama,2567,5461611,Aaron Goldstein,21,G,False,True,False,,,,,,,,,,,,,,,,
+401929459,2027,2567,SMU,6,5312289,Jermaine O'Neal Jr.,7,F,True,False,False,17,6,3,7,0,3,0,1,1,1,2,2,1,0,1,0
+401929459,2027,2567,SMU,6,5101840,Jaden Toombs,1,F,True,False,False,21,12,5,5,0,0,2,4,5,6,11,5,2,1,1,1
+401929459,2027,2567,SMU,6,5177691,David Terrell Jr.,5,G,True,False,False,16,2,1,1,0,0,0,0,0,0,0,2,0,2,1,0
+401929459,2027,2567,SMU,6,5105642,Oziyah Sellers,6,G,True,False,False,21,17,6,10,5,8,0,0,0,0,0,0,0,0,0,1
+401929459,2027,2567,SMU,6,5457323,Jakub Szumert,13,NA,True,False,False,16,2,1,6,0,2,0,0,1,3,4,2,1,1,0,0
+401929459,2027,2567,SMU,6,5280896,Billy White III,4,F,False,False,False,18,12,4,9,4,9,0,0,0,2,2,3,1,2,0,0
+401929459,2027,2567,SMU,6,5240884,Johan Munch,24,F,False,False,False,19,4,2,2,0,0,0,0,1,6,7,1,0,2,0,0
+401929459,2027,2567,SMU,6,5149083,Nic Codie,10,F,False,False,False,11,6,3,7,0,0,0,0,4,3,7,1,0,0,0,2
+401929459,2027,2567,SMU,6,4685647,Jaylin Stewart,3,F,False,False,False,14,14,5,8,4,7,0,0,1,1,2,3,0,0,0,0
+401929459,2027,2567,SMU,6,5311934,Jacob Patrick,2,G,False,False,False,12,6,1,4,1,3,3,3,4,0,4,3,1,0,1,2
+401929459,2027,2567,SMU,6,5238183,Niccolo Kalischer-Stork,33,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401929459,2027,2567,SMU,6,5210787,Cameron Lomax,8,G,False,False,False,9,3,1,4,1,3,0,0,0,2,2,2,0,0,1,1
+401929459,2027,2567,SMU,6,5106280,Rowan Brumbaugh,0,G,False,False,False,20,11,4,8,3,6,0,1,1,1,2,7,1,0,0,1
+401929459,2027,2567,SMU,6,5086370,Gehrig Normand,9,G,False,False,False,4,6,2,4,2,4,0,0,0,0,0,0,0,0,0,0
+401929459,2027,2567,SMU,6,5101828,Nigel Walls,22,F,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5261952,Jarell Keel,0,F,True,False,False,38,11,5,15,0,0,1,2,2,6,8,2,1,1,2,4
+401926755,2027,422,Neumann,2329,5186025,Jackson Pugh,,G,True,False,False,35,3,1,8,1,3,0,0,1,3,4,1,2,0,1,4
+401926755,2027,422,Neumann,2329,5469466,Jayson Love,24,G,True,False,False,25,5,1,8,0,4,3,4,0,1,1,0,0,0,2,3
+401926755,2027,422,Neumann,2329,5469457,Gabriel Baker,3,G,True,False,False,13,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+401926755,2027,422,Neumann,2329,5316095,Mushin Muhammad,,G,True,False,False,34,8,4,11,0,0,0,0,1,3,4,1,0,1,0,0
+401926755,2027,422,Neumann,2329,5469467,Oscar Briskin,25,G,False,False,False,3,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
+401926755,2027,422,Neumann,2329,5469463,Rich Hampton,21,G,False,False,False,26,11,4,9,3,4,0,0,1,3,4,0,1,0,2,2
+401926755,2027,422,Neumann,2329,5469462,Joell Idrovo,20,G,False,False,False,15,0,0,5,0,1,0,0,1,2,3,1,2,0,0,1
+401926755,2027,422,Neumann,2329,5469461,Ayinde McLendon,14,G,False,False,False,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401926755,2027,422,Neumann,2329,5469459,Tivon Woolford,10,G,False,False,False,3,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+401926755,2027,422,Neumann,2329,5469458,Emeer Coombs,5,G,False,False,False,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+401926755,2027,422,Neumann,2329,5469464,Duce Jackson,22,F,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5187916,Duce Jackson,,G,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5469465,Muhsin Muhammad,23,G,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5469460,Srdan Vujanovic,11,G,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5469456,Ace Lassiter,2,G,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,422,Neumann,2329,5469455,Jackson Pugh,1,G,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,2329,Lehigh,422,5243039,Edouard Benoit,5,F,True,False,False,16,6,2,6,0,1,2,2,4,5,9,2,0,0,1,0
+401926755,2027,2329,Lehigh,422,5243042,Hank Alvey,35,C,True,False,False,14,11,5,5,0,0,1,2,2,3,5,3,0,1,2,1
+401926755,2027,2329,Lehigh,422,5314506,Jalen Vazquez,1,G,True,False,False,20,2,0,4,0,2,2,2,0,2,2,3,1,0,0,0
+401926755,2027,2329,Lehigh,422,5243041,Peter Kramer,25,G,True,False,False,13,5,2,6,1,5,0,0,1,1,2,1,0,0,1,0
+401926755,2027,2329,Lehigh,422,5176077,Joshua Ingram,4,G,True,False,False,18,9,4,7,1,2,0,1,2,1,3,0,0,2,1,0
+401926755,2027,2329,Lehigh,422,5459532,Nate Djanogly,18,F,False,False,False,6,3,1,2,1,1,0,0,2,1,3,1,0,1,0,0
+401926755,2027,2329,Lehigh,422,5459529,Ralfs Rudusans,9,F,False,False,False,10,0,0,2,0,2,0,0,2,1,3,1,1,0,0,1
+401926755,2027,2329,Lehigh,422,5243040,Alfredo Addesa,15,F,False,False,False,10,9,4,6,0,0,1,1,2,2,4,1,1,0,1,2
+401926755,2027,2329,Lehigh,422,5459530,Carter Cohen,11,C,False,False,False,16,2,1,3,0,1,0,0,0,6,6,0,1,3,1,1
+401926755,2027,2329,Lehigh,422,5459531,Colton Watson,14,G,False,False,False,25,9,4,8,0,2,1,2,1,6,7,1,0,0,0,0
+401926755,2027,2329,Lehigh,422,5459528,Chris Tshibola,7,G,False,False,False,20,15,6,6,1,1,2,2,0,1,1,3,0,1,1,0
+401926755,2027,2329,Lehigh,422,5314504,Caesar Burrows,2,G,False,False,False,20,8,3,10,2,5,0,2,3,4,7,0,1,0,3,1
+401926755,2027,2329,Lehigh,422,5314503,Andrew Urosevic,0,G,False,False,False,12,0,0,6,0,4,0,0,0,2,2,0,1,0,1,1
+401926755,2027,2329,Lehigh,422,5176078,Jake Pike,21,F,False,True,False,,,,,,,,,,,,,,,,
+401926755,2027,2329,Lehigh,422,5314505,Caleb Thomas,10,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5313706,Or Ashkenazi,6,F,True,False,False,18,4,2,4,0,1,0,0,0,3,3,0,2,0,1,1
+401920707,2027,288,Lipscomb,2010,5312919,Truman Byrne,33,F,True,False,False,21,6,2,4,1,2,1,2,0,1,1,0,0,1,1,0
+401920707,2027,288,Lipscomb,2010,5175660,Titas Sargiunas,26,F,True,False,False,24,13,6,8,1,1,0,0,0,1,1,2,1,0,0,4
+401920707,2027,288,Lipscomb,2010,5458819,Hugo Tidare,8,G,True,False,False,32,4,2,10,0,6,0,0,1,5,6,2,0,0,3,3
+401920707,2027,288,Lipscomb,2010,5107530,Mateo Esmeraldo,1,G,True,False,False,33,10,2,10,1,5,5,8,1,3,4,6,3,0,1,2
+401920707,2027,288,Lipscomb,2010,5327889,Sawyer Dotson,21,F,False,False,False,25,11,4,12,1,7,2,3,3,0,3,1,1,2,1,1
+401920707,2027,288,Lipscomb,2010,5313707,Josh Scott,15,F,False,False,False,21,10,4,10,2,5,0,0,2,0,2,2,2,0,1,2
+401920707,2027,288,Lipscomb,2010,5313703,Luke Jack,0,F,False,False,False,11,6,1,2,0,0,4,4,1,1,2,2,1,0,0,4
+401920707,2027,288,Lipscomb,2010,5458818,Vuk Visnjic,7,G,False,False,False,7,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1
+401920707,2027,288,Lipscomb,2010,5327897,Zion Wells,4,G,False,False,False,8,5,1,3,0,2,3,4,1,0,1,0,0,0,0,0
+401920707,2027,288,Lipscomb,2010,5458821,Sam Groth,14,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5327883,Hendrix Loughridge,25,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5313705,Kennedy Okpara,3,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5313704,Devyn Martin,2,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5458820,Kellen Quinn,10,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,288,Lipscomb,2010,5174937,Takai Simpkins,5,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5461657,Kevin Paul,8,F,True,False,False,15,4,2,2,0,0,0,0,0,0,0,0,0,0,1,3
+401920707,2027,2010,Alabama A&M,288,5106791,Stephaun Walker,1,F,True,False,False,36,8,3,8,0,1,2,3,2,9,11,2,0,1,3,2
+401920707,2027,2010,Alabama A&M,288,5461656,Devontes Cobbs,5,G,True,False,False,35,16,7,13,2,6,0,1,0,4,4,4,1,1,5,0
+401920707,2027,2010,Alabama A&M,288,5108915,Sami Pissis,00,G,True,False,False,34,13,4,8,1,2,4,4,1,3,4,6,2,0,3,2
+401920707,2027,2010,Alabama A&M,288,4711691,James Graham III,34,G,True,False,False,35,37,13,15,6,7,5,6,0,4,4,1,0,2,2,2
+401920707,2027,2010,Alabama A&M,288,5312426,Devin Brown,12,F,False,False,False,16,5,2,4,0,0,1,2,1,5,6,2,1,2,2,2
+401920707,2027,2010,Alabama A&M,288,5313395,Jalen Carruth,15,G,False,False,False,9,0,0,1,0,1,0,0,0,1,1,2,0,0,0,0
+401920707,2027,2010,Alabama A&M,288,5177520,Bilal Abdur-Rahman,2,G,False,False,False,20,2,0,3,0,0,2,2,0,3,3,2,0,0,1,2
+401920707,2027,2010,Alabama A&M,288,5176143,David Meriwether,21,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,4897072,Samuel Onu,55,F,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5313396,Jayden Jackson,7,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5313394,Gabe Kincy,4,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5311726,Javantae Edwards,11,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5241614,Nate Johnson,10,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5054088,Diovion Famakinde,3,G,False,True,False,,,,,,,,,,,,,,,,
+401920707,2027,2010,Alabama A&M,288,5461658,Mike Banks,20,NA,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,2330,Le Moyne,142,5312177,Ty Francis,9,F,True,False,False,25,11,4,7,0,0,3,4,0,1,1,1,2,2,4,1
+401919784,2027,2330,Le Moyne,142,5243264,Kaden Stuckey,12,F,True,False,False,21,3,1,5,0,0,1,2,4,4,8,3,1,0,0,3
+401919784,2027,2330,Le Moyne,142,5175676,Trevor Roe,5,F,True,False,False,26,11,4,11,3,8,0,0,1,0,1,0,0,1,1,0
+401919784,2027,2330,Le Moyne,142,5460973,Leandro Gysel,13,G,True,False,False,22,4,1,6,1,5,1,2,0,0,0,0,1,0,3,0
+401919784,2027,2330,Le Moyne,142,5239715,Khalil Williams,2,G,True,False,False,23,11,4,8,2,6,1,1,0,2,2,0,1,0,0,0
+401919784,2027,2330,Le Moyne,142,5460975,Hunter Frazier,23,F,False,False,False,14,4,1,2,0,1,2,2,1,3,4,0,0,0,0,3
+401919784,2027,2330,Le Moyne,142,5460974,Connor Johnson,15,F,False,False,False,8,2,1,1,0,0,0,0,0,2,2,0,0,0,0,0
+401919784,2027,2330,Le Moyne,142,5460972,Isaiah Brown,3,F,False,False,False,7,2,1,1,0,0,0,0,0,1,1,0,0,0,0,2
+401919784,2027,2330,Le Moyne,142,5313380,Przemek Hartman,7,C,False,False,False,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401919784,2027,2330,Le Moyne,142,5314372,Damien King,1,G,False,False,False,15,4,1,3,0,0,2,2,0,1,1,2,1,1,2,3
+401919784,2027,2330,Le Moyne,142,5242401,Jeremy Clayville,4,G,False,False,False,12,6,2,3,2,3,0,0,0,1,1,2,3,0,0,2
+401919784,2027,2330,Le Moyne,142,5242118,Kole Williams,25,G,False,False,False,12,6,2,2,0,0,2,5,0,1,1,4,0,0,1,2
+401919784,2027,2330,Le Moyne,142,5174976,Jayden Teat,24,G,False,False,False,12,0,0,1,0,1,0,0,0,1,1,1,0,0,2,0
+401919784,2027,2330,Le Moyne,142,5312454,Cullen Schreiner,21,F,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,2330,Le Moyne,142,5313954,Josiah Lee,11,G,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,2330,Le Moyne,142,5176210,Ametri Moss,0,G,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,142,Missouri,2330,5144572,Toni Bryant,14,F,True,False,False,25,10,4,5,2,3,0,0,1,1,2,1,0,0,1,1
+401919784,2027,142,Missouri,2330,5041958,Bryson Tiller,15,F,True,False,False,26,18,7,13,2,6,2,2,1,4,5,1,2,2,0,3
+401919784,2027,142,Missouri,2330,5142715,Jason Crowe Jr.,5,G,True,False,False,27,18,6,10,2,4,4,4,0,3,3,2,1,0,3,2
+401919784,2027,142,Missouri,2330,5037881,Trent Pierce,11,G,True,False,False,22,9,3,7,2,5,1,2,1,3,4,2,3,1,0,3
+401919784,2027,142,Missouri,2330,4685654,Kennard Davis Jr.,4,G,True,False,False,34,13,5,11,2,5,1,2,2,0,2,0,1,0,2,2
+401919784,2027,142,Missouri,2330,5144151,Nicholas Randall,24,F,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401919784,2027,142,Missouri,2330,5105758,Jordan Crawford,8,G,False,False,False,2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0
+401919784,2027,142,Missouri,2330,5105455,Cord Stansberry,0,G,False,False,False,11,5,2,2,1,1,0,0,0,1,1,3,2,0,2,2
+401919784,2027,142,Missouri,2330,5041957,Aaron Rowe,2,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+401919784,2027,142,Missouri,2330,5041949,Jamier Jones,1,G,False,False,False,18,11,3,4,0,0,5,6,0,2,2,0,0,0,1,0
+401919784,2027,142,Missouri,2330,4433285,Mark Mitchell Jr.,25,G,False,False,False,31,5,2,4,0,1,1,4,3,6,9,6,1,3,0,1
+401919784,2027,142,Missouri,2330,5106269,Luke Northweather,45,F,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,142,Missouri,2330,4685687,Jaylen Carey,23,F,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,142,Missouri,2330,5169569,Trent Burns,7,C,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,142,Missouri,2330,5238218,Annor Boateng,6,G,False,True,False,,,,,,,,,,,,,,,,
+401919784,2027,142,Missouri,2330,5210405,Aidan Chronister,10,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,96,Kentucky,84,5454840,Ousmane N'Diaye,19,F,True,False,False,31,4,2,5,0,2,0,1,2,3,5,1,0,0,0,3
+401916290,2027,96,Kentucky,84,4848637,Milan Momcilovic,22,F,True,False,False,39,28,10,16,5,10,3,5,0,4,4,4,0,0,1,0
+401916290,2027,96,Kentucky,84,5101849,Malachi Moreno,24,C,True,False,False,33,12,6,9,0,0,0,1,1,6,7,2,1,2,2,3
+401916290,2027,96,Kentucky,84,5314511,Alex Wilkins,10,G,True,False,False,24,13,6,9,1,1,0,0,0,1,1,4,0,1,2,4
+401916290,2027,96,Kentucky,84,5060705,Zoom Diallo,5,G,True,False,False,31,15,7,14,1,2,0,0,2,1,3,4,0,0,1,3
+401916290,2027,96,Kentucky,84,5101820,Braydon Hawthorne,2,F,False,False,False,12,2,1,2,0,1,0,0,0,3,3,0,0,0,1,1
+401916290,2027,96,Kentucky,84,4685664,Justin McBride,21,F,False,False,False,5,2,1,1,0,0,0,0,0,1,1,0,0,0,1,1
+401916290,2027,96,Kentucky,84,4711400,Franck Kepnang,11,C,False,False,False,7,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+401916290,2027,96,Kentucky,84,5295636,Mason Williams,4,G,False,False,False,11,0,0,3,0,0,0,0,0,1,1,0,0,0,0,3
+401916290,2027,96,Kentucky,84,4873183,Kam Williams,3,G,False,False,False,7,0,0,2,0,2,0,0,1,0,1,0,0,0,0,0
+401916290,2027,96,Kentucky,84,5176217,Reece Potter,33,F,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,96,Kentucky,84,5175592,Trent Noah,9,F,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,96,Kentucky,84,5454839,Zyon Hawthorne,0,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,96,Kentucky,84,5177358,Jerone Morton,1,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,4873184,Aiden Sherrell,22,F,True,False,False,33,16,5,13,4,6,2,2,3,4,7,1,1,2,1,2
+401916290,2027,84,Indiana,96,5238184,Samet Yigitoglu,21,C,True,False,False,17,9,3,4,0,0,3,3,1,4,5,0,1,0,2,1
+401916290,2027,84,Indiana,96,5101623,Markus Burton,5,G,True,False,False,28,15,6,12,2,3,1,2,0,1,1,6,0,0,1,1
+401916290,2027,84,Indiana,96,5060730,Jaeden Mustaf,3,G,True,False,False,20,2,0,5,0,1,2,2,1,1,2,3,1,0,0,4
+401916290,2027,84,Indiana,96,4873107,Darren Harris,1,G,True,False,False,34,15,2,7,2,7,9,9,2,2,4,0,0,0,0,1
+401916290,2027,84,Indiana,96,5331201,Trevor Manhertz,0,F,False,False,False,7,4,1,2,0,1,2,2,2,2,4,1,0,0,0,1
+401916290,2027,84,Indiana,96,5107375,Sam Alexis,4,F,False,False,False,23,4,2,4,0,0,0,0,2,3,5,1,1,1,0,0
+401916290,2027,84,Indiana,96,5101827,Trent Sisley,11,F,False,False,False,7,5,1,1,1,1,2,2,1,0,1,0,0,0,0,2
+401916290,2027,84,Indiana,96,5174291,Bryce Lindsay,2,G,False,False,False,31,20,5,15,3,12,7,9,0,3,3,1,0,0,1,1
+401916290,2027,84,Indiana,96,5312320,Ben Winker,33,F,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5280897,Vaughn Karvala,24,F,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5351293,Clemens Sokolov,17,C,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5456444,Prince-Alexander Moody,8,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5314175,Justin Monden,12,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5311839,Drew Snively,10,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5174783,Ian Stephens,30,G,False,True,False,,,,,,,,,,,,,,,,
+401916290,2027,84,Indiana,96,5113383,Jordan Rayford,14,G,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,151,East Carolina,3084,5108719,Kaseem Watson,13,F,True,False,False,21,10,3,8,3,7,1,2,0,4,4,0,1,0,2,5
+401916125,2027,151,East Carolina,3084,5070505,Kaden Cooper,11,F,True,False,False,12,4,1,3,0,1,2,2,0,3,3,1,1,0,2,3
+401916125,2027,151,East Carolina,3084,5458624,Maxim Klitschko,17,C,True,False,False,16,5,2,2,0,0,1,2,2,0,2,0,0,0,1,4
+401916125,2027,151,East Carolina,3084,5174637,Cian Medley,1,G,True,False,False,37,12,2,5,1,3,7,8,0,0,0,7,0,0,4,3
+401916125,2027,151,East Carolina,3084,5107223,Brycen Blaine,2,G,True,False,False,28,15,5,11,3,5,2,4,0,3,3,1,1,0,1,3
+401916125,2027,151,East Carolina,3084,5458623,Jordyn Buchanan,12,F,False,False,False,19,9,3,5,3,5,0,0,0,1,1,0,1,0,0,0
+401916125,2027,151,East Carolina,3084,5239830,Jayshayne Woodard,0,F,False,False,False,15,3,0,1,0,0,3,4,0,3,3,1,0,0,1,2
+401916125,2027,151,East Carolina,3084,5458625,Matthew Hinton,24,C,False,False,False,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+401916125,2027,151,East Carolina,3084,4858612,Eli DeLaurier,33,C,False,False,False,19,7,2,2,0,0,3,4,4,2,6,1,0,2,1,5
+401916125,2027,151,East Carolina,3084,5458621,Ashton McCullough,5,G,False,False,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401916125,2027,151,East Carolina,3084,5263625,Trevor Best,4,G,False,False,False,29,12,4,14,1,4,3,3,0,2,2,3,0,0,1,4
+401916125,2027,151,East Carolina,3084,5327881,Dreylan Creasy-Quirindoongo,7,F,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,151,East Carolina,3084,5254179,Daithi Quinn,3,F,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,151,East Carolina,3084,5458622,Mason Pandov,10,G,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5314813,Isaac Hawkins,23,F,True,False,False,28,18,6,11,1,2,5,6,1,2,3,2,2,2,1,3
+401916125,2027,3084,Utah Valley,151,4873202,Isaac Davis,0,F,True,False,False,23,14,3,5,0,0,8,11,3,2,5,0,1,0,3,2
+401916125,2027,3084,Utah Valley,151,5241380,Dominick Nelson,3,G,True,False,False,32,18,6,11,0,2,6,8,0,8,8,3,0,1,2,2
+401916125,2027,3084,Utah Valley,151,5241264,Jordy Barnes,2,G,True,False,False,35,11,3,7,1,4,4,6,2,4,6,4,1,0,2,3
+401916125,2027,3084,Utah Valley,151,5105495,Braden Housley,9,G,True,False,False,16,0,0,3,0,0,0,0,0,1,1,2,2,0,1,2
+401916125,2027,3084,Utah Valley,151,5458708,Deng Deng,6,F,False,False,False,11,4,2,2,0,0,0,1,1,0,1,1,0,0,1,1
+401916125,2027,3084,Utah Valley,151,5241382,Tyler Weaver,11,F,False,False,False,11,6,1,3,1,2,3,3,0,2,2,1,0,0,1,4
+401916125,2027,3084,Utah Valley,151,5314822,Tanner Davis,1,G,False,False,False,18,7,3,4,0,0,1,3,6,1,7,1,0,0,0,0
+401916125,2027,3084,Utah Valley,151,5243016,AJ Dixon,24,G,False,False,False,7,0,0,2,0,2,0,0,0,0,0,0,0,0,1,3
+401916125,2027,3084,Utah Valley,151,5176399,Sherman Weatherspoon IV,4,G,False,False,False,19,12,5,8,2,4,0,2,0,2,2,1,1,0,0,2
+401916125,2027,3084,Utah Valley,151,5458711,Jovan Nekic,10,F,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5458707,Omar Mowafak,5,F,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5241377,Tyler Medaris,12,F,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5458710,Modestas Babraitis,8,G,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5458709,Sebastian Muchitsch,7,G,False,True,False,,,,,,,,,,,,,,,,
+401916125,2027,3084,Utah Valley,151,5314811,Jaxson Roberts,13,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458729,Sentinel Moore,23,F,True,False,False,28,8,3,4,0,1,2,2,0,5,5,3,0,3,1,1
+401909799,2027,2097,Campbell,2306,5112189,Nordin Kapic,45,F,True,False,False,23,2,0,4,0,3,2,2,1,7,8,1,1,0,1,1
+401909799,2027,2097,Campbell,2306,5458720,Rashawn Inglemon,2,G,True,False,False,35,23,9,15,2,6,3,4,0,6,6,3,2,1,1,2
+401909799,2027,2097,Campbell,2306,5191663,AJ Wright Jr.,1,G,True,False,False,36,14,5,9,3,3,1,2,1,3,4,6,4,0,2,2
+401909799,2027,2097,Campbell,2306,5107275,Lance Waddles,7,G,True,False,False,30,23,9,15,5,9,0,0,1,4,5,0,0,0,3,0
+401909799,2027,2097,Campbell,2306,5458728,Luka Savanovic,22,G,False,False,False,13,6,2,2,2,2,0,0,0,1,1,0,0,0,0,1
+401909799,2027,2097,Campbell,2306,5458723,Caleb McAbee,10,G,False,False,False,6,0,0,2,0,1,0,0,0,3,3,0,0,0,0,1
+401909799,2027,2097,Campbell,2306,5281348,Karim Rtail,5,G,False,False,False,29,4,1,5,0,4,2,2,0,3,3,2,0,0,2,1
+401909799,2027,2097,Campbell,2306,5458727,Karson Rogers,21,F,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458722,Bol Thet,8,F,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458726,Ben Ritger,15,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458725,Harry Shellhammer,13,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458724,Jack Browder,12,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458721,Sincere Folk,4,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5458719,John Angau,0,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2097,Campbell,2306,5107162,Emilis Butkus,11,G,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2306,Kansas State,2097,5281366,Timo Malovec,88,F,True,False,False,23,5,2,8,1,4,0,1,3,1,4,0,0,0,1,1
+401909799,2027,2306,Kansas State,2097,5175357,Brock Vice,6,F,True,False,False,24,15,6,10,2,4,1,2,4,6,10,2,1,1,1,1
+401909799,2027,2306,Kansas State,2097,5093403,Isaiah Abraham,7,F,True,False,False,28,7,3,12,1,3,0,0,4,1,5,4,1,0,1,1
+401909799,2027,2306,Kansas State,2097,5103590,Brandon Rechsteiner,1,G,True,False,False,34,18,7,15,4,10,0,0,1,4,5,3,0,0,2,1
+401909799,2027,2306,Kansas State,2097,4712846,Jaden Schutt,2,G,True,False,False,32,15,5,15,5,12,0,0,0,3,3,3,1,0,1,2
+401909799,2027,2306,Kansas State,2097,5239600,Dez Lindsay,4,F,False,False,False,15,2,0,2,0,1,2,2,1,1,2,2,1,0,0,2
+401909799,2027,2306,Kansas State,2097,5152658,Pape N'Diaye,22,F,False,False,False,7,0,0,1,0,1,0,0,1,2,3,0,0,0,1,1
+401909799,2027,2306,Kansas State,2097,5061598,JT Rock,35,C,False,False,False,2,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1
+401909799,2027,2306,Kansas State,2097,5457338,Jaylen Alexander,0,G,False,False,False,22,4,2,9,0,2,0,0,1,1,2,4,3,0,1,2
+401909799,2027,2306,Kansas State,2097,5101794,Montana Wheeler,11,G,False,False,False,13,4,2,4,0,1,0,1,0,2,2,2,0,0,1,1
+401909799,2027,2306,Kansas State,2097,5457340,Nash Stark,33,F,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2306,Kansas State,2097,5457339,Devin Hutcherson,3,F,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2306,Kansas State,2097,5311511,Matt Gilhool,13,F,False,True,False,,,,,,,,,,,,,,,,
+401909799,2027,2306,Kansas State,2097,5311923,Andrej Kostic,47,G,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,61,Georgia,59,5243212,Kanon Catchings,6,F,True,False,False,33,19,6,11,1,4,6,9,2,7,9,2,3,0,2,3
+401906784,2027,61,Georgia,59,5144153,Kareem Stagg,1,F,True,False,False,29,17,8,13,1,4,0,0,1,3,4,2,1,1,0,3
+401906784,2027,61,Georgia,59,5102798,James Scott,9,F,True,False,False,28,0,0,1,0,0,0,2,1,7,8,1,0,0,1,2
+401906784,2027,61,Georgia,59,5176681,Marcus Millender,4,G,True,False,False,31,15,3,9,1,4,8,8,0,1,1,3,1,0,2,2
+401906784,2027,61,Georgia,59,5174661,Blue Cain,0,G,True,False,False,28,15,6,13,3,6,0,0,2,2,4,0,0,0,2,4
+401906784,2027,61,Georgia,59,5351290,Mading Kuany,13,F,False,False,False,12,10,4,5,2,3,0,0,1,1,2,0,0,2,0,3
+401906784,2027,61,Georgia,59,5311889,Andrew Osasuyi,34,F,False,False,False,12,4,1,3,0,0,2,2,3,2,5,2,0,0,1,3
+401906784,2027,61,Georgia,59,4685659,Brady Dunlap,11,F,False,False,False,11,2,0,2,0,0,2,2,0,0,0,1,1,1,0,0
+401906784,2027,61,Georgia,59,5144567,Donovan Williams Jr.,2,G,False,False,False,3,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1
+401906784,2027,61,Georgia,59,5125192,Freddie Dilione V,5,G,False,False,False,13,6,3,8,0,0,0,0,2,1,3,0,1,1,2,1
+401906784,2027,61,Georgia,59,5351304,Hakeem Weems,7,F,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,61,Georgia,59,5351303,David Ugonna Ike,16,F,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,61,Georgia,59,5454837,Kemauri Millender,55,G,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,61,Georgia,59,5174664,Markel Jennings,12,G,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,61,Georgia,59,5105530,Brandon Klatsky,30,G,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,59,Georgia Tech,61,5176736,Victor Valdes,11,F,True,False,False,19,15,5,7,2,3,3,3,0,0,0,4,0,0,3,4
+401906784,2027,59,Georgia Tech,61,5144115,Tylis Jordan,10,F,True,False,False,34,19,5,9,0,2,9,11,0,5,5,1,0,2,2,2
+401906784,2027,59,Georgia Tech,61,5106449,Jackson Fields,7,F,True,False,False,29,7,2,4,0,0,3,3,1,3,4,1,3,2,1,1
+401906784,2027,59,Georgia Tech,61,5221320,Courtland Muldrew,30,G,True,False,False,9,2,1,3,0,1,0,0,0,3,3,0,0,0,1,1
+401906784,2027,59,Georgia Tech,61,5105607,Kam Craft,12,G,True,False,False,28,0,0,4,0,4,0,0,1,2,3,1,0,0,1,1
+401906784,2027,59,Georgia Tech,61,5172343,Cole Kirouac,8,C,False,False,False,8,0,0,0,0,0,0,0,1,2,3,2,0,0,0,1
+401906784,2027,59,Georgia Tech,61,5144145,Jackson McVey,14,C,False,False,False,6,1,0,1,0,0,1,2,0,0,0,1,0,0,1,0
+401906784,2027,59,Georgia Tech,61,5176315,Colby Garland,0,G,False,False,False,31,19,7,11,2,2,3,3,1,0,1,4,1,0,1,4
+401906784,2027,59,Georgia Tech,61,5176076,Nasir Whitlock,3,G,False,False,False,15,3,1,7,1,6,0,0,1,3,4,2,0,0,1,2
+401906784,2027,59,Georgia Tech,61,5174455,Kayden Allen,1,G,False,False,False,18,16,6,11,0,3,4,6,0,2,2,1,0,1,1,2
+401906784,2027,59,Georgia Tech,61,5144491,Kaiden Bailey,2,G,False,False,False,3,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+401906784,2027,59,Georgia Tech,61,5454822,Ilja Kurucs,6,F,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,59,Georgia Tech,61,5210396,Moustapha Diop,5,F,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,59,Georgia Tech,61,5454821,Cody Cross,35,G,False,True,False,,,,,,,,,,,,,,,,
+401906784,2027,59,Georgia Tech,61,5345510,Haiden Harper,9,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,2534,Sam Houston,68,5313861,Enel St. Bernard,10,F,True,False,False,27,5,2,5,0,0,1,3,3,6,9,2,1,1,2,3
+401928795,2027,2534,Sam Houston,68,5239655,Riccardo Greppi,18,F,True,False,False,17,5,2,3,0,0,1,1,1,4,5,0,0,1,0,4
+401928795,2027,2534,Sam Houston,68,5460695,Aidan McDowell,11,G,True,False,False,26,19,6,10,3,6,4,5,0,1,1,0,0,0,0,1
+401928795,2027,2534,Sam Houston,68,5241724,Jacobe Coleman,2,G,True,False,False,28,15,3,12,0,6,9,11,0,4,4,2,3,0,4,1
+401928795,2027,2534,Sam Houston,68,5060702,Justin Begg,5,G,True,False,False,23,9,3,8,1,4,2,2,1,2,3,7,1,0,5,4
+401928795,2027,2534,Sam Houston,68,5314534,Matt Dann,12,F,False,False,False,11,6,3,3,0,0,0,0,1,5,6,1,0,1,4,3
+401928795,2027,2534,Sam Houston,68,5248173,Yoda Oke,1,F,False,False,False,26,18,5,7,5,6,3,4,1,2,3,2,0,0,2,1
+401928795,2027,2534,Sam Houston,68,5242610,Cheikh Sadibou Ndiaye,32,F,False,False,False,10,2,1,3,0,0,0,0,2,3,5,1,0,1,1,5
+401928795,2027,2534,Sam Houston,68,5460696,Mahliq Guiseppi-Kitson,22,G,False,False,False,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+401928795,2027,2534,Sam Houston,68,5309820,Xavier Roberson,6,G,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401928795,2027,2534,Sam Houston,68,5308433,Rylan Kelly,8,G,False,False,False,5,1,0,0,0,0,1,2,0,2,2,0,1,0,0,1
+401928795,2027,2534,Sam Houston,68,4873102,Zion Pipkin,7,G,False,False,False,24,3,1,4,1,4,0,0,0,3,3,4,1,0,3,2
+401928795,2027,2534,Sam Houston,68,5460697,Alec Loustau,25,F,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,2534,Sam Houston,68,5460694,Keller Partain,3,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,2534,Sam Houston,68,5314533,Nathan Nguyen,13,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,68,Boise State,2534,5240935,Dovydas Butka,13,F,True,False,False,31,17,5,10,1,2,6,11,3,4,7,1,4,0,5,3
+401928795,2027,68,Boise State,2534,5185444,Spencer Ahrens,16,F,True,False,False,27,4,2,6,0,3,0,2,3,1,4,0,3,1,2,5
+401928795,2027,68,Boise State,2534,5313902,Aginaldo Neto,1,G,True,False,False,28,11,3,16,0,4,5,7,3,1,4,2,1,0,3,4
+401928795,2027,68,Boise State,2534,5191013,Rayzhon Bergersen,11,G,True,False,False,19,0,0,2,0,2,0,0,0,1,1,1,1,0,1,2
+401928795,2027,68,Boise State,2534,5107273,Damari Wheeler-Thomas,10,G,True,False,False,31,12,3,10,1,6,5,8,0,4,4,4,4,0,1,4
+401928795,2027,68,Boise State,2534,5460784,Jikany Deang,35,F,False,False,False,3,3,1,2,1,2,0,0,0,1,1,0,0,0,0,0
+401928795,2027,68,Boise State,2534,5313903,Bhan Buom,3,F,False,False,False,6,0,0,1,0,0,0,0,1,1,2,0,0,0,1,0
+401928795,2027,68,Boise State,2534,5242812,Jerquarius Stanback,7,F,False,False,False,11,0,0,1,0,1,0,0,1,1,2,0,0,1,1,0
+401928795,2027,68,Boise State,2534,5117627,Pearson Carmichael,6,F,False,False,False,26,11,3,10,2,5,3,3,1,3,4,2,2,0,1,4
+401928795,2027,68,Boise State,2534,4873196,Ethan Lathan,30,F,False,False,False,3,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0
+401928795,2027,68,Boise State,2534,5241229,Julian Bowie,0,G,False,False,False,15,9,4,7,1,3,0,0,0,0,0,0,0,0,0,1
+401928795,2027,68,Boise State,2534,5460783,Kaur Tomann,17,F,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,68,Boise State,2534,5460782,Brady Hennig,5,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,68,Boise State,2534,5252550,Brennan Ramirez,21,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,68,Boise State,2534,5106284,Lamar Washington,8,G,False,True,False,,,,,,,,,,,,,,,,
+401928795,2027,68,Boise State,2534,5105792,Ty Rodgers,20,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,2934,Cal State Bakersfield,70,5458644,Petar Ivancic,44,F,True,False,False,14,10,5,8,0,1,0,0,2,0,2,0,0,3,0,1
+401920137,2027,2934,Cal State Bakersfield,70,5458643,Tom Koppens,30,F,True,False,False,31,12,5,9,0,2,2,3,3,2,5,2,1,0,2,4
+401920137,2027,2934,Cal State Bakersfield,70,5240999,Kjay Bradley,5,G,True,False,False,38,18,8,17,2,4,0,2,0,6,6,2,0,1,3,4
+401920137,2027,2934,Cal State Bakersfield,70,5144135,Bryce Cofield,12,G,True,False,False,36,17,7,12,2,2,1,2,2,1,3,1,2,0,2,3
+401920137,2027,2934,Cal State Bakersfield,70,5108983,Jaden Alexander,25,G,True,False,False,34,5,2,9,0,0,1,2,1,5,6,0,0,0,1,4
+401920137,2027,2934,Cal State Bakersfield,70,5175409,Chudi Dioramma,10,F,False,False,False,16,6,3,5,0,0,0,0,1,0,1,0,0,2,5,2
+401920137,2027,2934,Cal State Bakersfield,70,5458642,Pietro Iannuzzi,18,G,False,False,False,11,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1
+401920137,2027,2934,Cal State Bakersfield,70,5458638,Kristian Payne,2,G,False,False,False,16,11,3,3,1,1,4,4,1,7,8,0,1,0,0,3
+401920137,2027,2934,Cal State Bakersfield,70,5328797,Sean Pouedet,27,G,False,False,False,4,2,1,1,0,0,0,2,0,0,0,0,0,0,0,0
+401920137,2027,2934,Cal State Bakersfield,70,5174297,Cameron Barnes,23,F,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,2934,Cal State Bakersfield,70,5458641,Iliyan Pishtikov,7,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,2934,Cal State Bakersfield,70,5458640,EJ Bryson,4,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,2934,Cal State Bakersfield,70,5458639,Blake Dibble,3,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,2934,Cal State Bakersfield,70,5107754,Snookey Wigington,0,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5239603,Hudson Ward,8,F,True,False,False,27,18,7,14,2,5,2,4,1,4,5,1,3,0,0,2
+401920137,2027,70,Idaho,2934,5174853,Seth Joba,21,F,True,False,False,27,11,4,6,2,4,1,4,0,6,6,0,0,1,0,3
+401920137,2027,70,Idaho,2934,5241074,Kase Wynott,51,G,True,False,False,34,12,4,7,1,3,3,4,1,2,3,3,1,1,4,2
+401920137,2027,70,Idaho,2934,5176305,Miles Klapper,24,G,True,False,False,29,9,3,6,0,2,3,4,0,2,2,3,1,0,5,1
+401920137,2027,70,Idaho,2934,5176303,Kristian Gonzalez,10,G,True,False,False,28,14,6,9,1,4,1,1,0,0,0,0,0,0,0,0
+401920137,2027,70,Idaho,2934,5455827,Mo Diao,34,F,False,False,False,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+401920137,2027,70,Idaho,2934,5455819,Diego Trejo-Delgado,1,F,False,False,False,17,4,2,6,0,2,0,1,1,2,3,1,1,1,0,2
+401920137,2027,70,Idaho,2934,5313162,Will Jenson,32,F,False,False,False,3,1,0,0,0,0,1,2,1,1,2,1,1,0,0,2
+401920137,2027,70,Idaho,2934,5455820,Brady Kennison,2,G,False,False,False,8,3,1,2,1,2,0,0,0,1,1,0,0,0,0,2
+401920137,2027,70,Idaho,2934,5241414,Ryan Lafferty,0,G,False,False,False,25,10,3,4,2,3,2,5,1,4,5,4,1,0,2,3
+401920137,2027,70,Idaho,2934,5455823,Nolan Newman-Gomez,5,F,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5455826,Ryan Carney,33,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5455825,Dylynn Groves,12,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5455824,Zuby Toms,7,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5455822,Jalen Williams,4,G,False,True,False,,,,,,,,,,,,,,,,
+401920137,2027,70,Idaho,2934,5455821,TJ Wal,3,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,276,Marshall,153,4873206,Khaman Maker,14,C,True,False,False,12,4,2,2,0,0,0,1,0,2,2,1,0,0,0,1
+401912710,2027,276,Marshall,153,5314768,Emmanuel Manyuon,1,G,True,False,False,25,3,1,6,1,5,0,0,0,2,2,2,1,0,0,1
+401912710,2027,276,Marshall,153,5313149,Bryce Slay,2,G,True,False,False,31,8,3,13,0,7,2,2,0,2,2,4,0,0,3,2
+401912710,2027,276,Marshall,153,5313147,Noah Otshudi,5,G,True,False,False,36,18,6,21,2,5,4,4,0,5,5,3,1,0,3,1
+401912710,2027,276,Marshall,153,5176064,Luke Rasmussen,4,G,True,False,False,25,5,2,3,1,2,0,0,2,1,3,0,1,0,0,3
+401912710,2027,276,Marshall,153,5322517,Boubacar Djigo,25,F,False,False,False,9,11,5,7,1,2,0,0,3,3,6,0,1,0,1,1
+401912710,2027,276,Marshall,153,5314345,Vasilije Kuridza,7,F,False,False,False,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+401912710,2027,276,Marshall,153,5240547,Erich Harding,11,F,False,False,False,21,9,3,8,0,1,3,3,5,4,9,1,1,2,1,2
+401912710,2027,276,Marshall,153,5142707,Colt Langdon,45,F,False,False,False,12,5,2,4,1,1,0,0,2,0,2,0,0,0,1,2
+401912710,2027,276,Marshall,153,5461589,Alex Charlotin,3,G,False,False,False,17,9,4,7,0,0,1,4,3,2,5,3,1,0,1,1
+401912710,2027,276,Marshall,153,5314838,Fazl Oshodi,0,G,False,False,False,10,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+401912710,2027,276,Marshall,153,5461591,Kenan Gilao,9,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,276,Marshall,153,5461590,Mikal Bell Jr.,8,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,276,Marshall,153,5240548,Will Moore,12,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,276,Marshall,153,5101807,DeMarco Johnson,6,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5144522,Maximo Adams,25,F,True,False,False,34,2,1,7,0,3,0,0,1,6,7,2,0,0,0,0
+401912710,2027,153,North Carolina,276,4873181,Jarin Stevenson,15,F,True,False,False,28,13,5,7,2,4,1,2,2,4,6,1,0,0,1,3
+401912710,2027,153,North Carolina,276,5347035,Sayon Keita,21,C,True,False,False,16,6,3,5,0,0,0,0,2,4,6,0,1,2,0,2
+401912710,2027,153,North Carolina,276,5196877,Matt Able,3,G,True,False,False,31,23,8,14,5,9,2,2,0,2,2,3,1,0,1,1
+401912710,2027,153,North Carolina,276,5177233,Terrence Brown,1,G,True,False,False,29,20,7,14,0,2,6,8,1,5,6,5,2,1,2,2
+401912710,2027,153,North Carolina,276,5351837,Alex Samodurov,22,F,False,False,False,10,5,2,3,1,2,0,0,1,2,3,0,1,0,0,0
+401912710,2027,153,North Carolina,276,5107880,Cameron Fens,54,C,False,False,False,18,9,3,5,0,0,3,4,3,5,8,0,0,3,3,0
+401912710,2027,153,North Carolina,276,5217193,Isaiah Denis,2,G,False,False,False,11,4,2,6,0,2,0,0,0,0,0,1,1,0,1,3
+401912710,2027,153,North Carolina,276,4711266,Jaydon Young,4,G,False,False,False,13,3,1,6,1,5,0,0,0,0,0,0,1,0,0,1
+401912710,2027,153,North Carolina,276,4684022,Angelo Brizzi,14,G,False,False,False,10,3,1,2,1,2,0,0,0,2,2,0,1,0,0,1
+401912710,2027,153,North Carolina,276,5238173,John Holbrook,99,F,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5196943,Cade Bennerman,35,C,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5341040,Malloy Smith,30,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5312013,Evan Smith,32,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5311829,Neo Avdalas,17,G,False,True,False,,,,,,,,,,,,,,,,
+401912710,2027,153,North Carolina,276,5210844,Kevin Thomas,5,G,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,2550,Seton Hall,152,4685685,Devin Williams,22,F,True,False,False,20,6,3,5,0,0,0,0,2,1,3,0,0,2,0,3
+401921691,2027,2550,Seton Hall,152,5311835,Mihailo Petrovic,17,G,True,False,False,23,4,1,5,0,1,2,4,0,1,1,5,0,0,1,1
+401921691,2027,2550,Seton Hall,152,5107148,Roddie Anderson,23,G,True,False,False,36,6,2,7,0,2,2,2,1,2,3,4,1,0,0,4
+401921691,2027,2550,Seton Hall,152,5106288,Elijah Fisher,21,G,True,False,False,39,18,6,8,1,2,5,5,1,4,5,1,3,0,2,4
+401921691,2027,2550,Seton Hall,152,4683785,Simeon Wilcher,4,G,True,False,False,5,0,0,1,0,1,0,0,0,0,0,0,0,0,1,3
+401921691,2027,2550,Seton Hall,152,5243058,Terry Copeland Jr.,9,F,False,False,False,25,22,8,9,0,0,6,7,5,4,9,1,0,0,0,1
+401921691,2027,2550,Seton Hall,152,5102799,Mayar Wol,15,F,False,False,False,6,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+401921691,2027,2550,Seton Hall,152,5241721,Kareem Thomas,2,G,False,False,False,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+401921691,2027,2550,Seton Hall,152,5238170,Trey Parker,1,G,False,False,False,25,7,2,5,0,2,3,4,0,1,1,4,1,0,2,3
+401921691,2027,2550,Seton Hall,152,5037870,Rodney Brown Jr.,6,G,False,False,False,36,24,7,11,4,6,6,6,0,2,2,0,0,0,3,0
+401921691,2027,2550,Seton Hall,152,4873143,Del Jones,0,G,False,False,False,8,0,0,3,0,0,0,0,0,0,0,0,1,0,3,1
+401921691,2027,2550,Seton Hall,152,5459480,Ilay Dolinski,26,F,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,2550,Seton Hall,152,5459479,Theo Airhienbuwa,14,F,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,2550,Seton Hall,152,5241916,Abdulai Fanta Kabba,77,C,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,2550,Seton Hall,152,5210796,Darien Moore Jr.,7,G,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,152,NC State,2550,5107567,Kyle Evans,14,F,True,False,False,18,4,1,1,0,0,2,2,0,4,4,0,0,0,1,1
+401921691,2027,152,NC State,2550,4684799,Ven-Allen Lubin,22,F,True,False,False,31,27,8,12,0,1,11,11,5,3,8,1,1,0,1,2
+401921691,2027,152,NC State,2550,5311972,Darius Adams,11,G,True,False,False,19,4,2,3,0,1,0,0,2,2,4,5,0,0,6,2
+401921691,2027,152,NC State,2550,5236222,Preston Edmead,0,G,True,False,False,33,14,3,9,1,4,7,8,0,0,0,5,0,0,3,5
+401921691,2027,152,NC State,2550,4873151,Paul McNeil Jr.,2,G,True,False,False,39,8,2,11,1,9,3,4,1,2,3,0,1,0,2,3
+401921691,2027,152,NC State,2550,5175078,Eemeli Yalaho,3,F,False,False,False,28,5,2,5,1,3,0,0,1,1,2,4,1,0,0,3
+401921691,2027,152,NC State,2550,5101858,Zymicah Wilkins,33,F,False,False,False,13,6,3,3,0,0,0,0,0,4,4,0,0,0,0,2
+401921691,2027,152,NC State,2550,5308008,Kingston Whitty,4,G,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401921691,2027,152,NC State,2550,5176359,Christian Hammond,1,G,False,False,False,33,13,6,13,1,4,0,0,0,0,0,3,2,0,2,1
+401921691,2027,152,NC State,2550,4683941,R.J. Keene II,5,G,False,False,False,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+401921691,2027,152,NC State,2550,5458777,Shah Hall,21,F,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,152,NC State,2550,5458776,Robert Jurkovic,13,F,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,152,NC State,2550,5103832,Comeh Emuobor,10,F,False,True,False,,,,,,,,,,,,,,,,
+401921691,2027,152,NC State,2550,5312352,Jacari Brim,6,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5461684,Terrance Hampton,33,F,True,False,False,28,16,6,9,0,0,4,6,3,3,6,0,1,0,0,3
+401925664,2027,2011,Alabama State,278,5107441,JaSteven Walker,25,F,True,False,False,22,7,3,5,1,2,0,0,1,3,4,1,0,1,0,4
+401925664,2027,2011,Alabama State,278,5114198,Damarion Bonds,7,G,True,False,False,29,8,4,9,0,4,0,0,2,0,2,1,3,1,2,4
+401925664,2027,2011,Alabama State,278,5108892,Trey Miller,5,G,True,False,False,25,14,7,12,0,1,0,0,1,0,1,1,1,0,0,3
+401925664,2027,2011,Alabama State,278,5106659,Paul McMillan IV,34,G,True,False,False,36,15,6,13,0,3,3,4,0,1,1,4,2,0,1,3
+401925664,2027,2011,Alabama State,278,5461681,Marquintez Dixon,2,F,False,False,False,15,3,1,6,0,1,1,2,2,2,4,2,2,0,0,1
+401925664,2027,2011,Alabama State,278,5105485,Isaiah Barganier,23,F,False,False,False,7,0,0,2,0,2,0,0,0,2,2,0,0,1,2,3
+401925664,2027,2011,Alabama State,278,5461682,Tre Powell,4,G,False,False,False,8,0,0,0,0,0,0,0,0,1,1,0,2,0,0,3
+401925664,2027,2011,Alabama State,278,5314773,Mike James,10,G,False,False,False,30,5,2,7,1,3,0,0,0,4,4,2,0,0,2,0
+401925664,2027,2011,Alabama State,278,5461680,Prince Mensah,1,F,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5314818,Joseph Scott,11,F,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5461679,Hasting Stewart,0,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5314532,Noah Benny,3,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5314342,Amaree Brown,15,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,2011,Alabama State,278,5242609,Jackson Rogers,22,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5241326,Bradey Henige,42,F,True,False,False,22,8,3,5,0,0,2,2,4,1,5,0,0,2,2,3
+401925664,2027,278,Fresno State,2011,5460803,Roger Fabrega Urpina,10,G,True,False,False,32,6,1,5,0,1,4,6,1,5,6,5,0,0,3,2
+401925664,2027,278,Fresno State,2011,5241241,Brian Amuneke,1,G,True,False,False,32,15,5,9,2,3,3,4,0,3,3,0,1,0,2,3
+401925664,2027,278,Fresno State,2011,5176445,Dragos Lungu,77,G,True,False,False,35,23,8,12,1,2,6,8,0,6,6,5,1,0,4,1
+401925664,2027,278,Fresno State,2011,5105864,Ross Candelino,30,G,True,False,False,38,20,6,10,3,6,5,5,1,3,4,2,0,0,4,1
+401925664,2027,278,Fresno State,2011,5460804,Marko Vuckovic,11,F,False,False,False,3,2,0,1,0,1,2,2,0,0,0,0,0,0,1,1
+401925664,2027,278,Fresno State,2011,5460800,Rylan Parsley,0,F,False,False,False,20,0,0,1,0,1,0,0,1,4,5,0,0,0,1,0
+401925664,2027,278,Fresno State,2011,4683770,Baye Fall,35,C,False,False,False,18,6,2,2,0,0,2,6,2,2,4,1,0,0,1,2
+401925664,2027,278,Fresno State,2011,5460805,Colin Schroeder,28,F,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5460802,Anthony Granger,8,F,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5460801,Yeshua Kesse-Beda,4,F,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5329424,KJ Perry,7,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5315580,Nathan Zulemie,80,G,False,True,False,,,,,,,,,,,,,,,,
+401925664,2027,278,Fresno State,2011,5254162,Quentin Rhymes,5,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5311912,Alon Michaeli,7,F,True,False,False,19,4,2,6,0,0,0,0,2,4,6,1,1,1,1,2
+401911252,2027,139,Saint Louis,2608,5183809,Ishan Sharma,9,F,True,False,False,15,2,0,1,0,1,2,2,0,0,0,0,0,0,3,5
+401911252,2027,139,Saint Louis,2608,5239707,Amari McCottry,4,G,True,False,False,31,21,6,11,2,5,7,9,0,0,0,3,4,0,3,3
+401911252,2027,139,Saint Louis,2608,5175171,Quentin Jones,1,G,True,False,False,27,5,2,6,0,2,1,1,1,3,4,6,1,0,3,5
+401911252,2027,139,Saint Louis,2608,4711258,Trey Green,3,G,True,False,False,31,15,5,8,4,7,1,2,1,2,3,2,1,0,1,3
+401911252,2027,139,Saint Louis,2608,5280899,Sheek Pearson,6,F,False,False,False,3,2,1,2,0,0,0,0,0,0,0,0,0,0,0,1
+401911252,2027,139,Saint Louis,2608,5236225,Jax Kerr,15,F,False,False,False,17,5,2,7,1,4,0,0,0,0,0,3,1,2,3,4
+401911252,2027,139,Saint Louis,2608,5254324,Luke Laczkowski,14,G,False,False,False,20,5,2,6,1,5,0,0,1,2,3,0,0,0,1,1
+401911252,2027,139,Saint Louis,2608,5254323,Cam Hutson,24,G,False,False,False,12,0,0,2,0,2,0,1,1,0,1,2,0,0,0,4
+401911252,2027,139,Saint Louis,2608,5105980,Kellen Thames,0,G,False,False,False,25,19,7,10,0,1,5,6,2,6,8,0,2,0,1,2
+401911252,2027,139,Saint Louis,2608,5311879,Badara Diakite,2,F,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5308443,Jamison White,10,F,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5174555,Elijah Strong,31,F,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5458287,Yousaf Ahmad,21,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5144478,Jermel Thomas,11,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,139,Saint Louis,2608,5107907,Isaac Holmes,12,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5311969,Vangelis Zougris,35,F,True,False,False,35,23,9,14,0,1,5,5,2,5,7,3,2,0,2,3
+401911252,2027,2608,Saint Mary's,139,4685682,Jazz Gardner,32,C,True,False,False,19,4,2,6,0,0,0,0,6,2,8,1,1,1,1,0
+401911252,2027,2608,Saint Mary's,139,5313030,Mantas Juzenas,0,G,True,False,False,40,25,6,11,5,9,8,8,3,7,10,2,2,1,4,3
+401911252,2027,2608,Saint Mary's,139,5189814,Jeremy Dent-Smith,2,G,True,False,False,33,16,3,10,1,6,9,10,1,4,5,2,0,0,3,3
+401911252,2027,2608,Saint Mary's,139,5183875,Joshua Dent,7,G,True,False,False,33,12,1,3,1,3,9,9,0,1,1,4,1,0,2,4
+401911252,2027,2608,Saint Mary's,139,5175014,Thomas Ndong,18,F,False,False,False,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,2
+401911252,2027,2608,Saint Mary's,139,5105421,Kevin Gad,24,F,False,False,False,6,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0
+401911252,2027,2608,Saint Mary's,139,5210403,Darius Bivins,1,G,False,False,False,28,13,3,10,1,6,6,6,0,2,2,4,3,0,1,2
+401911252,2027,2608,Saint Mary's,139,5123978,Rory Hawke,8,G,False,False,False,3,2,1,2,0,1,0,0,1,0,1,1,0,0,0,0
+401911252,2027,2608,Saint Mary's,139,5313032,Trent MacLean,42,F,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5218271,Jalen Lewis,25,F,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5458431,Flynn Pavely,5,C,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5311984,Salih Altuntas,11,C,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5458432,Cooper Lewis,20,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5311847,Luke Fennell,9,G,False,True,False,,,,,,,,,,,,,,,,
+401911252,2027,2608,Saint Mary's,139,5351500,Sam Curvy,3,NA,False,True,False,,,,,,,,,,,,,,,,
