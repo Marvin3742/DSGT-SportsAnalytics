@@ -1327,22 +1327,22 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 316,2027,Dickinson State,Blue Hawks,Dickinson State Blue Hawks,DSSU,,,False,000000,,
 2104,2027,Carroll (MT),Fighting Saints,Carroll (MT) Fighting Saints,CRMT,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2104.png
 130189,2027,Vermont State Randolph,Knights,Vermont State Randolph Knights,VTSR,,,False,,,
-124686,2027,Penn State Berks,PENN STATE-LEHIGH VALLEY,Penn State Berks PENN STATE-LEHIGH VALLEY,PSBK,,,False,,,
+124686,2027,Penn State Berks,Nittany Lions,Penn State Berks Nittany Lions,PSBK,,,False,,,
 2071,2027,Bloomsburg,Huskies,Bloomsburg Huskies,BBU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2071.png
 108842,2027,Emerson,Lions,Emerson Lions,EMRS,,,False,,,
 128326,2027,Carolina Christian,Centurions,Carolina Christian Centurions,NCCC,,,False,,,
 2902,2027,SUNY Fredonia,Blue Devils,SUNY Fredonia Blue Devils,SNYF,,,False,,,
 3166,2027,Arlington Baptist,Patriots,Arlington Baptist Patriots,ABU,,,False,,,
 2027,2027,Arkansas Baptist,Buffaloes,Arkansas Baptist Buffaloes,ARBA,,,False,,,
-2384,2027,Mercy,Mavericks,Mercy Mavericks,MRCY,,,False,000000,,
-3183,2027,Penn State Abington,Nittany Lions,Penn State Abington Nittany Lions,PSAB,,,False,,,
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
 2022,2027,American International,Yellow Jackets,American International Yellow Jackets,AIC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2022.png
 126822,2027,Grace Christian,Tigers,Grace Christian Tigers,GCRU,,,False,,,
 2683,2027,Warner,Royals,Warner Royals,WRNR,,,False,000000,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
+2384,2027,Mercy,Mavericks,Mercy Mavericks,MRCY,,,False,000000,,
+3183,2027,Penn State Abington,Nittany Lions,Penn State Abington Nittany Lions,PSAB,,,False,,,
 2963,2027,Case Western Reserve,Spartans,Case Western Reserve Spartans,CWRU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2963.png
 131761,2027,Bryant & Stratton (OH),Bobcats,Bryant & Stratton (OH) Bobcats,B&SO,,,False,,,
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2040,2027,Auburn Montgomery,Senators,Auburn Montgomery Senators,AUM,,,False,,,
 286,2027,North Carolina Wesleyan,Battling Bishops,North Carolina Wesleyan Battling Bishops,NCW,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/286.png
 130262,2027,IU Columbus,Crimson Pride,IU Columbus Crimson Pride,IUC,,,False,,,
@@ -1430,7 +1430,7 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2370,2027,UT Southern,Firehawks,UT Southern Firehawks,UTSO,,,False,,,
 2660,2027,UMass Boston,Beacons,UMass Boston Beacons,MBOS,,,False,,,
 2730,2027,William Carey,Crusaders,William Carey Crusaders,WILC,,,False,000000,,
-3109,2027,Ozarks (AR),Eagles,Ozarks (AR) Eagles,UOFO,,,False,,,
+3109,2027,Ozarks (AR),Eagles,Ozarks (AR) Eagles,UOFO,,,False,,,https://a.espncdn.com/guid/96bcf2e0-a1ac-37cb-a44f-4119b1c4044f/logos/default.png
 531,2027,Providence (MT),Argonauts,Providence (MT) Argonauts,PRMT,,,False,000000,,
 2281,2027,Huston Tillotson,Rams,Huston Tillotson Rams,HTU,,,False,000000,,
 2871,2027,Kean,Cougars,Kean Cougars,KEAN,,,False,092f56,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2871.png
