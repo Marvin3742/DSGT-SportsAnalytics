@@ -7680,23 +7680,14 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401911253,2027,2026-27,Regular Season,2026-11-24,2026-11-24 21:55,Final,True,True,False,Acrisure Series,2253,Grand Canyon,139,Saint Louis,91,88,2253,0,Acrisure Arena,Palm Springs,CA,,True
 401921712,2027,2026-27,Regular Season,2026-11-24,2026-11-24 22:30,Final,True,True,False,Southwest Maui Invitational,36,Colorado State,2670,VCU,81,84,2670,0,Lahaina Civic Center,Maui,HI,2400,True
 401909763,2027,2026-27,Regular Season,2026-11-25,2026-11-25 01:00,Final,True,True,False,Acrisure Series,24,Stanford,38,Colorado,65,70,38,0,Acrisure Arena,Palm Springs,CA,,True
-401920428,2027,2026-27,Regular Season,2026-11-25,2026-11-25 12:00,In Progress,False,True,False,Battle 4 Atlantis - Signature Series,269,Marquette,258,Virginia,,,,,Imperial Arena,Nassau,Bahamas,,False
-401921715,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:30,In Progress,False,True,False,Southwest Maui Invitational - Championship,12,Arizona,145,Ole Miss,,,,,Lahaina Civic Center,Maui,HI,,False
-401921669,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,True,False,Acrisure Series,9,Arizona State,99,LSU,,,,,Acrisure Arena,Palm Springs,CA,,False
-401926835,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,In Progress,False,False,False,,2619,Stony Brook,2815,Lindenwood,,,,,Stony Brook Arena,Stony Brook,NY,,False
-401924268,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,In Progress,False,True,False,Florida International MTE,299,Long Beach State,253,Southern Utah,,,,,Ocean Bank Convocation Center,Miami,FL,,False
-401920067,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,In Progress,False,False,False,,227,Rhode Island,2022,American International,,,,,Thomas M. Ryan Center,Kingston,RI,,False
-401911029,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,In Progress,False,False,False,,193,Miami (OH),2198,Eastern Kentucky,,,,,Millett Hall,Oxford,OH,,False
-401919007,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:30,In Progress,False,True,False,Fort Myers Tip-Off - Palms Division,2166,Davidson,2655,Tulane,,,,,Suncoast Credit Union Arena,Fort Myers,FL,,False
-401929406,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,233,South Dakota,2029,Arkansas-Pine Bluff,,,,,Sanford Coyote Sports Center,Vermillion,SD,,False
-401928850,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,2711,Western Michigan,126822,Grace Christian,,,,,University Arena (MI),Kalamazoo,MI,,False
-401926207,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,2717,Western Carolina,2410,Montreat,,,,,Ramsey Center,Cullowhee,NC,,False
-401924705,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,171,Columbia,2612,Saint Peter's,,,,,Levien Gymnasium,New York,NY,,False
-401922223,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,2454,North Florida,2683,Warner,,,,,UNF Arena,Jacksonville,FL,,False
-401920868,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,2885,NJIT,2363,Manhattan,,,,,Joel & Diane Bloom Wellness and Events Center,Newark,NJ,,False
-401917967,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,In Progress,False,False,False,,2571,South Dakota State,2000,Abilene Christian,,,,,First Bank & Trust Arena,Brookings,SD,,False
-401911311,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Halftime,False,False,False,,225,Brown,353,Johnson & Wales,,,,,Pizzitola Sports Center,Providence,RI,,False
-401920809,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:30,Delayed,False,True,False,Battle 4 Atlantis - Signature Series,2752,Xavier,245,Texas A&M,,,,,Imperial Arena,Nassau,Bahamas,,False
+401920428,2027,2026-27,Regular Season,2026-11-25,2026-11-25 12:00,Final,True,True,False,Battle 4 Atlantis - Signature Series,269,Marquette,258,Virginia,54,60,258,0,Imperial Arena,Nassau,Bahamas,1181,True
+401921715,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:30,Final,True,True,False,Southwest Maui Invitational - Championship,12,Arizona,145,Ole Miss,84,73,12,0,Lahaina Civic Center,Maui,HI,2400,True
+401909568,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,True,False,,41,UConn,150,Duke,63,77,150,0,T-Mobile Arena,Las Vegas,NV,8507,True
+401921670,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:17,Final,True,True,False,Acrisure Series,30,USC,2579,South Carolina,71,69,30,0,Acrisure Arena,Palm Springs,CA,,True
+401921716,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:30,Final,True,True,False,Southwest Maui Invitational - Third Place Game,2507,Providence,252,BYU,82,85,252,0,Lahaina Civic Center,Maui,HI,2400,True
+401921669,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,True,False,Acrisure Series,9,Arizona State,99,LSU,92,94,99,2,Acrisure Arena,Palm Springs,CA,,True
+401926065,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Final,True,False,False,,158,Nebraska,2582,Southern,101,72,158,0,Pinnacle Bank Arena,Lincoln,NE,15304,True
+401917182,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,True,False,Battle 4 Atlantis - Championship Bracket,213,Penn State,235,Memphis,70,83,235,0,Imperial Arena,Nassau,Bahamas,646,True
 401927399,2027,2026-27,Regular Season,2026-11-25,2026-11-25 10:00,Final,True,True,False,ESPN Events Invitational - Adventure Bracket,2057,Belmont,179,St. Bonaventure,68,71,179,0,State Farm Field House,Kissimmee,FL,,True
 401928845,2027,2026-27,Regular Season,2026-11-25,2026-11-25 11:00,Final,True,True,False,Jacksonville Classic,195,Ohio,242,Rice,74,82,242,0,The Reef,Jacksonville,FL,105,True
 401921702,2027,2026-27,Regular Season,2026-11-25,2026-11-25 11:00,Final,True,True,False,Fort Myers Tip-Off - Palms Division,2429,Charlotte,2460,Northern Iowa,85,72,2429,0,Suncoast Credit Union Arena,Fort Myers,FL,722,True
@@ -7705,56 +7696,65 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401919762,2027,2026-27,Regular Season,2026-11-25,2026-11-25 12:00,Final,True,False,False,,161,Fairleigh Dickinson,130189,Vermont State Randolph,123,48,161,0,Bogota Savings Bank Center,Hackensack,NJ,450,True
 401920547,2027,2026-27,Regular Season,2026-11-25,2026-11-25 12:30,Final,True,True,False,Cancun Challenge - Mayan Division - Consolation,2174,Detroit Mercy,2458,Northern Colorado,83,93,2458,0,Hard Rock Hotel Riviera Maya,Cancun,Mexico,250,True
 401928831,2027,2026-27,Regular Season,2026-11-25,2026-11-25 12:31,Final,True,True,False,ESPN Events Invitational - Adventure Bracket,2750,Wright State,43,Yale,70,72,43,0,State Farm Field House,Kissimmee,FL,,True
-401928836,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Scheduled,False,True,False,ESPN Events Invitational - Adventure Bracket,2026,App State,2006,Akron,,,,,State Farm Field House,Kissimmee,FL,,False
-401920548,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Scheduled,False,True,False,Cancun Challenge - Mayan Division - Championship,155,North Dakota,2545,SE Louisiana,,,,,Hard Rock Hotel Riviera Maya,Cancun,Mexico,,False
-401919042,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Scheduled,False,False,False,,197,Oklahoma State,2296,Jackson State,,,,,Gallagher-Iba Arena,Stillwater,OK,,False
-401928359,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:30,Scheduled,False,False,False,Florida International MTE,2229,Florida International,2032,Arkansas State,,,,,Ocean Bank Convocation Center,Miami,FL,,False
-401925943,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Scheduled,False,False,False,,3101,Utah Tech,3246,Bethesda,,,,,Burns Arena,St. George,UT,,False
-401925050,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Scheduled,False,False,False,,2443,LSU New Orleans,2755,Grambling,,,,,Lakefront Arena,New Orleans,LA,,False
-401924737,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Scheduled,False,True,False,Live Oak Bank Holiday Classic,2335,Liberty,163,Princeton,,,,,Trask Coliseum,Wilmington,NC,,False
-401921703,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Scheduled,False,True,False,Fort Myers Tip-Off - Palms Division,526,Florida Gulf Coast,2247,Georgia State,,,,,Suncoast Credit Union Arena,Fort Myers,FL,,False
-401920858,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Scheduled,False,False,False,,276,Marshall,2504,Prairie View A&M,,,,,Cam Henderson Center,Huntington,WV,,False
-401921670,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:30,Scheduled,False,True,False,Acrisure Series,30,USC,2579,South Carolina,,,,,Acrisure Arena,Palm Springs,CA,,False
-401926065,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Scheduled,False,False,False,,158,Nebraska,2582,Southern,,,,,Pinnacle Bank Arena,Lincoln,NE,,False
-401917182,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Scheduled,False,True,False,Battle 4 Atlantis - Championship Bracket,213,Penn State,235,Memphis,,,,,Imperial Arena,Nassau,Bahamas,,False
-401925917,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Scheduled,False,False,False,,27,UC Riverside,2502,Portland State,,,,,SRC Arena,Riverside,CA,,False
-401925688,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Scheduled,False,True,False,,326,Texas State,2016,Alcorn State,,,,,Thomas Assembly Center,Ruston,LA,,False
-401920237,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Scheduled,False,False,False,,159,Dartmouth,107,Holy Cross,,,,,Leede Arena,Hanover,NH,,False
-401921716,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:30,Scheduled,False,True,False,Southwest Maui Invitational - Third Place Game,2507,Providence,252,BYU,,,,,Lahaina Civic Center,Maui,HI,,False
-401922253,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Scheduled,False,False,False,,2466,Northwestern State,2697,West Florida,,,,,Prather Coliseum,Natchitoches,LA,,False
-401920549,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Scheduled,False,True,False,Cancun Challenge - Riviera Division - Consolation,232,Charleston,338,Kennesaw State,,,,,Hard Rock Hotel Riviera Maya,Cancun,Mexico,,False
-401920299,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Scheduled,False,False,False,,2692,Weber State,2463,Cal State Northridge,,,,,Dee Events Center,Ogden,UT,,False
-401911241,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Scheduled,False,False,False,,257,Richmond,2065,Bethune-Cookman,,,,,Robins Center,Richmond,VA,,False
-401909720,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Scheduled,False,False,False,,183,Syracuse,399,UAlbany,,,,,JMA Wireless Dome,Syracuse,NY,,False
-401909568,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,True,False,,150,Duke,41,UConn,,,,,T-Mobile Arena,Las Vegas,NV,,False
-401922285,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,2643,The Citadel,2908,South Carolina Upstate,,,,,McAlister Field House,Charleston,SC,,False
-401921170,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,325,Cleveland State,2963,Case Western Reserve,,,,,Wolstein Center,Cleveland,OH,,False
-401921108,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,94,Northern Kentucky,91,Bellarmine,,,,,Truist Arena,Highland Heights,KY,,False
-401920916,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,2565,SIU Edwardsville,2459,Northern Illinois,,,,,First Community Arena,Edwardsville,IL,,False
-401920847,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,350,UNC Wilmington,2900,St. Thomas,,,,,Trask Coliseum,Wilmington,NC,,False
-401920076,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,2244,George Mason,2344,Longwood,,,,,EagleBank Arena,Fairfax,VA,,False
-401918971,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,True,False,Acrisure Series,328,Utah State,2567,SMU,,,,,Acrisure Arena,Palm Springs,CA,,False
-401918960,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,152,NC State,2450,Norfolk State,,,,,Lenovo Center,Raleigh,NC,,False
-401911028,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Scheduled,False,False,False,,275,Wisconsin,111,Northeastern,,,,,Kohl Center,Madison,WI,,False
-401929287,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:30,Scheduled,False,True,False,Battle 4 Atlantis - Championship Bracket,344,Mississippi State,154,Wake Forest,,,,,Imperial Arena,Nassau,Bahamas,,False
-401920138,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:00,Scheduled,False,False,False,,2492,Pepperdine,2934,Cal State Bakersfield,,,,,Firestone Fieldhouse,Malibu,CA,,False
-401911522,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:00,Scheduled,False,True,False,Resorts World Classic,302,UC Davis,2437,Omaha,,,,,Resorts World Event Center,Las Vegas,NV,,False
-401920550,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:30,Scheduled,False,True,False,Cancun Challenge - Riviera Division - Championship,2638,UTEP,2199,Eastern Michigan,,,,,Hard Rock Hotel Riviera Maya,Cancun,Mexico,,False
-401925880,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Scheduled,False,False,False,,147,Montana State,3218,Northwest Indian,,,,,Worthington Arena,Bozeman,MT,,False
-401924897,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Scheduled,False,False,False,,167,New Mexico,2400,Mississippi Valley State,,,,,The Pit,Albuquerque,NM,,False
-401917545,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Scheduled,False,False,False,,2351,Loyola Marymount,331,Eastern Washington,,,,,Gersten Pavilion,Los Angeles,CA,,False
-401921671,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:30,Scheduled,False,True,False,Acrisure Series - Championship Game,38,Colorado,2253,Grand Canyon,,,,,Acrisure Arena,Palm Springs,CA,,False
-401921713,2027,2026-27,Regular Season,2026-11-25,2026-11-25 22:00,Scheduled,False,True,False,Southwest Maui Invitational - Fifth Place Game,2670,VCU,264,Washington,,,,,Lahaina Civic Center,Maui,HI,,False
-401917544,2027,2026-27,Regular Season,2026-11-25,2026-11-25 22:30,Scheduled,False,True,False,Resorts World Classic,55,Jacksonville State,279,Pacific,,,,,Resorts World Event Center,Las Vegas,NV,,False
-401929005,2027,2026-27,Regular Season,2026-11-25,2026-11-25 23:59,Scheduled,False,False,False,,62,Hawai'i,2916,Incarnate Word,,,,,Stan Sheriff Center,Honolulu,HI,,False
-401921672,2027,2026-27,Regular Season,2026-11-25,2026-11-25 23:59,Scheduled,False,True,False,Acrisure Series - Third Place Game,139,Saint Louis,24,Stanford,,,,,Acrisure Arena,Palm Springs,CA,,False
-401921714,2027,2026-27,Regular Season,2026-11-26,2026-11-26 00:30,Scheduled,False,True,False,Southwest Maui Invitational - Seventh Place Game,36,Colorado State,228,Clemson,,,,,Lahaina Civic Center,Maui,HI,,False
-401929281,2027,2026-27,Regular Season,2026-11-26,2026-11-26 11:00,Scheduled,False,True,False,ESPN Events Invitational - Magic Bracket,2132,Cincinnati,61,Georgia,,,,,State Farm Field House,Kissimmee,FL,,False
-401912231,2027,2026-27,Regular Season,2026-11-26,2026-11-26 12:00,Scheduled,False,False,False,,2636,UTSA,349,Army,,,,,UTSA Convocation Center,San Antonio,TX,,False
-401906807,2027,2026-27,Regular Season,2026-11-26,2026-11-26 12:00,Scheduled,False,True,False,Fort Myers Tip-Off - Beach Division,2509,Purdue,201,Oklahoma,,,,,Suncoast Credit Union Arena,Fort Myers,FL,,False
-401920528,2027,2026-27,Regular Season,2026-11-26,2026-11-26 13:00,Scheduled,False,True,False,Players Era 16,120,Maryland,21,San Diego State,,,,,Michelob ULTRA Arena,Las Vegas,NV,,False
-401929282,2027,2026-27,Regular Season,2026-11-26,2026-11-26 13:30,Scheduled,False,True,False,ESPN Events Invitational - Magic Bracket,2116,UCF,103,Boston College,,,,,State Farm Field House,Kissimmee,FL,,False
-401921674,2027,2026-27,Regular Season,2026-11-26,2026-11-26 14:00,Scheduled,False,True,False,Acrisure Series,9,Arizona State,2579,South Carolina,,,,,Acrisure Arena,Palm Springs,CA,,False
+401926835,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,Final,True,False,False,,2619,Stony Brook,2815,Lindenwood,69,63,2619,0,Stony Brook Arena,Stony Brook,NY,1309,True
+401924268,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,Final,True,True,False,Florida International MTE,299,Long Beach State,253,Southern Utah,65,64,299,0,Ocean Bank Convocation Center,Miami,FL,212,True
+401920067,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,Final,True,False,False,,227,Rhode Island,2022,American International,98,89,227,0,Thomas M. Ryan Center,Kingston,RI,2512,True
+401911029,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:00,Final,True,False,False,,193,Miami (OH),2198,Eastern Kentucky,85,72,193,0,Millett Hall,Oxford,OH,3211,True
+401919007,2027,2026-27,Regular Season,2026-11-25,2026-11-25 13:30,Final,True,True,False,Fort Myers Tip-Off - Palms Division,2166,Davidson,2655,Tulane,74,47,2166,0,Suncoast Credit Union Arena,Fort Myers,FL,722,True
+401929406,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,233,South Dakota,2029,Arkansas-Pine Bluff,86,50,233,0,Sanford Coyote Sports Center,Vermillion,SD,1080,True
+401928850,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,2711,Western Michigan,126822,Grace Christian,104,52,2711,0,University Arena (MI),Kalamazoo,MI,1349,True
+401926207,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,2717,Western Carolina,2410,Montreat,100,42,2717,0,Ramsey Center,Cullowhee,NC,840,True
+401924705,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,171,Columbia,2612,Saint Peter's,65,44,171,0,Levien Gymnasium,New York,NY,619,True
+401922223,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,2454,North Florida,2683,Warner,100,68,2454,0,UNF Arena,Jacksonville,FL,877,True
+401920868,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,2885,NJIT,2363,Manhattan,70,81,2363,0,Joel & Diane Bloom Wellness and Events Center,Newark,NJ,272,True
+401917967,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,2571,South Dakota State,2000,Abilene Christian,95,101,2000,0,First Bank & Trust Arena,Brookings,SD,1593,True
+401911311,2027,2026-27,Regular Season,2026-11-25,2026-11-25 14:00,Final,True,False,False,,225,Brown,353,Johnson & Wales,98,52,225,0,Pizzitola Sports Center,Providence,RI,377,True
+401928836,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Final,True,True,False,ESPN Events Invitational - Adventure Bracket,2026,App State,2006,Akron,76,66,2026,0,State Farm Field House,Kissimmee,FL,1067,True
+401920548,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Final,True,True,False,Cancun Challenge - Mayan Division - Championship,155,North Dakota,2545,SE Louisiana,72,73,2545,0,Hard Rock Hotel Riviera Maya,Cancun,Mexico,300,True
+401919042,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:00,Final,True,False,False,,197,Oklahoma State,2296,Jackson State,93,58,197,0,Gallagher-Iba Arena,Stillwater,OK,4788,True
+401928359,2027,2026-27,Regular Season,2026-11-25,2026-11-25 15:30,Final,True,False,False,Florida International MTE,2229,Florida International,2032,Arkansas State,88,92,2032,0,Ocean Bank Convocation Center,Miami,FL,571,True
+401925943,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Final,True,False,False,,3101,Utah Tech,3246,Bethesda,124,54,3101,0,Burns Arena,St. George,UT,1410,True
+401925050,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Final,True,False,False,,2443,LSU New Orleans,2755,Grambling,80,81,2755,1,Lakefront Arena,New Orleans,LA,784,True
+401924737,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Final,True,True,False,Live Oak Bank Holiday Classic,2335,Liberty,163,Princeton,72,79,163,0,Trask Coliseum,Wilmington,NC,374,True
+401921703,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Final,True,True,False,Fort Myers Tip-Off - Palms Division,526,Florida Gulf Coast,2247,Georgia State,77,72,526,0,Suncoast Credit Union Arena,Fort Myers,FL,722,True
+401920858,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:00,Final,True,False,False,,276,Marshall,2504,Prairie View A&M,64,58,276,0,Cam Henderson Center,Huntington,WV,3458,True
+401920809,2027,2026-27,Regular Season,2026-11-25,2026-11-25 16:13,Final,True,True,False,Battle 4 Atlantis - Signature Series,2752,Xavier,245,Texas A&M,88,83,2752,0,Imperial Arena,Nassau,Bahamas,,True
+401925917,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Final,True,False,False,,27,UC Riverside,2502,Portland State,65,72,2502,0,SRC Arena,Riverside,CA,183,True
+401925688,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Final,True,True,False,,326,Texas State,2016,Alcorn State,97,70,326,0,Thomas Assembly Center,Ruston,LA,168,True
+401920237,2027,2026-27,Regular Season,2026-11-25,2026-11-25 17:00,Final,True,False,False,,159,Dartmouth,107,Holy Cross,65,67,107,0,Leede Arena,Hanover,NH,1060,True
+401922253,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Final,True,False,False,,2466,Northwestern State,2697,West Florida,71,57,2466,0,Prather Coliseum,Natchitoches,LA,138,True
+401920549,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Final,True,True,False,Cancun Challenge - Riviera Division - Consolation,232,Charleston,338,Kennesaw State,91,77,232,0,Hard Rock Hotel Riviera Maya,Cancun,Mexico,515,True
+401920299,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Final,True,False,False,,2692,Weber State,2463,Cal State Northridge,67,89,2463,0,Dee Events Center,Ogden,UT,3895,True
+401911241,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Final,True,False,False,,257,Richmond,2065,Bethune-Cookman,86,79,257,0,Robins Center,Richmond,VA,4132,True
+401909720,2027,2026-27,Regular Season,2026-11-25,2026-11-25 18:00,Final,True,False,False,,183,Syracuse,399,UAlbany,74,53,183,0,JMA Wireless Dome,Syracuse,NY,18971,True
+401922285,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,2643,The Citadel,2908,South Carolina Upstate,72,54,2643,0,McAlister Field House,Charleston,SC,933,True
+401921170,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,325,Cleveland State,2963,Case Western Reserve,76,46,325,0,Wolstein Center,Cleveland,OH,1578,True
+401921108,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,94,Northern Kentucky,91,Bellarmine,52,66,91,0,Truist Arena,Highland Heights,KY,1898,True
+401920916,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,2565,SIU Edwardsville,2459,Northern Illinois,65,68,2459,1,First Community Arena,Edwardsville,IL,1019,True
+401920847,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,350,UNC Wilmington,2900,St. Thomas,86,77,350,1,Trask Coliseum,Wilmington,NC,4528,True
+401920076,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,2244,George Mason,2344,Longwood,93,58,2244,0,EagleBank Arena,Fairfax,VA,3068,True
+401918960,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,152,NC State,2450,Norfolk State,80,49,152,0,Lenovo Center,Raleigh,NC,11410,True
+401911028,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:00,Final,True,False,False,,275,Wisconsin,111,Northeastern,91,54,275,0,Kohl Center,Madison,WI,13850,True
+401918971,2027,2026-27,Regular Season,2026-11-25,2026-11-25 19:50,Final,True,True,False,Acrisure Series,328,Utah State,2567,SMU,93,59,328,0,Acrisure Arena,Palm Springs,CA,,True
+401920138,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:00,Final,True,False,False,,2492,Pepperdine,2934,Cal State Bakersfield,70,68,2492,0,Firestone Fieldhouse,Malibu,CA,701,True
+401911522,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:00,Final,True,True,False,Resorts World Classic,302,UC Davis,2437,Omaha,80,78,302,1,Resorts World Event Center,Las Vegas,NV,308,True
+401920550,2027,2026-27,Regular Season,2026-11-25,2026-11-25 20:45,Final,True,True,False,Cancun Challenge - Riviera Division - Championship,2638,UTEP,2199,Eastern Michigan,72,54,2638,0,Hard Rock Hotel Riviera Maya,Cancun,Mexico,616,True
+401925880,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Final,True,False,False,,147,Montana State,3218,Northwest Indian,110,43,147,0,Worthington Arena,Bozeman,MT,2396,True
+401924897,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Final,True,False,False,,167,New Mexico,2400,Mississippi Valley State,100,77,167,0,The Pit,Albuquerque,NM,11899,True
+401917545,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:00,Final,True,False,False,,2351,Loyola Marymount,331,Eastern Washington,81,72,2351,0,Gersten Pavilion,Los Angeles,CA,776,True
+401929287,2027,2026-27,Regular Season,2026-11-25,2026-11-25 21:29,Final,True,True,False,Battle 4 Atlantis - Championship Bracket,344,Mississippi State,154,Wake Forest,71,78,154,0,Imperial Arena,Nassau,Bahamas,515,True
+401921713,2027,2026-27,Regular Season,2026-11-25,2026-11-25 22:00,Final,True,True,False,Southwest Maui Invitational - Fifth Place Game,2670,VCU,264,Washington,80,78,2670,0,Lahaina Civic Center,Maui,HI,2400,True
+401921671,2027,2026-27,Regular Season,2026-11-25,2026-11-25 22:30,Final,True,True,False,Acrisure Series - Championship Game,38,Colorado,2253,Grand Canyon,73,79,2253,0,Acrisure Arena,Palm Springs,CA,,True
+401917544,2027,2026-27,Regular Season,2026-11-25,2026-11-25 22:55,Final,True,True,False,Resorts World Classic,55,Jacksonville State,279,Pacific,83,76,55,0,Resorts World Event Center,Las Vegas,NV,,True
+401929005,2027,2026-27,Regular Season,2026-11-25,2026-11-25 23:59,Final,True,False,False,,62,Hawai'i,2916,Incarnate Word,83,81,62,1,Stan Sheriff Center,Honolulu,HI,3983,True
+401921714,2027,2026-27,Regular Season,2026-11-26,2026-11-26 00:30,Final,True,True,False,Southwest Maui Invitational - Seventh Place Game,36,Colorado State,228,Clemson,77,75,36,0,Lahaina Civic Center,Maui,HI,2400,True
+401921672,2027,2026-27,Regular Season,2026-11-26,2026-11-26 01:08,Final,True,True,False,Acrisure Series - Third Place Game,139,Saint Louis,24,Stanford,66,64,139,0,Acrisure Arena,Palm Springs,CA,,True
+401920528,2027,2026-27,Regular Season,2026-11-26,2026-11-26 13:00,In Progress,False,True,False,Players Era 16,21,San Diego State,120,Maryland,,,,,Michelob ULTRA Arena,Las Vegas,NV,,False
+401929282,2027,2026-27,Regular Season,2026-11-26,2026-11-26 13:30,In Progress,False,True,False,ESPN Events Invitational - Magic Bracket,2116,UCF,103,Boston College,,,,,State Farm Field House,Kissimmee,FL,,False
+401921674,2027,2026-27,Regular Season,2026-11-26,2026-11-26 14:00,In Progress,False,True,False,Acrisure Series,2579,South Carolina,9,Arizona State,,,,,Acrisure Arena,Palm Springs,CA,,False
+401929281,2027,2026-27,Regular Season,2026-11-26,2026-11-26 11:00,Final,True,True,False,ESPN Events Invitational - Magic Bracket,2132,Cincinnati,61,Georgia,83,81,2132,0,State Farm Field House,Kissimmee,FL,,True
+401912231,2027,2026-27,Regular Season,2026-11-26,2026-11-26 12:00,Final,True,False,False,,2636,UTSA,349,Army,61,79,349,0,UTSA Convocation Center,San Antonio,TX,676,True
+401906807,2027,2026-27,Regular Season,2026-11-26,2026-11-26 12:00,Final,True,True,False,Fort Myers Tip-Off - Beach Division,2509,Purdue,201,Oklahoma,63,70,201,0,Suncoast Credit Union Arena,Fort Myers,FL,3500,True
 401906869,2027,2026-27,Regular Season,2026-11-26,2026-11-26 14:30,Scheduled,False,True,False,Rady Children's Invitational,251,Texas,46,Georgetown,,,,,Jenny Craig Pavilion,San Diego,CA,,False
 401920529,2027,2026-27,Regular Season,2026-11-26,2026-11-26 15:30,Scheduled,False,True,False,Players Era 16,66,Iowa State,2633,Tennessee,,,,,Michelob ULTRA Arena,Las Vegas,NV,,False
 401920537,2027,2026-27,Regular Season,2026-11-26,2026-11-26 15:30,Scheduled,False,True,False,Players Era 16,130,Michigan,2390,Miami,,,,,T-Mobile Arena,Las Vegas,NV,,False
@@ -7776,7 +7776,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401921416,2027,2026-27,Regular Season,2026-11-27,2026-11-27 13:00,Scheduled,False,True,False,Capital Thanksgiving Classic,2349,UMass Lowell,2261,Hampton,,,,,Bender Arena,Washington,DC,,False
 401920753,2027,2026-27,Regular Season,2026-11-27,2026-11-27 13:00,Scheduled,False,False,False,,2754,Youngstown State,131761,Bryant & Stratton (OH),,,,,Zidian Family Arena at Beeghly Center,Youngstown,OH,,False
 401920533,2027,2026-27,Regular Season,2026-11-27,2026-11-27 13:00,Scheduled,False,True,True,Players Era 16 - Third Place Game,-1,TBD,-2,TBD,,,,,Michelob ULTRA Arena,Las Vegas,NV,,False
-401929288,2027,2026-27,Regular Season,2026-11-27,2026-11-27 13:30,Scheduled,False,True,True,Battle 4 Atlantis - Championship Bracket,-1,TBD,-2,TBD,,,,,Imperial Arena,Nassau,Bahamas,,False
+401929288,2027,2026-27,Regular Season,2026-11-27,2026-11-27 13:30,Scheduled,False,True,False,Battle 4 Atlantis - Championship Bracket,235,Memphis,154,Wake Forest,,,,,Imperial Arena,Nassau,Bahamas,,False
 401921827,2027,2026-27,Regular Season,2026-11-27,2026-11-27 14:00,Scheduled,False,False,False,,238,Vanderbilt,2582,Southern,,,,,Memorial Gymnasium (TN),Nashville,TN,,False
 401929407,2027,2026-27,Regular Season,2026-11-27,2026-11-27 14:00,Scheduled,False,False,False,,233,South Dakota,2965,Clarke,,,,,Sanford Coyote Sports Center,Vermillion,SD,,False
 401929181,2027,2026-27,Regular Season,2026-11-27,2026-11-27 14:00,Scheduled,False,True,False,Second Line Showcase,278,Fresno State,6,South Alabama,,,,,Convocation Center (LA),New Orleans,LA,,False
@@ -7812,7 +7812,7 @@ game_id,season,season_label,season_type,game_date,tipoff_et,status,completed,neu
 401912711,2027,2026-27,Regular Season,2026-11-27,2026-11-27 19:00,Scheduled,False,True,False,Dick Vitale Invitational pres. by Belk,153,North Carolina,277,West Virginia,,,,,Spectrum Center,Charlotte,NC,,False
 401911380,2027,2026-27,Regular Season,2026-11-27,2026-11-27 19:00,Scheduled,False,False,False,ETSU MTE,2193,East Tennessee State,2127,Charleston Southern,,,,,Freedom Hall (TN),Johnson City,TN,,False
 401925703,2027,2026-27,Regular Season,2026-11-27,2026-11-27 19:30,Scheduled,False,False,False,,248,Houston,2473,Oakland,,,,,Fertitta Center,Houston,TX,,False
-401929289,2027,2026-27,Regular Season,2026-11-27,2026-11-27 19:30,Scheduled,False,True,True,Battle 4 Atlantis - Championship Bracket,-1,TBD,-2,TBD,,,,,Imperial Arena,Nassau,Bahamas,,False
+401929289,2027,2026-27,Regular Season,2026-11-27,2026-11-27 19:30,Scheduled,False,True,False,Battle 4 Atlantis - Championship Bracket,344,Mississippi State,213,Penn State,,,,,Imperial Arena,Nassau,Bahamas,,False
 401929381,2027,2026-27,Regular Season,2026-11-27,2026-11-27 20:00,Scheduled,False,False,False,,2031,Little Rock,6371,Lane College,,,,,Jack Stephens Center,Little Rock,AR,,False
 401928624,2027,2026-27,Regular Season,2026-11-27,2026-11-27 20:00,Scheduled,False,False,False,,198,Oral Roberts,2623,Missouri State,,,,,Mabee Center,Tulsa,OK,,False
 401925829,2027,2026-27,Regular Season,2026-11-27,2026-11-27 20:00,Scheduled,False,True,False,Snake River Invitational,249,North Texas,2449,North Dakota State,,,,,Mountain America Center,Idaho Falls,ID,,False
