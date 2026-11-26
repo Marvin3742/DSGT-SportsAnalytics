@@ -78,7 +78,8 @@ One row per team per game, from that team's point of view. Every game appears tw
 | conference_game | Conference game |
 | result | `W` or `L` |
 | team_score, opponent_score, margin | Points scored, allowed, and the difference |
-| rank, opponent_rank | AP poll rank at game time (blank if unranked) |
+| rank, opponent_rank | AP poll rank at game time (blank if unranked, and in NCAA tournament games) |
+| seed, opponent_seed | NCAA tournament seed (1-16; blank outside NCAA tournament games) |
 | fgm, fga, fg_pct | Field goals made, attempted, percentage |
 | fg3m, fg3a, fg3_pct | Three-pointers |
 | ftm, fta, ft_pct | Free throws |

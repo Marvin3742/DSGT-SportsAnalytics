@@ -1,0 +1,112 @@
+[
+ {
+  "id": "401856478",
+  "date": "2026-03-19T19:00Z",
+  "name": "Siena Saints at Duke Blue Devils",
+  "season": {
+   "year": 2026,
+   "type": 3,
+   "slug": "post-season"
+  },
+  "competitions": [
+   {
+    "id": "401856478",
+    "date": "2026-03-19T19:00Z",
+    "type": {
+     "id": "6",
+     "abbreviation": "TRNMNT"
+    },
+    "neutralSite": true,
+    "conferenceCompetition": false,
+    "venue": {
+     "id": "4808",
+     "fullName": "Bon Secours Wellness Arena",
+     "address": {
+      "city": "Greenville",
+      "state": "SC"
+     },
+     "indoor": true
+    },
+    "competitors": [
+     {
+      "id": "150",
+      "homeAway": "home",
+      "winner": true,
+      "score": "71",
+      "linescores": [
+       {
+        "value": 32.0,
+        "displayValue": "32",
+        "period": 1
+       },
+       {
+        "value": 39.0,
+        "displayValue": "39",
+        "period": 2
+       }
+      ],
+      "curatedRank": {
+       "current": 1
+      },
+      "team": {
+       "id": "150",
+       "location": "Duke",
+       "name": "Blue Devils",
+       "abbreviation": "DUKE",
+       "conferenceId": "2"
+      }
+     },
+     {
+      "id": "2561",
+      "homeAway": "away",
+      "winner": false,
+      "score": "65",
+      "linescores": [
+       {
+        "value": 43.0,
+        "displayValue": "43",
+        "period": 1
+       },
+       {
+        "value": 22.0,
+        "displayValue": "22",
+        "period": 2
+       }
+      ],
+      "curatedRank": {
+       "current": 16
+      },
+      "team": {
+       "id": "2561",
+       "location": "Siena",
+       "name": "Saints",
+       "abbreviation": "SIE",
+       "conferenceId": "13"
+      }
+     }
+    ],
+    "notes": [
+     {
+      "type": "event",
+      "headline": "NCAA Men's Basketball Championship - East Region - 1st Round"
+     }
+    ],
+    "status": {
+     "clock": 0.0,
+     "displayClock": "0:00",
+     "period": 2,
+     "type": {
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
+     }
+    },
+    "tournamentId": 22
+   }
+  ]
+ }
+]

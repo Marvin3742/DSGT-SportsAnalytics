@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 from cbb.config import LOCAL_TZ
 
 UNRANKED = 99
+NCAA_TOURNAMENT = "NCAA Men's Basketball Championship"
 SEASON_TYPES = {1: "Preseason", 2: "Regular Season", 3: "Postseason"}
 RECORD_COLUMNS = ("wins", "losses", "conf_wins", "conf_losses")
 
@@ -96,6 +97,7 @@ def parse_team_games(events, summaries):
         comp = event["competitions"][0]
         done = comp["status"]["type"]["completed"]
         box = _team_box_stats(summaries.get(event["id"]))
+        ncaa = _is_ncaa_tournament(comp)
         for team, opponent in permutations(comp["competitors"]):
             team_score, opponent_score = _score(team, done), _score(opponent, done)
             row = {
@@ -115,8 +117,10 @@ def parse_team_games(events, summaries):
                 "opponent_score": opponent_score,
                 "margin": team_score - opponent_score if done else None,
                 "overtimes": max(len(team.get("linescores", [])) - 2, 0) if done else None,
-                "rank": _rank(team),
-                "opponent_rank": _rank(opponent),
+                "rank": None if ncaa else _rank(team),
+                "opponent_rank": None if ncaa else _rank(opponent),
+                "seed": _rank(team) if ncaa else None,
+                "opponent_seed": _rank(opponent) if ncaa else None,
                 **_stat_columns(box.get(int(team["id"]), {}), TEAM_STATS),
             }
             rows.append(row | _percentages(row))
@@ -293,8 +297,13 @@ def _percentages(row):
     }
 
 
+def _is_ncaa_tournament(comp):
+    """Return whether a game is in the NCAA tournament, where ESPN's rank field holds seeds."""
+    return any(n.get("headline", "").startswith(NCAA_TOURNAMENT) for n in comp.get("notes", []))
+
+
 def _rank(competitor):
-    """Return a competitor's AP rank at game time, or None when unranked."""
+    """Return ESPN's curated rank (AP rank, or NCAA tournament seed), or None when unranked."""
     rank = competitor.get("curatedRank", {}).get("current")
     return rank if rank and rank != UNRANKED else None
 

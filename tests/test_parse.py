@@ -152,3 +152,19 @@ def test_player_box_skips_athletes_without_ids(summary):
     assert len(parse_player_box(summary)) == len(group["athletes"]) - 1 + len(
         summary["boxscore"]["players"][1]["statistics"][0]["athletes"]
     )
+
+
+def test_ncaa_tournament_rank_is_seed():
+    duke, siena = sorted(
+        parse_team_games(load("scoreboard_ncaa_tournament.json"), {}),
+        key=lambda r: r["team"] != "Duke",
+    )
+    assert (duke["rank"], duke["opponent_rank"]) == (None, None)
+    assert (duke["seed"], duke["opponent_seed"]) == (1, 16)
+    assert (siena["seed"], siena["opponent_seed"]) == (16, 1)
+
+
+def test_regular_season_rank_is_ap_rank(events, summaries):
+    duke = by_id(parse_team_games(events, summaries), game_id=DUKE_GAME, team_id=DUKE)
+    assert (duke["rank"], duke["opponent_rank"]) == (6, None)
+    assert (duke["seed"], duke["opponent_seed"]) == (None, None)
