@@ -1349,8 +1349,6 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 2648,2027,Toccoa Falls,Eagles,Toccoa Falls Eagles,TOCC,,,False,000000,,
 2779,2027,St. Lawrence,Saints,St. Lawrence Saints,USL,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2779.png
 2163,2027,Dallas,Crusaders,Dallas Crusaders,DALL,,,False,,,
--1,2027,TBD,TBD,TBD,TBD,,,False,,,
--2,2027,TBD,TBD,TBD,TBD,,,False,,,
 108838,2027,Mitchell,Mariners,Mitchell Mariners,MITC,,,False,,,
 134948,2027,Georgia Southern-East Georgia,Golden Eagles,Georgia Southern-East Georgia Golden Eagles,GSEG,,,False,,,
 2932,2027,Point,Skyhawks,Point Skyhawks,PONT,,,False,000000,,
@@ -1372,6 +1370,8 @@ team_id,season,team,nickname,display_name,abbreviation,conference_id,conference,
 121894,2027,North Central (MN),Rams,North Central (MN) Rams,NCU,,,False,,,
 2042,2027,Augustana (IL),Vikings,Augustana (IL) Vikings,AUGC,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2042.png
 2685,2027,Wartburg,Knights,Wartburg Knights,WTBG,,,False,f5822b,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2685.png
+-1,2027,TBD,TBD,TBD,TBD,,,False,,,
+-2,2027,TBD,TBD,TBD,TBD,,,False,,,
 2304,2027,Johnson C. Smith,Golden Bulls,Johnson C. Smith Golden Bulls,JCSU,,,False,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2304.png
 3173,2027,Pensacola Christian,PENSACOLA CHRISTIAN,Pensacola Christian PENSACOLA CHRISTIAN,PCC,,,False,,,
 134752,2027,Florida Polytechnic,Phoenix,Florida Polytechnic Phoenix,FLO,,,False,,,
